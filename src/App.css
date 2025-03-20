@@ -11,3 +11,7 @@
   visibility: visible;
   transition-delay: 0.3s;
 }
+
+.tag:hover > div {
+  visibility: visible;
+}

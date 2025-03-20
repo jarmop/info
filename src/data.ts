@@ -1,10 +1,11 @@
-const data = [{
+const rawData = [{
   name: "MySQL",
   date: "1995-5-23",
   description: "-",
 }, {
   name: "Netscape Navigator",
   date: "1994-10",
+  tags: ["Mosaic", "browser", "NCSA", "Netscape", "Mozilla", "Internet", "Web"],
   description:
     "- Developed by people who had developed Mosaic browser for NCSA in 1993. They had started company called Mosaic Communications Corporation in April 1994, and in october of the same year they released Mosaic Netscape 0.9 which was soon renamed to Netscape Navigator. The company was also renamed to Netscape.\n- Internally referred to as Mozilla, meaning the Mosaic killer",
 }, {
@@ -29,7 +30,7 @@ const data = [{
   description: "- developed by Brendan Eich at Netscape",
 }] as const;
 
-export type Datum = typeof data[number];
+export type Datum = typeof rawData[number];
 
 function compare(a: Datum, b: Datum) {
   if (a.date < b.date) return -1;
@@ -37,6 +38,6 @@ function compare(a: Datum, b: Datum) {
   else return 0;
 }
 
-const sortedData = data.toSorted(compare);
+export const data = rawData.toSorted(compare);
 
-export default sortedData;
+export const names = data.map((d) => d.name);

@@ -2,7 +2,7 @@ import { Datum } from "./data.ts";
 
 export function Sidebar({ datum }: { datum?: Datum }) {
   return (
-    <div className="w-100 bg-gray-100 p-2">
+    <div className="w-100 bg-gray-200 p-2 pt-0">
       <input
         type="text"
         defaultValue={datum?.name}
