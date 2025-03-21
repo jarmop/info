@@ -8,6 +8,7 @@ import { Header } from "./Header.tsx";
 function App() {
   const [activeBox, setActiveBox] = useState("");
   const [visibleData, setVisibleData] = useState<string[]>([]);
+  const [mode, setMode] = useState("flow");
 
   return (
     <>
@@ -17,6 +18,8 @@ function App() {
           !visibleData.includes(name) && setVisibleData([...visibleData, name])}
         removeVisibleData={(name: string) =>
           setVisibleData(visibleData.filter((n) => n !== name))}
+        mode={mode}
+        setMode={setMode}
       />
       <div className="flex flex-row">
         <InlineBlocks
