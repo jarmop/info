@@ -14,6 +14,7 @@ function InlineBlocks(
           <Box
             key={d.name}
             d={d}
+            active={activeBox === d.name}
             onClick={() =>
               activeBox === d.name ? setActiveBox("") : setActiveBox(d.name)}
           />
@@ -23,17 +24,28 @@ function InlineBlocks(
   );
 }
 
+interface BoxProps {
+  d: Datum;
+  active: boolean;
+  onClick: () => void;
+}
+
 function Box(
-  { d, onClick }: { d: Datum; onClick: () => void },
+  { d, active, onClick }: BoxProps,
 ) {
   return (
-    <div className="box relative text-sm inline-block align-top">
-      <div className="border-2 p-2 m-1 cursor-pointer">
-        <h3 onClick={onClick}>
+    <div
+      onClick={onClick}
+      className={`m-1 box relative text-sm inline-block align-top ${
+        active ? "active" : ""
+      }`}
+    >
+      <div className="border-2 p-2 cursor-pointer">
+        <h3>
           {`${d.date} ${d.name}`}
         </h3>
       </div>
-      <div className="description invisible absolute z-10 border-2 p-2 m-1 -mt-2 top-full cursor-pointer w-max h-max min-w-full min-h-full">
+      <div className="description invisible absolute z-10 border-1 p-2 top-full cursor-pointer w-max h-max min-w-full min-h-full">
         <textarea
           className="resize-none field-sizing-content block cursor-pointer focus-visible:outline-0 max-w-100"
           readOnly

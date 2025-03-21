@@ -28,7 +28,6 @@ export function Header(
         className="bg-white p-1"
         value={value}
         onChange={(e) => {
-          console.log(e);
           if ("data" in e.nativeEvent) {
             setValue(e.target.value);
           } else {
@@ -44,7 +43,7 @@ export function Header(
           setValue("");
         }}
       />
-      {visibleData.map((name) => (
+      {false && visibleData.map((name) => (
         <div
           key={name}
           className="tag ml-2 bg-blue-300 p-1 text-sm inline-block relative cursor-pointer"
