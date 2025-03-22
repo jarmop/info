@@ -1,3 +1,6 @@
+import { useMemo } from 'react'
+import { useVisibleData } from './store.ts'
+
 const rawData = [{
   name: 'MySQL',
   date: '1995-5-23',
@@ -41,3 +44,12 @@ function compare(a: Datum, b: Datum) {
 export const data = rawData.toSorted(compare)
 
 export const names = data.map((d) => d.name)
+
+export function useData() {
+  const { visibleData } = useVisibleData()
+  const filteredData = useMemo(
+    () => data.filter((d) => visibleData.includes(d.name)),
+    [visibleData],
+  )
+  return filteredData
+}

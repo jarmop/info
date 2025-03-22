@@ -1,16 +1,13 @@
 import { Fragment, useEffect, useState } from 'react'
-import { Datum } from './data.ts'
+import { Datum, useData } from './data.ts'
 
 // const years: number[] = [];
 // for (let i = 1900; i < 2026; i++) {
 //   years.push(i);
 // }
 
-interface TimelineProps {
-  data: Datum[]
-}
-
-export function Timeline({ data }: TimelineProps) {
+export function Timeline() {
+  const data = useData()
   const [dataByYear, setDataByYear] = useState<Record<string, Datum[]>>({})
 
   useEffect(() => {

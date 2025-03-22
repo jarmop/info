@@ -1,12 +1,10 @@
-import { Datum } from './data.ts'
+import { Datum, useData } from './data.ts'
+import { useActiveBox } from './store.ts'
 
-function InlineBlocks(
-  { data, activeBox, setActiveBox }: {
-    data: Datum[]
-    activeBox: string
-    setActiveBox: (name: string) => void
-  },
-) {
+function InlineBlocks() {
+  const data = useData()
+  const { activeBox, setActiveBox } = useActiveBox()
+
   return (
     <div className='m-2'>
       <div className='-m-1'>

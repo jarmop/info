@@ -1,18 +1,10 @@
 import { useState } from 'react'
 import { names } from './data.ts'
+import { useMode, useVisibleData } from './store.ts'
 
-interface HeaderProps {
-  visibleData: string[]
-  setVisibleData: (name: string) => void
-  removeVisibleData: (name: string) => void
-  mode: string
-  setMode: (mode: string) => void
-}
-
-export function Header(
-  { visibleData, setVisibleData, removeVisibleData, mode, setMode }:
-    HeaderProps,
-) {
+export function Header() {
+  const { visibleData, addVisibleData, removeVisibleData } = useVisibleData()
+  const { mode, setMode } = useMode()
   const [value, setValue] = useState('')
 
   const suggestions = names.filter((name) => !visibleData.includes(name))
@@ -31,7 +23,7 @@ export function Header(
           if ('data' in e.nativeEvent) {
             setValue(e.target.value)
           } else {
-            setVisibleData(e.target.value)
+            addVisibleData(e.target.value)
             setValue('')
           }
         }}
@@ -39,7 +31,7 @@ export function Header(
         onKeyUp={(e) => {
           if (e.key !== 'Enter') return
 
-          setVisibleData(value)
+          addVisibleData(value)
           setValue('')
         }}
       />

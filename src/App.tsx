@@ -1,26 +1,21 @@
-import { useEffect, useState } from 'react'
+import { useEffect } from 'react'
 import './App.css'
 import InlineBlocks from './InlineBlocks.tsx'
 import { Sidebar } from './Sidebar.tsx'
 import { data } from './data.ts'
 import { Header } from './Header.tsx'
 import { Timeline } from './Timeline.tsx'
+import { useActiveBox, useMode, useVisibleData } from './store.ts'
 
 function App() {
-  const [activeBox, setActiveBox] = useState('')
-  const [visibleData, setVisibleData] = useState<string[]>([
-    'Java',
-    'PHP',
-    'JavaScript',
-  ])
-  const [mode, setMode] = useState('timeline')
+  const { activeBox, setActiveBox } = useActiveBox()
+  const { removeVisibleData } = useVisibleData()
+  const { mode } = useMode()
 
   useEffect(() => {
     function onKeyPress(e: KeyboardEvent) {
       if (e.key === 'Delete') {
-        setVisibleData((visibleData) =>
-          visibleData.filter((name) => name !== activeBox)
-        )
+        removeVisibleData(activeBox)
         setActiveBox('')
       }
     }
@@ -29,27 +24,11 @@ function App() {
     return () => document.removeEventListener('keypress', onKeyPress)
   }, [activeBox])
 
-  const filteredData = data.filter((d) => visibleData.includes(d.name))
-
   return (
     <>
-      <Header
-        visibleData={visibleData}
-        setVisibleData={(name: string) =>
-          !visibleData.includes(name) && setVisibleData([...visibleData, name])}
-        removeVisibleData={(name: string) =>
-          setVisibleData(visibleData.filter((n) => n !== name))}
-        mode={mode}
-        setMode={setMode}
-      />
+      <Header />
       <div className='flex flex-row'>
-        {mode === 'timeline' ? <Timeline data={filteredData} /> : (
-          <InlineBlocks
-            data={filteredData}
-            activeBox={activeBox}
-            setActiveBox={setActiveBox}
-          />
-        )}
+        {mode === 'timeline' ? <Timeline /> : <InlineBlocks />}
 
         {false && <Sidebar datum={data.find((d) => d.name === activeBox)} />}
       </div>

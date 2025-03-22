@@ -11,7 +11,8 @@
     "npm:react@19": "19.0.0",
     "npm:tailwindcss@^4.0.14": "4.0.14",
     "npm:vite@*": "6.2.2",
-    "npm:vite@^6.2.2": "6.2.2"
+    "npm:vite@^6.2.2": "6.2.2",
+    "npm:zustand@^5.0.3": "5.0.3_@types+react@19.0.11_react@19.0.0"
   },
   "jsr": {
     "@std/assert@1.0.11": {
@@ -692,6 +693,13 @@
     },
     "yallist@3.1.1": {
       "integrity": "sha512-a4UGQaWPH59mOXUYnAG2ewncQS4i4F43Tv3JoAM+s2VDAmS9NsK8GpDMLrCHPksFT7h3K6TOoUNn2pb7RoXx4g=="
+    },
+    "zustand@5.0.3_@types+react@19.0.11_react@19.0.0": {
+      "integrity": "sha512-14fwWQtU3pH4dE0dOpdMiWjddcH+QzKIgk1cl8epwSE7yag43k/AD/m4L6+K7DytAOr9gGBe3/EXj9g7cdostg==",
+      "dependencies": [
+        "@types/react",
+        "react"
+      ]
     }
   },
   "workspace": {
@@ -704,7 +712,8 @@
       "npm:react-dom@19",
       "npm:react@19",
       "npm:tailwindcss@^4.0.14",
-      "npm:vite@^6.2.2"
+      "npm:vite@^6.2.2",
+      "npm:zustand@^5.0.3"
     ]
   }
 }
