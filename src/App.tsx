@@ -1,35 +1,35 @@
-import { useEffect, useState } from "react";
-import "./App.css";
-import InlineBlocks from "./InlineBlocks.tsx";
-import { Sidebar } from "./Sidebar.tsx";
-import { data } from "./data.ts";
-import { Header } from "./Header.tsx";
-import { Timeline } from "./Timeline.tsx";
+import { useEffect, useState } from 'react'
+import './App.css'
+import InlineBlocks from './InlineBlocks.tsx'
+import { Sidebar } from './Sidebar.tsx'
+import { data } from './data.ts'
+import { Header } from './Header.tsx'
+import { Timeline } from './Timeline.tsx'
 
 function App() {
-  const [activeBox, setActiveBox] = useState("");
+  const [activeBox, setActiveBox] = useState('')
   const [visibleData, setVisibleData] = useState<string[]>([
-    "Java",
-    "PHP",
-    "JavaScript",
-  ]);
-  const [mode, setMode] = useState("timeline");
+    'Java',
+    'PHP',
+    'JavaScript',
+  ])
+  const [mode, setMode] = useState('timeline')
 
   useEffect(() => {
     function onKeyPress(e: KeyboardEvent) {
-      if (e.key === "Delete") {
+      if (e.key === 'Delete') {
         setVisibleData((visibleData) =>
           visibleData.filter((name) => name !== activeBox)
-        );
-        setActiveBox("");
+        )
+        setActiveBox('')
       }
     }
-    document.addEventListener("keypress", onKeyPress);
+    document.addEventListener('keypress', onKeyPress)
 
-    return () => document.removeEventListener("keypress", onKeyPress);
-  }, [activeBox]);
+    return () => document.removeEventListener('keypress', onKeyPress)
+  }, [activeBox])
 
-  const filteredData = data.filter((d) => visibleData.includes(d.name));
+  const filteredData = data.filter((d) => visibleData.includes(d.name))
 
   return (
     <>
@@ -42,8 +42,8 @@ function App() {
         mode={mode}
         setMode={setMode}
       />
-      <div className="flex flex-row">
-        {mode === "timeline" ? <Timeline data={filteredData} /> : (
+      <div className='flex flex-row'>
+        {mode === 'timeline' ? <Timeline data={filteredData} /> : (
           <InlineBlocks
             data={filteredData}
             activeBox={activeBox}
@@ -54,7 +54,7 @@ function App() {
         {false && <Sidebar datum={data.find((d) => d.name === activeBox)} />}
       </div>
     </>
-  );
+  )
 }
 
-export default App;
+export default App
