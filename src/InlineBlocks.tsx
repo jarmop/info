@@ -3,18 +3,15 @@ import { useActiveBox } from './store.ts'
 
 function InlineBlocks() {
   const data = useData()
-  const { activeBox, setActiveBox } = useActiveBox()
 
   return (
     <div className='m-2'>
-      <div className='-m-1'>
+      <div className='-m-1 flex flex-row flex-wrap'>
         {data.map((d) => (
           <Box
             key={d.name}
             d={d}
-            active={activeBox === d.name}
-            onClick={() =>
-              activeBox === d.name ? setActiveBox('') : setActiveBox(d.name)}
+            showYear
           />
         ))}
       </div>
@@ -24,24 +21,26 @@ function InlineBlocks() {
 
 interface BoxProps {
   d: Datum
-  active: boolean
-  onClick: () => void
+  showYear?: boolean
 }
 
-function Box(
-  { d, active, onClick }: BoxProps,
+export function Box(
+  { d, showYear = false }: BoxProps,
 ) {
+  const { activeBox, setActiveBox } = useActiveBox()
+
+  const title = (showYear ? d.date + ' ' : '') + d.name
+
   return (
     <div
-      onClick={onClick}
-      className={`m-1 box relative text-sm inline-block align-top ${
-        active ? 'active' : ''
+      onClick={() =>
+        activeBox === d.name ? setActiveBox('') : setActiveBox(d.name)}
+      className={`m-1 box relative text-sm ${
+        activeBox === d.name ? 'active' : ''
       }`}
     >
-      <div className='border-2 p-2 cursor-pointer'>
-        <h3>
-          {`${d.date} ${d.name}`}
-        </h3>
+      <div className='border-2 p-1 cursor-pointer'>
+        {title}
       </div>
       <div className='description invisible absolute z-10 border-1 p-2 top-full cursor-pointer w-max h-max min-w-full min-h-full'>
         <textarea

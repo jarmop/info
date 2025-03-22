@@ -1,8 +1,6 @@
 import { useEffect } from 'react'
 import './App.css'
 import InlineBlocks from './InlineBlocks.tsx'
-import { Sidebar } from './Sidebar.tsx'
-import { data } from './data.ts'
 import { Header } from './Header.tsx'
 import { Timeline } from './Timeline.tsx'
 import { useActiveBox, useMode, useVisibleData } from './store.ts'
@@ -27,11 +25,7 @@ function App() {
   return (
     <>
       <Header />
-      <div className='flex flex-row'>
-        {mode === 'timeline' ? <Timeline /> : <InlineBlocks />}
-
-        {false && <Sidebar datum={data.find((d) => d.name === activeBox)} />}
-      </div>
+      {mode === 'timeline' ? <Timeline /> : <InlineBlocks />}
     </>
   )
 }

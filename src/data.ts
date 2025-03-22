@@ -6,6 +6,11 @@ const rawData = [{
   date: '1995-5-23',
   description: '-',
 }, {
+  name: 'ARPANET',
+  date: '1969',
+  description:
+    '- Advanced Research Projects Agency Network\n- the first wide-area packet-switched network with distributed control and one of the first computer networks to implement the TCP/IP protocol suite. Both technologies became the technical foundation of the Internet.\n- Initiated in 1966, first computers connected in 1969',
+}, {
   name: 'Netscape Navigator',
   date: '1994-10',
   tags: ['Mosaic', 'browser', 'NCSA', 'Netscape', 'Mozilla', 'Internet', 'Web'],
@@ -19,6 +24,31 @@ const rawData = [{
   name: 'PHP',
   date: '1995-6-8',
   description: '-',
+}, {
+  name: 'TCP (Transmission Control Protocol)',
+  date: '1974',
+  description: '-',
+  tags: ['RFC'],
+}, {
+  name: 'UDP (User Datagram Protocol)',
+  date: '1980',
+  description: '-',
+  tags: ['RFC'],
+}, {
+  name: 'SSL (Secure Sockets Layer)',
+  date: '1994',
+  description: '-',
+  tags: ['RFC', 'security'],
+}, {
+  name: 'TLS (Transport Layer Security)',
+  date: '1999',
+  description: '-',
+  tags: ['RFC', 'security'],
+}, {
+  name: '(DTLS) Datagram Transport Layer Security',
+  date: '2008',
+  description: '-',
+  tags: ['RFC', 'security'],
 }, {
   name: 'IMDB',
   date: '1990',
