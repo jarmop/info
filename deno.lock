@@ -6,6 +6,7 @@
     "npm:@tailwindcss/vite@^4.0.14": "4.0.14_vite@6.2.2_lightningcss@1.29.2",
     "npm:@types/react-dom@^19.0.4": "19.0.4_@types+react@19.0.11",
     "npm:@types/react@^19.0.11": "19.0.11",
+    "npm:@types/wicg-file-system-access@^2023.10.5": "2023.10.5",
     "npm:@vitejs/plugin-react@^4.3.4": "4.3.4_vite@6.2.2_@babel+core@7.26.10",
     "npm:react-dom@19": "19.0.0_react@19.0.0",
     "npm:react@19": "19.0.0",
@@ -433,6 +434,9 @@
         "csstype"
       ]
     },
+    "@types/wicg-file-system-access@2023.10.5": {
+      "integrity": "sha512-e9kZO9kCdLqT2h9Tw38oGv9UNzBBWaR1MzuAavxPcsV/7FJ3tWbU6RI3uB+yKIDPGLkGVbplS52ub0AcRLvrhA=="
+    },
     "@vitejs/plugin-react@4.3.4_vite@6.2.2_@babel+core@7.26.10": {
       "integrity": "sha512-SCCPBJtYLdE8PX/7ZQAs1QAZ8Jqwih+0VBLum1EGqmCCQal+MIUqLCzj3ZUy8ufbC0cAM4LRlSTm7IQJwWT4ug==",
       "dependencies": [
@@ -708,6 +712,7 @@
       "npm:@tailwindcss/vite@^4.0.14",
       "npm:@types/react-dom@^19.0.4",
       "npm:@types/react@^19.0.11",
+      "npm:@types/wicg-file-system-access@^2023.10.5",
       "npm:@vitejs/plugin-react@^4.3.4",
       "npm:react-dom@19",
       "npm:react@19",

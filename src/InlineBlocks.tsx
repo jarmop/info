@@ -1,13 +1,12 @@
-import { Datum, useData } from './data.ts'
-import { useActiveBox } from './store.ts'
+import { Datum, useActiveBox, useData } from './store.ts'
 
 function InlineBlocks() {
-  const data = useData()
+  const { visibleData } = useData()
 
   return (
     <div className='m-2'>
       <div className='-m-1 flex flex-row flex-wrap'>
-        {data.map((d) => (
+        {visibleData.map((d) => (
           <Box
             key={d.name}
             d={d}
@@ -39,7 +38,7 @@ export function Box(
         activeBox === d.name ? 'active' : ''
       }`}
     >
-      <div className='border-2 p-1 cursor-pointer'>
+      <div className='border-1 p-1 cursor-pointer'>
         {title}
       </div>
       <div className='description invisible absolute z-10 border-1 p-2 top-full cursor-pointer w-max h-max min-w-full min-h-full'>

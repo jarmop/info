@@ -1,14 +1,9 @@
 import { Fragment, useEffect, useState } from 'react'
-import { Datum, useData } from './data.ts'
 import { Box } from './InlineBlocks.tsx'
-
-// const years: number[] = [];
-// for (let i = 1900; i < 2026; i++) {
-//   years.push(i);
-// }
+import { Datum, useData } from './store.ts'
 
 export function Timeline() {
-  const data = useData()
+  const { visibleData } = useData()
   const [dataByYear, setDataByYear] = useState<Record<string, Datum[]>>({})
   const [years, setYears] = useState<number[]>([])
   const [showAllYears, setShowAllYears] = useState(false)
@@ -16,7 +11,7 @@ export function Timeline() {
   useEffect(() => {
     const newDataByYear: typeof dataByYear = {}
 
-    data.forEach((d) => {
+    visibleData.forEach((d) => {
       const year = parseInt(d.date.split('-')[0])
       if (!newDataByYear[year]) {
         newDataByYear[year] = []
@@ -35,7 +30,7 @@ export function Timeline() {
     setDataByYear(newDataByYear)
     setYears(newYears)
     // setYears(dataYears)
-  }, [data])
+  }, [visibleData])
 
   const visibleYears = showAllYears
     ? years
