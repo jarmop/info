@@ -1,8 +1,14 @@
 import { sortById } from './helpers.ts'
 import { Datum, useData } from './store.ts'
+import { get, set } from 'idb-keyval'
 
 async function saveData(data: Datum[]) {
-  const [fileHandle] = await globalThis.showOpenFilePicker()
+  let fileHandle = await get('fileHandle')
+  if (!fileHandle) {
+    ;[fileHandle] = await globalThis.showOpenFilePicker()
+    set('fileHandle', fileHandle)
+  }
+
   const writable = await fileHandle.createWritable()
 
   const rawData = JSON.stringify(sortById(data))

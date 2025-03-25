@@ -75,5 +75,12 @@
     "description": "-",
     "tags": ["RFC", "security"],
     "id": 23
+  },
+  {
+    "name": "RFC 1 “Host Software”",
+    "date": "1969-4-7",
+    "description": "- Steve Crocker",
+    "tags": ["RFC"],
+    "id": 24
   }
 ]
