@@ -30,15 +30,30 @@ export function Sidebar() {
       className='w-120 bg-gray-200 p-2 pt-0 absolute right-0 top-0'
     >
       <input
+        placeholder='name'
         type='text'
-        className='bg-white p-2 w-full'
+        className='bg-white p-1 w-full'
         value={item.name}
         onChange={(e) => setItem({ ...item, name: e.target.value })}
       />
+      <input
+        placeholder='date'
+        type='text'
+        className='bg-white mt-2 p-1'
+        value={item.date}
+        onChange={(e) => setItem({ ...item, date: e.target.value })}
+      />
       <textarea
-        className='resize bg-white p-2 field-sizing-content block mt-2 w-full min-h-50'
+        placeholder='description'
+        className='resize bg-white p-1 field-sizing-content block mt-2 w-full min-h-50'
         value={item.description}
         onChange={(e) => setItem({ ...item, description: e.target.value })}
+      />
+      <textarea
+        placeholder='tags'
+        className='resize bg-white p-1 field-sizing-content block mt-2 w-full'
+        value={item.tags?.join(', ')}
+        onChange={(e) => setItem({ ...item, tags: e.target.value.split(', ') })}
       />
       <div className='flex justify-between mt-4'>
         <button
