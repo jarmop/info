@@ -1,4 +1,4 @@
-import { Datum, useActiveBox, useData } from './store.ts'
+import { Datum, useActiveBox, useData, useVisibleIds } from './store.ts'
 
 function InlineBlocks() {
   const { visibleData } = useData()
@@ -27,7 +27,7 @@ export function Box(
   { d, showYear = false }: BoxProps,
 ) {
   const { activeBox, setActiveBox } = useActiveBox()
-
+  const { removeVisibleId } = useVisibleIds()
   const title = (showYear ? d.date + ' ' : '') + d.name
 
   return (
@@ -36,6 +36,8 @@ export function Box(
       className={`m-1 box relative text-sm ${
         activeBox === d.id ? 'active' : ''
       }`}
+      onKeyUp={(e) => e.key === 'Delete' && removeVisibleId(d.id)}
+      tabIndex={0}
     >
       <div className='border-1 p-1 cursor-pointer'>
         {title}

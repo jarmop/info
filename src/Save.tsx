@@ -9,8 +9,6 @@ async function saveData(data: Datum[]) {
 
   await writable.write(rawData)
   await writable.close()
-
-  console.log(fileHandle)
 }
 
 export function Save() {
