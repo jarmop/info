@@ -5,7 +5,7 @@ const defaultItem = { id: -1, name: '', description: '', date: '' }
 
 export function Sidebar() {
   const { activeItem } = useActiveBox()
-  const { updateData } = useData()
+  const { updateData, addData } = useData()
   const [item, setItem] = useState(activeItem)
 
   useEffect(() => {
@@ -51,6 +51,7 @@ export function Sidebar() {
         <button
           type='button'
           className='bg-green-300 p-1 cursor-pointer hover:bg-green-500'
+          onClick={() => addData(item)}
         >
           Create new
         </button>

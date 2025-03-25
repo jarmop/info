@@ -1,11 +1,11 @@
-import { sort } from './helpers.ts'
+import { sortById } from './helpers.ts'
 import { Datum, useData } from './store.ts'
 
 async function saveData(data: Datum[]) {
   const [fileHandle] = await globalThis.showOpenFilePicker()
   const writable = await fileHandle.createWritable()
 
-  const rawData = JSON.stringify(sort(data))
+  const rawData = JSON.stringify(sortById(data))
 
   await writable.write(rawData)
   await writable.close()

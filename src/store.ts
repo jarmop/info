@@ -2,7 +2,7 @@ import { create } from 'zustand'
 import { persist } from 'zustand/middleware'
 import rawData from './assets/data.json' with { type: 'json' }
 import { useMemo } from 'react'
-import { sort } from './helpers.ts'
+import { sortByDate } from './helpers.ts'
 
 export type Datum = typeof rawData[number]
 
@@ -125,7 +125,7 @@ export function useData() {
   const { visibleIds } = useVisibleIds()
   const data = useStore((state) => state.data)
   const visibleData = useMemo(() => {
-    return sort(data.filter((d) => visibleIds.includes(d.id)))
+    return sortByDate(data.filter((d) => visibleIds.includes(d.id)))
   }, [data, visibleIds])
 
   return {
