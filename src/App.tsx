@@ -3,29 +3,25 @@ import './App.css'
 import InlineBlocks from './InlineBlocks.tsx'
 import { Header } from './Header.tsx'
 import { Timeline } from './Timeline.tsx'
-import { useActiveBox, useData, useMode, useVisibleIds } from './store.ts'
+import { useActiveBox, useData, useMode } from './store.ts'
 import { Sidebar } from './Sidebar.tsx'
 
 function App() {
   const { activeBox, setActiveBox } = useActiveBox()
-  const { removeVisibleId: removeVisibleData } = useVisibleIds()
   const { mode } = useMode()
   const { duplicateDatum } = useData()
 
   useEffect(() => {
-    function onKeyPress(e: KeyboardEvent) {
-      if (e.key === 'Delete') {
-        removeVisibleData(activeBox)
-        setActiveBox(0)
-      } else if (e.ctrlKey && e.key === 'c') {
+    function onKeyUp(e: KeyboardEvent) {
+      if (e.ctrlKey && e.key === 'c') {
         duplicateDatum(activeBox)
       } else if (e.key === 'Escape') {
         setActiveBox(0)
       }
     }
-    document.addEventListener('keyup', onKeyPress)
+    document.addEventListener('keyup', onKeyUp)
 
-    return () => document.removeEventListener('keyup', onKeyPress)
+    return () => document.removeEventListener('keyup', onKeyUp)
   }, [activeBox])
 
   return (
