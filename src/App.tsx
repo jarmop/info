@@ -3,11 +3,12 @@ import './App.css'
 import InlineBlocks from './InlineBlocks.tsx'
 import { Header } from './Header.tsx'
 import { Timeline } from './Timeline.tsx'
-import { useActiveBox, useData, useMode, useVisibleNames } from './store.ts'
+import { useActiveBox, useData, useMode, useVisibleIds } from './store.ts'
+import { Sidebar } from './Sidebar.tsx'
 
 function App() {
   const { activeBox, setActiveBox } = useActiveBox()
-  const { removeVisibleNames: removeVisibleData } = useVisibleNames()
+  const { removeVisibleId: removeVisibleData } = useVisibleIds()
   const { mode } = useMode()
   const { duplicateDatum } = useData()
 
@@ -15,11 +16,11 @@ function App() {
     function onKeyPress(e: KeyboardEvent) {
       if (e.key === 'Delete') {
         removeVisibleData(activeBox)
-        setActiveBox('')
-      }
-      if (e.ctrlKey && e.key === 'c') {
-        console.log(e)
+        setActiveBox(0)
+      } else if (e.ctrlKey && e.key === 'c') {
         duplicateDatum(activeBox)
+      } else if (e.key === 'Escape') {
+        setActiveBox(0)
       }
     }
     document.addEventListener('keyup', onKeyPress)
@@ -30,7 +31,10 @@ function App() {
   return (
     <>
       <Header />
-      {mode === 'timeline' ? <Timeline /> : <InlineBlocks />}
+      <div className='relative'>
+        {mode === 'timeline' ? <Timeline /> : <InlineBlocks />}
+        <Sidebar />
+      </div>
     </>
   )
 }

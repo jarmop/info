@@ -53,7 +53,7 @@ export function Timeline() {
           <Fragment key={year}>
             <div className='p-1'>{year}</div>
             <div className='flex flex-row flex-wrap'>
-              {dataByYear[year]?.map((d) => <Box key={d.name} d={d} />)}
+              {dataByYear[year]?.map((d) => <Box key={d.id} d={d} />)}
             </div>
           </Fragment>
         ))}

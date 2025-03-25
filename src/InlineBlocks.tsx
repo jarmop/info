@@ -8,7 +8,7 @@ function InlineBlocks() {
       <div className='-m-1 flex flex-row flex-wrap'>
         {visibleData.map((d) => (
           <Box
-            key={d.name}
+            key={d.id}
             d={d}
             showYear
           />
@@ -32,10 +32,9 @@ export function Box(
 
   return (
     <div
-      onClick={() =>
-        activeBox === d.name ? setActiveBox('') : setActiveBox(d.name)}
+      onClick={() => activeBox === d.id ? setActiveBox(0) : setActiveBox(d.id)}
       className={`m-1 box relative text-sm ${
-        activeBox === d.name ? 'active' : ''
+        activeBox === d.id ? 'active' : ''
       }`}
     >
       <div className='border-1 p-1 cursor-pointer'>

@@ -9,7 +9,7 @@
 
 .box:hover .description {
   visibility: visible;
-  transition-delay: 0.3s;
+  transition-delay: 0.5s;
 }
 
 .tag:hover > div {
