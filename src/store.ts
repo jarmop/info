@@ -25,6 +25,7 @@ interface State {
   setData: (data: Datum[]) => void
   addData: (datum: Datum) => void
   updateData: (datum: Datum) => void
+  removeData: (id: number) => void
   duplicateDatum: (id: number) => void
 }
 
@@ -71,6 +72,12 @@ export const useStore = create<State>()(
 
         set({ data: newData })
       },
+      removeData: (id) =>
+        set({
+          data: get().data.filter((d) => d.id !== id),
+          activeBox: 0,
+          visibleIds: get().visibleIds.filter((i) => i !== id),
+        }),
       duplicateDatum: (id) => {
         const data = get().data
         const itemToDuplicate = data.find((d) => d.id === id)
@@ -134,6 +141,7 @@ export function useData() {
     setData: useStore((state) => state.setData),
     addData: useStore((state) => state.addData),
     updateData: useStore((state) => state.updateData),
+    removeData: useStore((state) => state.removeData),
     duplicateDatum: useStore((state) => state.duplicateDatum),
   }
 }
