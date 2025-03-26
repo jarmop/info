@@ -61,6 +61,7 @@ export const useStore = create<State>()(
         set({
           data: [...get().data, newItem],
           visibleIds: [...get().visibleIds, newItem.id],
+          activeBox: newItem.id,
         })
       },
       updateData: (datum) => {
@@ -90,6 +91,7 @@ export const useStore = create<State>()(
         set({
           data: [...data, newItem],
           visibleIds: [...get().visibleIds, newItem.id],
+          activeBox: newItem.id,
         })
       },
     }),
