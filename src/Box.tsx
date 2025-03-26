@@ -1,4 +1,4 @@
-import { Datum, useActiveBox, useVisibleIds } from './store.ts'
+import { Datum, useActiveBox, useData, useVisibleIds } from './store.ts'
 
 interface BoxProps {
   d: Datum
@@ -10,6 +10,7 @@ export function Box(
 ) {
   const { activeBox, setActiveBox } = useActiveBox()
   const { removeVisibleId } = useVisibleIds()
+  const { duplicateDatum } = useData()
   const title = (showYear ? d.date + ' ' : '') + d.name
 
   return (
@@ -18,7 +19,15 @@ export function Box(
       className={`m-1 box relative text-sm ${
         activeBox === d.id ? 'active' : ''
       }`}
-      onKeyUp={(e) => e.key === 'Delete' && removeVisibleId(d.id)}
+      onKeyUp={(e) => {
+        if (e.key === 'Delete') {
+          removeVisibleId(d.id)
+        } else if (e.ctrlKey && e.key === 'c') {
+          duplicateDatum(activeBox)
+        } else if (e.key === 'Escape') {
+          setActiveBox(0)
+        }
+      }}
       tabIndex={0}
     >
       <div className='border-1 p-1 cursor-pointer'>
