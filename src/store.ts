@@ -27,6 +27,8 @@ interface State {
   updateData: (datum: Datum) => void
   removeData: (id: number) => void
   duplicateDatum: (id: number) => void
+  selectedTags: string[]
+  setSelectedTags: (tags: string[]) => void
 }
 
 function getNextId(data: Datum[]) {
@@ -94,6 +96,8 @@ export const useStore = create<State>()(
           activeBox: newItem.id,
         })
       },
+      selectedTags: [],
+      setSelectedTags: (tags) => set({ selectedTags: tags }),
     }),
     {
       name: 'foo',
@@ -132,10 +136,16 @@ export function useMode() {
 
 export function useData() {
   const { visibleIds } = useVisibleIds()
+  const { selectedTags } = useTags()
   const data = useStore((state) => state.data)
   const visibleData = useMemo(() => {
-    return sortByDate(data.filter((d) => visibleIds.includes(d.id)))
-  }, [data, visibleIds])
+    return sortByDate(
+      data.filter((d) =>
+        visibleIds.includes(d.id) ||
+        selectedTags.some((selectedTag) => d.tags?.includes(selectedTag))
+      ),
+    )
+  }, [data, visibleIds, selectedTags])
 
   return {
     data,
@@ -145,5 +155,18 @@ export function useData() {
     updateData: useStore((state) => state.updateData),
     removeData: useStore((state) => state.removeData),
     duplicateDatum: useStore((state) => state.duplicateDatum),
+  }
+}
+
+export function useTags() {
+  const setSelectedTags = useStore((state) => state.setSelectedTags)
+  const selectedTags = useStore((state) => state.selectedTags)
+
+  return {
+    selectedTags,
+    selectTag: (tag: string) => setSelectedTags([...selectedTags, tag]),
+    deselectTag: (tag: string) =>
+      setSelectedTags(selectedTags.filter((t) => t !== tag)),
+    resetSelectedTags: () => setSelectedTags([]),
   }
 }
