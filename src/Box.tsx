@@ -24,13 +24,15 @@ export function Box(
       <div className='border-1 p-1 cursor-pointer'>
         {title}
       </div>
-      <div className='description invisible absolute z-10 border-1 p-2 top-full cursor-pointer w-max h-max min-w-full min-h-full'>
+      {
+        /* <div className='description invisible absolute z-10 border-1 p-2 top-full cursor-pointer w-max h-max min-w-full min-h-full'>
         <textarea
           className='resize-none field-sizing-content block cursor-pointer focus-visible:outline-0 max-w-100'
           readOnly
           defaultValue={d.description}
         />
-      </div>
+      </div> */
+      }
     </div>
   )
 }

@@ -4,7 +4,7 @@ import { useActiveBox, useData } from './store.ts'
 const defaultItem = { id: -1, name: '', description: '', date: '' }
 
 export function Sidebar() {
-  const { activeItem } = useActiveBox()
+  const { activeItem, setActiveBox } = useActiveBox()
   const { updateData, addData, removeData } = useData()
   const [item, setItem] = useState(activeItem)
 
@@ -56,13 +56,24 @@ export function Sidebar() {
         onChange={(e) => setItem({ ...item, tags: e.target.value.split(', ') })}
       />
       <div className='flex justify-between mt-4'>
-        <button
-          type='button'
-          className='bg-green-300 p-1 cursor-pointer hover:bg-green-500'
-          onClick={() => updateData(item)}
-        >
-          Save
-        </button>
+        <div>
+          <button
+            type='button'
+            className='bg-green-300 p-1 cursor-pointer hover:bg-green-500'
+            onClick={() => item.id > 0 ? updateData(item) : addData(item)}
+          >
+            Save
+          </button>
+          <button
+            type='button'
+            className='p-1 cursor-pointer hover:bg-gray-300'
+            onClick={() => {
+              setItem(undefined), setActiveBox(0)
+            }}
+          >
+            Cancel
+          </button>
+        </div>
         {item.id > 0 && (
           <button
             type='button'
@@ -72,13 +83,6 @@ export function Sidebar() {
             Delete
           </button>
         )}
-        <button
-          type='button'
-          className='bg-green-300 p-1 cursor-pointer hover:bg-green-500'
-          onClick={() => addData(item)}
-        >
-          Create new
-        </button>
       </div>
     </div>
   )
