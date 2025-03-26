@@ -4,6 +4,7 @@
     "jsr:@std/assert@1": "1.0.11",
     "jsr:@std/internal@^1.0.5": "1.0.5",
     "npm:@tailwindcss/vite@^4.0.14": "4.0.14_vite@6.2.2_lightningcss@1.29.2",
+    "npm:@types/lodash@^4.17.16": "4.17.16",
     "npm:@types/react-dom@^19.0.4": "19.0.4_@types+react@19.0.11",
     "npm:@types/react@^19.0.11": "19.0.11",
     "npm:@types/wicg-file-system-access@^2023.10.5": "2023.10.5",
@@ -424,6 +425,9 @@
     "@types/estree@1.0.6": {
       "integrity": "sha512-AYnb1nQyY49te+VRAVgmzfcgjYS91mY5P0TKUDCLEM+gNnA+3T6rWITXRLYCpahpqSQbN5cE+gHpnPyXjHWxcw=="
     },
+    "@types/lodash@4.17.16": {
+      "integrity": "sha512-HX7Em5NYQAXKW+1T+FiuG27NGwzJfCX3s1GjOa7ujxZa52kjJLOr4FUxT+giF6Tgxv1e+/czV/iTtBw27WTU9g=="
+    },
     "@types/react-dom@19.0.4_@types+react@19.0.11": {
       "integrity": "sha512-4fSQ8vWFkg+TGhePfUzVmat3eC14TXYSsiiDSLI0dVLsrm9gZFABjPy/Qu6TKgl1tq1Bu1yDsuQgY3A3DOjCcg==",
       "dependencies": [
@@ -718,6 +722,7 @@
     "dependencies": [
       "jsr:@std/assert@1",
       "npm:@tailwindcss/vite@^4.0.14",
+      "npm:@types/lodash@^4.17.16",
       "npm:@types/react-dom@^19.0.4",
       "npm:@types/react@^19.0.11",
       "npm:@types/wicg-file-system-access@^2023.10.5",
