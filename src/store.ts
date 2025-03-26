@@ -22,7 +22,7 @@ interface State {
   mode: string
   setMode: (mode: string) => void
   data: Datum[]
-  setData: (data: Datum[]) => void
+  resetData: () => void
   addData: (datum: Datum) => void
   updateData: (datum: Datum) => void
   removeData: (id: number) => void
@@ -54,7 +54,7 @@ export const useStore = create<State>()(
       mode: 'timeline',
       setMode: (mode) => set({ mode }),
       data: rawData,
-      setData: (data) => set({ data }),
+      resetData: () => set({ data: rawData }),
       addData: (datum) => {
         const data = get().data
         const newItem = { ...datum, id: getNextId(data) }
@@ -138,7 +138,7 @@ export function useData() {
   return {
     data,
     visibleData,
-    setData: useStore((state) => state.setData),
+    resetData: useStore((state) => state.resetData),
     addData: useStore((state) => state.addData),
     updateData: useStore((state) => state.updateData),
     removeData: useStore((state) => state.removeData),

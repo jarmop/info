@@ -14,7 +14,7 @@ export function Header() {
   const suggestions = data.filter((d) => !visibleIds.includes(d.id))
 
   return (
-    <div className='bg-gray-200 p-3 flex justify-between'>
+    <div className='bg-gray-200 p-1 flex justify-between'>
       <div className='flex'>
         <datalist id='names'>
           {suggestions.map((d) => (
