@@ -1,6 +1,6 @@
 import { Fragment, useEffect, useState } from 'react'
-import { Box } from './InlineBlocks.tsx'
 import { Datum, useData } from './store.ts'
+import { Box } from './Box.tsx'
 
 export function Timeline() {
   const { visibleData } = useData()
