@@ -46,7 +46,8 @@
     "name": "JavaScript",
     "date": "1995-12-4",
     "description": "- developed by Brendan Eich at Netscape",
-    "id": 17
+    "id": 17,
+    "tags": ["Programming", "Programming language"]
   },
   { "name": "MySQL", "date": "1995-5-23", "description": "-", "id": 18 },
   {
@@ -82,5 +83,12 @@
     "description": "- Steve Crocker",
     "tags": ["RFC"],
     "id": 24
+  },
+  {
+    "id": 25,
+    "name": "C",
+    "description": "",
+    "date": "1972",
+    "tags": ["Programming", "Programming language"]
   }
 ]

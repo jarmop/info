@@ -17,6 +17,7 @@ interface State {
   activeId: number
   setActiveId: (id: number) => void
   visibleIds: number[]
+  setVisibleIds: (ids: number[]) => void
   addVisibleId: (id: number) => void
   removeVisibleId: (id: number) => void
   mode: string
@@ -41,6 +42,7 @@ export const useStore = create<State>()(
       activeId: 0,
       setActiveId: (id: number) => set({ activeId: id }),
       visibleIds: [1, 2, 3, 4, 5, 6],
+      setVisibleIds: (id) => set({ visibleIds: id }),
       addVisibleId: (name) =>
         set(
           !get().visibleIds.includes(name)
@@ -120,8 +122,11 @@ export function useActiveItem() {
 }
 
 export function useVisibleIds() {
+  const setVisibleIds = useStore((state) => state.setVisibleIds)
+
   return {
     visibleIds: useStore((state) => state.visibleIds),
+    clearVisibleIds: () => setVisibleIds([]),
     addVisibleId: useStore((state) => state.addVisibleId),
     removeVisibleId: useStore((state) => state.removeVisibleId),
   }
@@ -167,6 +172,6 @@ export function useTags() {
     selectTag: (tag: string) => setSelectedTags([...selectedTags, tag]),
     deselectTag: (tag: string) =>
       setSelectedTags(selectedTags.filter((t) => t !== tag)),
-    resetSelectedTags: () => setSelectedTags([]),
+    clearSelectedTags: () => setSelectedTags([]),
   }
 }

@@ -12,7 +12,13 @@ export function Header() {
   const [value, setValue] = useState('')
   const [tag, setTag] = useState('')
   const { data } = useData()
-  const { selectedTags, selectTag, deselectTag, resetSelectedTags } = useTags()
+  const {
+    selectedTags,
+    selectTag,
+    deselectTag,
+    clearSelectedTags,
+  } = useTags()
+  const { clearVisibleIds } = useVisibleIds()
 
   const suggestions = data.filter((d) => !visibleIds.includes(d.id))
   const tags = uniq(suggestions.flatMap((d) => d.tags)).filter((tag) =>
@@ -90,6 +96,16 @@ export function Header() {
         <Save />
       </div>
       <div className='mt-1'>
+        {visibleIds.length > 0 &&
+          (
+            <button
+              type='button'
+              onClick={clearVisibleIds}
+              className='bg-gray-200 hover:bg-gray-400 px-1 cursor-pointer'
+            >
+              Clear items
+            </button>
+          )}
         {selectedTags.map((tag) => (
           <button
             key={tag}
@@ -106,7 +122,7 @@ export function Header() {
               key={tag}
               type='button'
               className='px-1 hover:bg-gray-300 cursor-pointer'
-              onClick={resetSelectedTags}
+              onClick={clearSelectedTags}
             >
               Clear tags
             </button>

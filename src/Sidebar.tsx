@@ -72,7 +72,7 @@ export function Sidebar() {
               setActiveId(0)
             }}
           >
-            Cancel
+            Close
           </button>
         </div>
         {item.id > 0 && (
