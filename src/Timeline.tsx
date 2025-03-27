@@ -14,20 +14,24 @@ export function Timeline() {
     const newDataByYear: typeof dataByYear = {}
 
     visibleData.forEach((d) => {
-      const year = parseInt(d.date.split('-')[0])
+      const year = d.date.charAt(0) === '-'
+        ? parseInt(`-${d.date.split('-')[1]}`)
+        : parseInt(d.date.split('-')[0])
       if (!newDataByYear[year]) {
         newDataByYear[year] = []
       }
       newDataByYear[year].push(d)
     })
 
-    const dataYears = Object.keys(newDataByYear).map((y) => parseInt(y))
-    const minYear = Math.min(...dataYears)
-    const maxYear = Math.max(...dataYears)
-    const newYears: number[] = []
-    for (let i = minYear; i <= maxYear; i++) {
-      newYears.push(i)
-    }
+    // need to sort again to get negative years first
+    const newYears = Object.keys(newDataByYear).map((y) => parseInt(y)).sort()
+    // const dataYears = Object.keys(newDataByYear).map((y) => parseInt(y))
+    // const minYear = Math.min(...dataYears)
+    // const maxYear = Math.max(...dataYears)
+    // const newYears: number[] = []
+    // for (let i = minYear; i <= maxYear; i++) {
+    //   newYears.push(i)
+    // }
 
     setDataByYear(newDataByYear)
     setYears(newYears)
@@ -40,9 +44,10 @@ export function Timeline() {
     )
   }, [visibleData])
 
-  const visibleYears = showAllYears
-    ? years
-    : Object.keys(dataByYear).map((y) => parseInt(y))
+  const visibleYears = years
+  // const visibleYears = showAllYears
+  //   ? years
+  //   : Object.keys(dataByYear).map((y) => parseInt(y))
 
   return (
     <div>
