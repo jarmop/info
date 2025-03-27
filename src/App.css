@@ -1,5 +1,10 @@
 @import 'tailwindcss';
 
+:root {
+  /* Set by JS */
+  --timeline-grid-cols: repeat(3, auto) 1fr;
+}
+
 .description {
   transition: 0s visibility;
   background-color: rgba(50, 50, 50, 0.95);
