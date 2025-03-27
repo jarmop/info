@@ -1,10 +1,10 @@
 import { useEffect, useState } from 'react'
-import { useActiveBox, useData } from './store.ts'
+import { useActiveItem, useData } from './store.ts'
 
 const defaultItem = { id: -1, name: '', description: '', date: '' }
 
 export function Sidebar() {
-  const { activeItem, setActiveBox } = useActiveBox()
+  const { activeItem, setActiveId } = useActiveItem()
   const { updateData, addData, removeData } = useData()
   const [item, setItem] = useState(activeItem)
 
@@ -68,7 +68,8 @@ export function Sidebar() {
             type='button'
             className='p-1 cursor-pointer hover:bg-gray-300'
             onClick={() => {
-              setItem(undefined), setActiveBox(0)
+              setItem(undefined)
+              setActiveId(0)
             }}
           >
             Cancel

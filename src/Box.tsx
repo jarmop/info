@@ -1,4 +1,4 @@
-import { Datum, useActiveBox, useData, useVisibleIds } from './store.ts'
+import { Datum, useActiveItem, useData, useVisibleIds } from './store.ts'
 
 interface BoxProps {
   d: Datum
@@ -8,24 +8,24 @@ interface BoxProps {
 export function Box(
   { d, showYear = false }: BoxProps,
 ) {
-  const { activeBox, setActiveBox } = useActiveBox()
+  const { activeId, setActiveId } = useActiveItem()
   const { removeVisibleId } = useVisibleIds()
   const { duplicateDatum } = useData()
   const title = (showYear ? d.date + ' ' : '') + d.name
 
   return (
     <div
-      onClick={() => activeBox === d.id ? setActiveBox(0) : setActiveBox(d.id)}
+      onClick={() => activeId === d.id ? setActiveId(0) : setActiveId(d.id)}
       className={`m-1 box relative text-sm ${
-        activeBox === d.id ? 'active' : ''
+        activeId === d.id ? 'active' : ''
       }`}
       onKeyUp={(e) => {
         if (e.key === 'Delete') {
           removeVisibleId(d.id)
         } else if (e.ctrlKey && e.key === 'c') {
-          duplicateDatum(activeBox)
+          duplicateDatum(activeId)
         } else if (e.key === 'Escape') {
-          setActiveBox(0)
+          setActiveId(0)
         }
       }}
       tabIndex={0}
