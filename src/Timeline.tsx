@@ -38,15 +38,19 @@ export function Timeline() {
 
   return (
     <div>
-      <div className='p-1 bg-gray-300'>
-        <input
-          type='checkbox'
-          name='year'
-          checked={showAllYears}
-          onChange={() => setShowAllYears(!showAllYears)}
-          className='m-1'
-        />
-        <label htmlFor='year' className='m-1'>Show all years</label>
+      <div className='p-1 bg-gray-300 flex'>
+        <div className='cursor-pointer ml-2'>
+          <input
+            type='checkbox'
+            id='year'
+            checked={showAllYears}
+            onChange={() => setShowAllYears(!showAllYears)}
+            className='cursor-pointer'
+          />
+          <label htmlFor='year' className='ml-1 cursor-pointer'>
+            Show all years
+          </label>
+        </div>
       </div>
       <div className='grid grid-cols-[auto_1fr]'>
         {visibleYears.map((year) => (
