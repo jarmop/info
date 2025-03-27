@@ -14,8 +14,8 @@ export type Datum = typeof rawData[number]
 // }
 
 interface State {
-  activeBox: number
-  setActiveBox: (activeBox: number) => void
+  activeId: number
+  setActiveId: (id: number) => void
   visibleIds: number[]
   addVisibleId: (id: number) => void
   removeVisibleId: (id: number) => void
@@ -38,8 +38,8 @@ function getNextId(data: Datum[]) {
 export const useStore = create<State>()(
   persist(
     (set, get) => ({
-      activeBox: 0,
-      setActiveBox: (activeBox: number) => set({ activeBox }),
+      activeId: 0,
+      setActiveId: (id: number) => set({ activeId: id }),
       visibleIds: [1, 2, 3, 4, 5, 6],
       addVisibleId: (name) =>
         set(
@@ -63,7 +63,7 @@ export const useStore = create<State>()(
         set({
           data: [...get().data, newItem],
           visibleIds: [...get().visibleIds, newItem.id],
-          activeBox: newItem.id,
+          activeId: newItem.id,
         })
       },
       updateData: (datum) => {
@@ -78,7 +78,7 @@ export const useStore = create<State>()(
       removeData: (id) =>
         set({
           data: get().data.filter((d) => d.id !== id),
-          activeBox: 0,
+          activeId: 0,
           visibleIds: get().visibleIds.filter((i) => i !== id),
         }),
       duplicateDatum: (id) => {
@@ -93,7 +93,7 @@ export const useStore = create<State>()(
         set({
           data: [...data, newItem],
           visibleIds: [...get().visibleIds, newItem.id],
-          activeBox: newItem.id,
+          activeId: newItem.id,
         })
       },
       selectedTags: [],
@@ -105,16 +105,16 @@ export const useStore = create<State>()(
   ),
 )
 
-export function useActiveBox() {
-  const activeBox = useStore((state) => state.activeBox)
+export function useActiveItem() {
+  const activeId = useStore((state) => state.activeId)
   const data = useStore((state) => state.data)
   const activeItem = useMemo(() => {
-    return data.find((d) => d.id === activeBox)
-  }, [data, activeBox])
+    return data.find((d) => d.id === activeId)
+  }, [data, activeId])
 
   return {
-    activeBox: useStore((state) => state.activeBox),
-    setActiveBox: useStore((state) => state.setActiveBox),
+    activeId: useStore((state) => state.activeId),
+    setActiveId: useStore((state) => state.setActiveId),
     activeItem,
   }
 }
