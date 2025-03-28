@@ -16,8 +16,8 @@ export function Box(
   return (
     <div
       onClick={() => activeId === d.id ? setActiveId(0) : setActiveId(d.id)}
-      className={`m-1 box relative text-sm ${
-        activeId === d.id ? 'active' : ''
+      className={`border-1  m-1 box relative text-sm ${
+        activeId === d.id ? 'bg-blue-200' : ''
       }`}
       onKeyUp={(e) => {
         if (e.key === 'Delete') {
@@ -30,7 +30,7 @@ export function Box(
       }}
       tabIndex={0}
     >
-      <div className='border-1 p-1 cursor-pointer'>
+      <div className='p-1 cursor-pointer'>
         {title}
       </div>
       {
