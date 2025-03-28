@@ -104,5 +104,82 @@
     "description": "Earth's surface had apparently been molten until then.",
     "date": "-3800000000",
     "tags": ["Life"]
+  },
+  {
+    "id": 28,
+    "name": "Earth Formed",
+    "description": "The oldest meteorite fragments found.",
+    "date": "-4500000000",
+    "tags": ["Life"]
+  },
+  {
+    "id": 29,
+    "name": "The oldest undisputed evidence of life on Earth",
+    "description": "Iinterpreted as fossilized bacteria, dates to 3 Ga. Other finds in rocks dated to about 3.5 Ga have been interpreted as bacteria, with geochemical evidence also seeming to show the presence of life 3.8 Ga. However, these analyses were closely scrutinized, and non-biological processes were found which could produce all of the \"signatures of life\" that had been reported.",
+    "date": "-3000000000",
+    "tags": ["Life"]
+  },
+  {
+    "id": 30,
+    "name": "Oldest evidence for microbial life",
+    "date": "-2800000000",
+    "description": "In the form of organic matter-rich paleosols, ephemeral ponds and alluvial sequences, some bearing microfossils",
+    "tags": ["Life"]
+  },
+  {
+    "id": 31,
+    "name": "Photosynthesis",
+    "date": "-3500000000",
+    "description": "",
+    "tags": ["Life"]
+  },
+  {
+    "id": 32,
+    "name": "The first disputed evidence of life on Earth",
+    "date": "-4100000000",
+    "description": "Biologically fractionated graphite inside a single zircon grain in the Jack Hills range of Australia.",
+    "tags": ["Life"]
+  },
+  {
+    "id": 33,
+    "name": "Multicellular life",
+    "date": "-1000000000",
+    "description": "First non-marine eukaryotes move onto land. They were photosynthetic and multicellular, indicating that plants evolved much earlier than originally thought",
+    "tags": ["Life"]
+  },
+  {
+    "id": 34,
+    "name": "Anatomically modern human",
+    "date": "-300000",
+    "description": "The earliest fossil evidence of early modern humans appears in Africa around 300,000 years ago, with the earliest genetic splits among modern people, according to some evidence, dating to around the same time.",
+    "tags": ["Human"]
+  },
+  {
+    "id": 35,
+    "name": "Chimpanzee–human last common ancestor",
+    "date": "-10000000",
+    "description": "Seems to be quite unclear still. Studies in the early 2020s suggest a more recent CHLCA, such as between 9.3 and 6.5 million years ago in 2021, and studies giving even more recent dates are cited in a 2022 article.",
+    "tags": ["Human"]
+  },
+  {
+    "id": 36,
+    "name": "Mammals",
+    "date": "-225000000",
+    "description": "",
+    "tags": ["Life", "Human"]
+  },
+  {
+    "id": 37,
+    "name": "Neanderthal extinction",
+    "date": "-40000",
+    "description": "",
+    "tags": ["Human"]
+  },
+  {
+    "id": 38,
+    "name": "Writing",
+    "date": "-3400",
+    "description": "Four independent inventions of writing are most commonly recognized:\n- Mesopotamia (c. 3400–3100 BC)\n- Egypt (c. 3250 BC)\n- China (before c. 1250 BC)\n- Mesoamerica (before c. 1 AD)",
+    "tags": ["Human"]
   }
 ]

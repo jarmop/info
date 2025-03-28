@@ -1,6 +1,7 @@
 import { Fragment, useEffect, useState } from 'react'
 import { Datum, useData, useTags, useVisibleIds } from './store.ts'
 import { Box } from './Box.tsx'
+import { formatYear } from './helpers.ts'
 
 export function Timeline() {
   const { visibleIds } = useVisibleIds()
@@ -24,7 +25,11 @@ export function Timeline() {
     })
 
     // need to sort again to get negative years first
-    const newYears = Object.keys(newDataByYear).map((y) => parseInt(y)).sort()
+    const newYears = Object.keys(newDataByYear).map((y) => parseInt(y)).sort(
+      // Sort by numeric value, lowest first (default sort converts to string)
+      (a, b) => a - b,
+    )
+
     // const dataYears = Object.keys(newDataByYear).map((y) => parseInt(y))
     // const minYear = Math.min(...dataYears)
     // const maxYear = Math.max(...dataYears)
@@ -72,7 +77,7 @@ export function Timeline() {
         <div></div>
         {visibleYears.map((year) => (
           <Fragment key={year}>
-            <div className='p-1'>{year}</div>
+            <div className='p-1'>{formatYear(year)}</div>
             {visibleIds.length > 0 && (
               <div className='flex flex-row flex-wrap'>
                 {dataByYear[year].filter(

@@ -1,15 +1,26 @@
 import { useEffect, useState } from 'react'
 import { useActiveItem, useData } from './store.ts'
+import { formatYear, parseYear } from './helpers.ts'
 
 const defaultItem = { id: -1, name: '', description: '', date: '' }
 
 export function Sidebar() {
   const { activeItem, setActiveId } = useActiveItem()
   const { updateData, addData, removeData } = useData()
-  const [item, setItem] = useState(activeItem)
+
+  const isLargeYear = activeItem?.date.charAt(0) === '-' &&
+    activeItem.date.split('-').length === 2
+
+  const formattedDate = isLargeYear
+    ? formatYear(parseFloat(activeItem.date))
+    : activeItem?.date || ''
+
+  const [item, setItem] = useState(
+    activeItem ? { ...activeItem, date: formattedDate } : undefined,
+  )
 
   useEffect(() => {
-    setItem(activeItem)
+    setItem(activeItem ? { ...activeItem, date: formattedDate } : undefined)
   }, [activeItem])
 
   if (!item) {
@@ -60,7 +71,13 @@ export function Sidebar() {
           <button
             type='button'
             className='bg-green-300 p-1 cursor-pointer hover:bg-green-500'
-            onClick={() => item.id > 0 ? updateData(item) : addData(item)}
+            onClick={() => {
+              const newDate = item.date.split(' ').length === 1
+                ? item.date
+                : parseYear(item.date).toString()
+              const newItem = { ...item, date: newDate }
+              item.id > 0 ? updateData(newItem) : addData(newItem)
+            }}
           >
             Save
           </button>
