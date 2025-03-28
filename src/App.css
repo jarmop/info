@@ -20,7 +20,3 @@
 .tag:hover > div {
   visibility: visible;
 }
-
-.active {
-  background-color: red;
-}

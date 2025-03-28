@@ -11,7 +11,7 @@ export function Header() {
   const { mode, setMode } = useMode()
   const [value, setValue] = useState('')
   const [tag, setTag] = useState('')
-  const { data } = useData()
+  const { data, addData } = useData()
   const {
     selectedTags,
     selectTag,
@@ -54,10 +54,11 @@ export function Header() {
               if (e.key !== 'Enter') return
 
               const item = data.find((d) => d.name === value)
-
-              if (!item) return
-
-              addVisibleId(item.id)
+              if (!item) {
+                addData({ id: -1, name: value, date: '', description: '' })
+              } else {
+                addVisibleId(item.id)
+              }
               setValue('')
             }}
           />

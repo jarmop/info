@@ -92,9 +92,14 @@ export const useStore = create<State>()(
 
         const newItem = { ...itemToDuplicate, id: getNextId(data) }
 
+        const isVisibleByTag = newItem.tags &&
+          newItem.tags.some((t) => get().selectedTags.includes(t))
+
         set({
           data: [...data, newItem],
-          visibleIds: [...get().visibleIds, newItem.id],
+          visibleIds: isVisibleByTag
+            ? get().visibleIds
+            : [...get().visibleIds, newItem.id],
           activeId: newItem.id,
         })
       },
