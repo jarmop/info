@@ -110,12 +110,12 @@
     "name": "Earth Formed",
     "description": "The oldest meteorite fragments found.",
     "date": "-4500000000",
-    "tags": ["Life"]
+    "tags": ["Life", "Earth"]
   },
   {
     "id": 29,
     "name": "The oldest undisputed evidence of life on Earth",
-    "description": "Iinterpreted as fossilized bacteria, dates to 3 Ga. Other finds in rocks dated to about 3.5 Ga have been interpreted as bacteria, with geochemical evidence also seeming to show the presence of life 3.8 Ga. However, these analyses were closely scrutinized, and non-biological processes were found which could produce all of the \"signatures of life\" that had been reported.",
+    "description": "Interpreted as fossilized bacteria, dates to 3 Ga. Other finds in rocks dated to about 3.5 Ga have been interpreted as bacteria, with geochemical evidence also seeming to show the presence of life 3.8 Ga. However, these analyses were closely scrutinized, and non-biological processes were found which could produce all of the \"signatures of life\" that had been reported.",
     "date": "-3000000000",
     "tags": ["Life"]
   },
@@ -141,17 +141,10 @@
     "tags": ["Life"]
   },
   {
-    "id": 33,
-    "name": "Multicellular life",
-    "date": "-1000000000",
-    "description": "First non-marine eukaryotes move onto land. They were photosynthetic and multicellular, indicating that plants evolved much earlier than originally thought",
-    "tags": ["Life"]
-  },
-  {
     "id": 34,
-    "name": "Anatomically modern human",
+    "name": "Homo sapiens",
     "date": "-300000",
-    "description": "The earliest fossil evidence of early modern humans appears in Africa around 300,000 years ago, with the earliest genetic splits among modern people, according to some evidence, dating to around the same time.",
+    "description": "Anatomically modern human.\n\nThe earliest fossil evidence of early modern humans appears in Africa around 300,000 years ago, with the earliest genetic splits among modern people, according to some evidence, dating to around the same time.",
     "tags": ["Human", "Life"]
   },
   {
@@ -180,7 +173,7 @@
     "name": "Writing",
     "date": "-3400",
     "description": "Four independent inventions of writing are most commonly recognized:\n- Mesopotamia (c. 3400–3100 BC)\n- Egypt (c. 3250 BC)\n- China (before c. 1250 BC)\n- Mesoamerica (before c. 1 AD)",
-    "tags": ["Human", "Mesopotamia"]
+    "tags": ["Human", "Mesopotamia", "Technology"]
   },
   {
     "id": 39,
@@ -229,7 +222,7 @@
     "name": "Sickle",
     "date": "-7000",
     "description": "Tahunian culture, near Bethlehem.",
-    "tags": ["Human", "Levant"]
+    "tags": ["Human", "Levant", "Agriculture", "Technology"]
   },
   {
     "id": 46,
@@ -383,7 +376,7 @@
     "name": "Primate",
     "date": "-65000000",
     "description": "",
-    "tags": ["Life"]
+    "tags": ["Life", "Human"]
   },
   {
     "id": 68,
@@ -398,5 +391,453 @@
     "date": "-150000000",
     "description": "Key features of Archaeopteryx that link it to birds include feathers and the ability to potentially glide or fly. However, it also had characteristics typical of theropod dinosaurs, such as teeth, a long bony tail, and claws on its wings. This mixture of traits made Archaeopteryx a crucial fossil in understanding the evolution of birds from theropod dinosaurs.",
     "tags": ["Life"]
+  },
+  {
+    "id": 70,
+    "name": "Wolf",
+    "date": "-400000",
+    "description": "",
+    "tags": ["Life"]
+  },
+  {
+    "id": 71,
+    "name": "Domestication of Horse",
+    "date": "-3500",
+    "description": "",
+    "tags": ["Human", "Domestication"]
+  },
+  {
+    "id": 72,
+    "name": "Domestication of Dog",
+    "date": "-15000",
+    "description": "",
+    "tags": ["Human", "Domestication"]
+  },
+  {
+    "id": 73,
+    "name": "Domestication of Goat, Sheep, Pig, Cow",
+    "date": "-11000",
+    "description": "11000 - 10000 years ago.",
+    "tags": ["Human", "Domestication"]
+  },
+  {
+    "id": 74,
+    "name": "Domestication of Wheat and Barley",
+    "date": "-13000",
+    "description": "13000 - 11000 years ago.",
+    "tags": ["Human", "Domestication"]
+  },
+  {
+    "id": 75,
+    "name": "Domestication of Flax",
+    "date": "-13000",
+    "description": "13000 - 11000 years ago.",
+    "tags": ["Human", "Domestication"]
+  },
+  {
+    "id": 76,
+    "name": "Domestication of Rice",
+    "date": "-7000",
+    "description": "",
+    "tags": ["Human", "Domestication"]
+  },
+  {
+    "id": 77,
+    "name": "Domestication of Chicken",
+    "date": "-5000",
+    "description": "Apparently for cockfighting rather than for food.",
+    "tags": ["Human", "Domestication"]
+  },
+  {
+    "id": 78,
+    "name": "Domestication of Honey bee",
+    "date": "-3000",
+    "description": "",
+    "tags": ["Human", "Domestication"]
+  },
+  {
+    "id": 79,
+    "name": "Last Glacial Period ended",
+    "date": "-11700",
+    "description": "Started 115,000 years ago.\n\nThe last Glacial Maximum occurred 20,000 years ago.",
+    "tags": ["Human"]
+  },
+  {
+    "id": 80,
+    "name": "Agricultural revolution",
+    "date": "-12000",
+    "description": "The prehistoric transition from hunting and gathering to settled agriculture (also known as the Neolithic Revolution).",
+    "tags": ["Human", "Agriculture"]
+  },
+  {
+    "id": 81,
+    "name": "Stone tools",
+    "date": "-3300000",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 82,
+    "name": "Hand axe",
+    "date": "-1600000",
+    "description": "A prehistoric stone tool with two faces.",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 83,
+    "name": "Homo",
+    "date": "-2400000",
+    "description": "",
+    "tags": ["Human", "Life"]
+  },
+  {
+    "id": 84,
+    "name": "Homo erectus",
+    "date": "-1900000",
+    "description": "Walking upright. Spread from Africa to Eurasia.",
+    "tags": ["Human", "Life"]
+  },
+  {
+    "id": 85,
+    "name": "Use of fire",
+    "date": "-800000",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 86,
+    "name": "Use of fire on daily basis",
+    "date": "-300000",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 87,
+    "name": "Neanderthals",
+    "date": "-500000",
+    "description": "Homo Neanderthalensis",
+    "tags": ["Human"]
+  },
+  {
+    "id": 88,
+    "name": "Fictive language",
+    "date": "-70000",
+    "description": "Homo Sapiens spread to Arabian Peninsula and quickly to rest of the Eurasia.",
+    "tags": ["Human"]
+  },
+  {
+    "id": 89,
+    "name": "Extinction of Neanderthals",
+    "date": "-30000",
+    "description": "",
+    "tags": ["Human"]
+  },
+  {
+    "id": 90,
+    "name": "Extinction of Homo floresiensis",
+    "date": "-13000",
+    "description": "",
+    "tags": ["Human"]
+  },
+  {
+    "id": 91,
+    "name": "Burial",
+    "date": "-100000",
+    "description": "",
+    "tags": ["Human"]
+  },
+  {
+    "id": 92,
+    "name": "Fishing net",
+    "date": "-43000",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 93,
+    "name": "Javelin",
+    "date": "-400000",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 94,
+    "name": "Huts",
+    "date": "-2000000",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 95,
+    "name": "Clothing",
+    "date": "-170000",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 96,
+    "name": "Bow and arrows",
+    "date": "-70000",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 97,
+    "name": "Cooking",
+    "date": "-500000",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 98,
+    "name": "Glue",
+    "date": "-200000",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 99,
+    "name": "Sewing needle",
+    "date": "-60000",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 100,
+    "name": "Flute",
+    "date": "-43000",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 101,
+    "name": "Fishing hook",
+    "date": "-23000",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 102,
+    "name": "Ceramics",
+    "date": "-27000",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 103,
+    "name": "Sling",
+    "date": "-9000",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 104,
+    "name": "Brick",
+    "date": "-6000",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 105,
+    "name": "Boat",
+    "date": "-8000",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 106,
+    "name": "Wheel",
+    "date": "-4000",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 107,
+    "name": "Plough",
+    "date": "-4000",
+    "description": "",
+    "tags": ["Human", "Technology", "Agriculture"]
+  },
+  {
+    "id": 108,
+    "name": "Copper",
+    "date": "-3200",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 109,
+    "name": "Bronze",
+    "date": "-2500",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 110,
+    "name": "Salt",
+    "date": "-2500",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 111,
+    "name": "Chariot",
+    "date": "-2000",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 112,
+    "name": "Iron",
+    "date": "-1500",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 113,
+    "name": "Sundial",
+    "date": "-800",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 114,
+    "name": "Glass",
+    "date": "-500",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 115,
+    "name": "Catapult",
+    "date": "-400",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 116,
+    "name": "Cast iron",
+    "date": "-400",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 117,
+    "name": "Horseshoe",
+    "date": "-300",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 118,
+    "name": "Stirrup",
+    "date": "100",
+    "description": "First few centuries AD.",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 119,
+    "name": "Pangaea",
+    "description": "",
+    "date": "-335000000",
+    "tags": ["Earth"]
+  },
+  {
+    "id": 120,
+    "name": "Africa",
+    "description": "",
+    "date": "-300000000",
+    "tags": ["Earth"]
+  },
+  {
+    "id": 121,
+    "name": "South America",
+    "description": "",
+    "date": "-225000000",
+    "tags": ["Earth"]
+  },
+  {
+    "id": 122,
+    "name": "North America",
+    "description": "",
+    "date": "-200000000",
+    "tags": ["Earth"]
+  },
+  {
+    "id": 123,
+    "name": "Mauritia",
+    "description": "70-60 M",
+    "date": "-70000000",
+    "tags": ["Earth"]
+  },
+  {
+    "id": 124,
+    "name": "Asia",
+    "description": "",
+    "date": "-66000000",
+    "tags": ["Earth"]
+  },
+  {
+    "id": 125,
+    "name": "Australia",
+    "description": "",
+    "date": "-10000000",
+    "tags": ["Earth"]
+  },
+  {
+    "id": 126,
+    "name": "Europe",
+    "description": "",
+    "date": "-5000000",
+    "tags": ["Earth"]
+  },
+  {
+    "id": 127,
+    "name": "Multicellular organism",
+    "date": "-2100000000",
+    "description": "The Francevillian biota (Also referred to as Gabon macrofossils, Gabonionta or Francevillian group fossils) are a collection of 2.1-billion-year-old Palaeoproterozoic macroscopic structures, controversially suggested to be fossils. The structures have been postulated by some authors to be evidence of the earliest form of multicellular life, and of eukaryotes",
+    "tags": ["Life"]
+  },
+  {
+    "id": 128,
+    "name": "Fungus",
+    "date": "-810000000",
+    "description": "The oldest fossilizied mycelium to be identified from its molecular composition is between 715 and 810 million years old.\n\nThe earliest fossils possessing features typical of fungi date to the Paleoproterozoic era, some 2,400 million years ago (Ma); these multicellular benthic organisms had filamentous structures capable of anastomosis.[121] Other studies (2009) estimate the arrival of fungal organisms at about 760–1060 Ma on the basis of comparisons of the rate of evolution in closely related groups.\n",
+    "tags": ["Life"]
+  },
+  {
+    "id": 129,
+    "name": "The last snowball earth",
+    "description": "The most academically mentioned period of such a global ice age is believed to have occurred some time before 650 mya during the Cryogenian period, which included at least two large glacial periods, the Sturtian and Marinoan glaciations.\n\nThe first Snowball Earth event is believed to have occurred during the Sturtian glaciation, around 720 to 700 million years ago.\n\nSome propose there was a snowball earth already around 2300 B years ago when the atmosphere started to get oxygen-rich.",
+    "date": "-650000000",
+    "tags": ["Earth"]
+  },
+  {
+    "id": 130,
+    "name": "Big Bang",
+    "date": "-13800000000",
+    "description": "",
+    "tags": ["Universe"]
+  },
+  {
+    "id": 131,
+    "name": "Solar System",
+    "date": "-4600000000",
+    "description": "",
+    "tags": ["Universe"]
+  },
+  {
+    "id": 132,
+    "name": "Milky Way",
+    "date": "-13600000000",
+    "description": "The thin disk of our galaxy began to form when the universe was about 5 billion years old or 9 ± 2 Gya.\n\nAccording to recent studies, the Milky Way as well as the Andromeda Galaxy lie in what in the galaxy color–magnitude diagram is known as the \"green valley\", a region populated by galaxies in transition from the \"blue cloud\" (galaxies actively forming new stars) to the \"red sequence\" (galaxies that lack star formation).",
+    "tags": ["Universe"]
+  },
+  {
+    "id": 133,
+    "name": "Andromeda",
+    "date": "-10000000000",
+    "description": "The Andromeda Galaxy (M31) is estimated to be around 10 billion years old, though some of its oldest stars and globular clusters may be as old as 13.5 billion years, similar to the Milky Way. Andromeda formed through multiple galaxy mergers over billions of years, which shaped it into the massive spiral galaxy we see today.",
+    "tags": ["Universe"]
   }
 ]

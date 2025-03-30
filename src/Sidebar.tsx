@@ -8,11 +8,11 @@ export function Sidebar() {
   const { activeItem, setActiveId } = useActiveItem()
   const { updateData, addData, removeData, duplicateItem } = useData()
 
-  const isLargeYear = activeItem?.date.charAt(0) === '-' &&
+  const isLargeNegativeYear = activeItem?.date.charAt(0) === '-' &&
     activeItem.date.split('-').length === 2
 
-  const formattedDate = isLargeYear
-    ? formatYear(parseFloat(activeItem.date))
+  const formattedDate = isLargeNegativeYear
+    ? formatYear(parseInt(activeItem.date))
     : activeItem?.date || ''
 
   const [item, setItem] = useState(
