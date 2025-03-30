@@ -3,6 +3,7 @@ import { Datum, useData } from './store.ts'
 import { get, set } from 'idb-keyval'
 import rawData from './assets/data.json' with { type: 'json' }
 import isEqual from 'lodash/isEqual'
+import { useEffect, useMemo } from 'react'
 
 async function saveData(data: Datum[]) {
   let fileHandle = await get('fileHandle')
@@ -22,7 +23,22 @@ async function saveData(data: Datum[]) {
 export function Save() {
   const { data, resetData: resetData } = useData()
 
-  const dataChanged = !isEqual(sortById(data), sortById(rawData))
+  const dataChanged = useMemo(
+    () => !isEqual(sortById(data), sortById(rawData)),
+    [data],
+  )
+
+  useEffect(() => {
+    function handleKeyDown(e: KeyboardEvent) {
+      if (e.ctrlKey && e.key === 's') {
+        e.preventDefault()
+        saveData(data)
+      }
+    }
+    document.addEventListener('keydown', handleKeyDown)
+
+    return () => document.removeEventListener('keydown', handleKeyDown)
+  }, [dataChanged])
 
   return (
     <div className='flex'>
