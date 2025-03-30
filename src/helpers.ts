@@ -27,6 +27,8 @@ export function formatYear(year: number) {
     return `${year / 1e6} M`
   } else if (year <= -1e4) {
     return `${year / 1e3} K`
+  } else if (year < 0) {
+    return `${Math.abs(year)} BC`
   }
 
   return year.toString()
@@ -43,6 +45,8 @@ export function parseYear(year: string) {
     parsedYear = num * 1e6
   } else if (lastChar === 'K') {
     parsedYear = num * 1e3
+  } else if (lastChar === 'C') {
+    parsedYear = -num
   }
 
   // Float multiplication leads to precision errors
