@@ -19,7 +19,7 @@ export function Box(
       className={`border-1  m-1 box relative text-sm ${
         activeId === d.id ? 'bg-blue-200' : ''
       }`}
-      onKeyUp={(e) => {
+      onKeyDown={(e) => {
         if (e.key === 'Delete') {
           removeVisibleId(d.id)
         } else if (e.ctrlKey && e.key === 'c') {

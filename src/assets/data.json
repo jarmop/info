@@ -152,14 +152,14 @@
     "name": "Anatomically modern human",
     "date": "-300000",
     "description": "The earliest fossil evidence of early modern humans appears in Africa around 300,000 years ago, with the earliest genetic splits among modern people, according to some evidence, dating to around the same time.",
-    "tags": ["Human"]
+    "tags": ["Human", "Life"]
   },
   {
     "id": 35,
     "name": "Chimpanzee–human last common ancestor",
     "date": "-10000000",
     "description": "Seems to be quite unclear still. Studies in the early 2020s suggest a more recent CHLCA, such as between 9.3 and 6.5 million years ago in 2021, and studies giving even more recent dates are cited in a 2022 article.",
-    "tags": ["Human"]
+    "tags": ["Human", "Life"]
   },
   {
     "id": 36,
@@ -173,13 +173,230 @@
     "name": "Neanderthal extinction",
     "date": "-40000",
     "description": "",
-    "tags": ["Human"]
+    "tags": ["Human", "Life"]
   },
   {
     "id": 38,
     "name": "Writing",
     "date": "-3400",
     "description": "Four independent inventions of writing are most commonly recognized:\n- Mesopotamia (c. 3400–3100 BC)\n- Egypt (c. 3250 BC)\n- China (before c. 1250 BC)\n- Mesoamerica (before c. 1 AD)",
-    "tags": ["Human"]
+    "tags": ["Human", "Mesopotamia"]
+  },
+  {
+    "id": 39,
+    "name": "Dinosaur",
+    "date": "-240000000",
+    "description": "",
+    "tags": ["Life"]
+  },
+  {
+    "id": 40,
+    "name": "Cambrian explosion",
+    "date": "-539000000",
+    "description": "",
+    "tags": ["Life"]
+  },
+  {
+    "id": 41,
+    "name": "The first pyramid in Egypt",
+    "date": "-2660",
+    "description": "",
+    "tags": ["Human", "Egypt"]
+  },
+  {
+    "id": 42,
+    "name": "The Great Pyramid of Giza",
+    "date": "-2570",
+    "description": "",
+    "tags": ["Human", "Egypt"]
+  },
+  {
+    "id": 43,
+    "name": "Royal game of Ur",
+    "date": "-2600",
+    "description": "",
+    "tags": ["Human", "Mesopotamia"]
+  },
+  {
+    "id": 44,
+    "name": "Corded ware pottery, Germany",
+    "date": "-2500",
+    "description": "",
+    "tags": ["Human", "Europe"]
+  },
+  {
+    "id": 45,
+    "name": "Sickle",
+    "date": "-7000",
+    "description": "Tahunian culture, near Bethlehem.",
+    "tags": ["Human", "Levant"]
+  },
+  {
+    "id": 46,
+    "name": "The Great Sphinx of Giza",
+    "date": "-2550",
+    "description": "",
+    "tags": ["Human", "Egypt"]
+  },
+  {
+    "id": 47,
+    "name": "Sargon of Akkad",
+    "date": "-2300",
+    "description": "A face mask (probably) depicting Sargon made sometime during the Akkadian period. Most likely representing either Sargon of Akkad or his grandson Naram-Sin.",
+    "tags": ["Human", "Mesopotamia"]
+  },
+  {
+    "id": 48,
+    "name": "Ziggurat of Ur",
+    "date": "-2100",
+    "description": "",
+    "tags": ["Human", "Mesopotamia"]
+  },
+  {
+    "id": 49,
+    "name": "Priest-King statue of Indus valley",
+    "date": "-1900",
+    "description": "The most famous statue of the Indus valley civilization.",
+    "tags": ["Human", "India"]
+  },
+  {
+    "id": 50,
+    "name": "Statue of a copulating couple from Babylonia",
+    "date": "-1894",
+    "description": "1894 - 1595 BC",
+    "tags": ["Human", "Mesopotamia"]
+  },
+  {
+    "id": 51,
+    "name": "Harp player statue from Greek islands",
+    "date": "-2000",
+    "description": "Cyclades",
+    "tags": ["Human", "Greece"]
+  },
+  {
+    "id": 52,
+    "name": "Deer with silver decoration from Anatolia",
+    "date": "-2100",
+    "description": "Alaca, Anatolia",
+    "tags": ["Human", "Anatolia"]
+  },
+  {
+    "id": 53,
+    "name": "Mask of “Agamemnon”",
+    "date": "-1550",
+    "description": "",
+    "tags": ["Human", "Greece"]
+  },
+  {
+    "id": 54,
+    "name": "Bull leaping fresco",
+    "date": "-1600",
+    "description": "1600 - 1450 BC",
+    "tags": ["Human", "Greece"]
+  },
+  {
+    "id": 55,
+    "name": "Hatshepsut temple",
+    "date": "-1450",
+    "description": "",
+    "tags": ["Human", "Egypt"]
+  },
+  {
+    "id": 56,
+    "name": "Ziggurat of Dur Kurigalzu",
+    "date": "-1375",
+    "description": "Founded by Kassite king of Babylon, Kurigalzu I",
+    "tags": ["Human", "Mesopotamia"]
+  },
+  {
+    "id": 57,
+    "name": "Ziggurat of Dur Untash",
+    "date": "-1250",
+    "description": "Choqa Zanbil, Persia",
+    "tags": ["Human", "Persia"]
+  },
+  {
+    "id": 58,
+    "name": "Mask of Tutankhamun",
+    "date": "-1323",
+    "description": "His grave was perhaps safe from robbers because he died fairly young (19) and was thus largely forgotten.",
+    "tags": ["Human", "Egypt"]
+  },
+  {
+    "id": 59,
+    "name": "Merneptah stele",
+    "date": "-1208",
+    "description": "The earliest mention of Israel in any writing.",
+    "tags": ["Human", "Levant"]
+  },
+  {
+    "id": 60,
+    "name": "Olmec colossal heads",
+    "date": "-900",
+    "description": "Olmec were an early known major Mesoamerican civilization, flourishing in the modern-day Mexican states of Veracruz and Tabasco from roughly 1200 to 400 BCE during Mesoamerica's formative period",
+    "tags": ["Human", "Mesoamerica"]
+  },
+  {
+    "id": 61,
+    "name": "Rosetta stone",
+    "date": "-196",
+    "description": "",
+    "tags": ["Human", "Egypt"]
+  },
+  {
+    "id": 62,
+    "name": "CSS",
+    "date": "1996",
+    "description": "Cascading Style Sheet",
+    "tags": ["Web"]
+  },
+  {
+    "id": 63,
+    "name": "Horse",
+    "date": "-50000000",
+    "description": "",
+    "tags": ["Life"]
+  },
+  {
+    "id": 64,
+    "name": "Crocodilia",
+    "date": "-210000000",
+    "description": "The earliest stage of crocodilian evolution was the protosuchians in the late Triassic and early Jurassic.",
+    "tags": ["Life"]
+  },
+  {
+    "id": 65,
+    "name": "Triassic",
+    "date": "-237000000",
+    "description": "",
+    "tags": ["Life"]
+  },
+  {
+    "id": 66,
+    "name": "Jurassic",
+    "date": "-201000000",
+    "description": "",
+    "tags": ["Life"]
+  },
+  {
+    "id": 67,
+    "name": "Primate",
+    "date": "-65000000",
+    "description": "",
+    "tags": ["Life"]
+  },
+  {
+    "id": 68,
+    "name": "Caniform and Feliform split ",
+    "date": "-50000000",
+    "description": "Around 50 million years ago, or earlier, in the Paleocene, the Carnivora split into two main divisions: caniform (dog-like) and feliform (cat-like).",
+    "tags": ["Life"]
+  },
+  {
+    "id": 69,
+    "name": "Bird",
+    "date": "-150000000",
+    "description": "Key features of Archaeopteryx that link it to birds include feathers and the ability to potentially glide or fly. However, it also had characteristics typical of theropod dinosaurs, such as teeth, a long bony tail, and claws on its wings. This mixture of traits made Archaeopteryx a crucial fossil in understanding the evolution of birds from theropod dinosaurs.",
+    "tags": ["Life"]
   }
 ]
