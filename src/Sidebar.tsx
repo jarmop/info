@@ -6,7 +6,7 @@ const defaultItem = { id: -1, name: '', description: '', date: '' }
 
 export function Sidebar() {
   const { activeItem, setActiveId } = useActiveItem()
-  const { updateData, addData, removeData } = useData()
+  const { updateData, addData, removeData, duplicateItem } = useData()
 
   const isLargeYear = activeItem?.date.charAt(0) === '-' &&
     activeItem.date.split('-').length === 2
@@ -81,6 +81,18 @@ export function Sidebar() {
           >
             Save
           </button>
+          {activeItem &&
+            (
+              <button
+                type='button'
+                className='p-1 cursor-pointer hover:bg-gray-300'
+                onClick={() => {
+                  duplicateItem(activeItem.id)
+                }}
+              >
+                Copy
+              </button>
+            )}
           <button
             type='button'
             className='p-1 cursor-pointer hover:bg-gray-300'

@@ -164,7 +164,7 @@ export function useData() {
     addData: useStore((state) => state.addData),
     updateData: useStore((state) => state.updateData),
     removeData: useStore((state) => state.removeData),
-    duplicateDatum: useStore((state) => state.duplicateDatum),
+    duplicateItem: useStore((state) => state.duplicateDatum),
   }
 }
 
