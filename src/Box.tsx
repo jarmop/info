@@ -10,7 +10,7 @@ export function Box(
 ) {
   const { activeId, setActiveId } = useActiveItem()
   const { removeVisibleId } = useVisibleIds()
-  const { duplicateDatum } = useData()
+  const { duplicateItem } = useData()
   const title = (showYear ? d.date + ' ' : '') + d.name
 
   return (
@@ -23,7 +23,7 @@ export function Box(
         if (e.key === 'Delete') {
           removeVisibleId(d.id)
         } else if (e.ctrlKey && e.key === 'c') {
-          duplicateDatum(activeId)
+          duplicateItem(activeId)
         } else if (e.key === 'Escape') {
           setActiveId(0)
         }
