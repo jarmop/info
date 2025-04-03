@@ -27,7 +27,7 @@ export function Sidebar() {
     return (
       <button
         type='button'
-        className='absolute right-0 top-0 bg-blue-400 text-xl px-2 cursor-pointer'
+        className='fixed right-0 bottom-0 bg-blue-400 text-xl px-2 cursor-pointer'
         onClick={() => setItem(defaultItem)}
       >
         +
@@ -38,7 +38,7 @@ export function Sidebar() {
   return (
     <div
       key={item.id}
-      className='w-120 bg-gray-200 p-2 pt-0 absolute right-0 top-0'
+      className='w-120 bg-gray-200 p-2 fixed right-0 bottom-0'
     >
       <input
         placeholder='name'
@@ -93,16 +93,6 @@ export function Sidebar() {
                 Copy
               </button>
             )}
-          <button
-            type='button'
-            className='p-1 cursor-pointer hover:bg-gray-300'
-            onClick={() => {
-              setItem(undefined)
-              setActiveId(0)
-            }}
-          >
-            Close
-          </button>
         </div>
         {item.id > 0 && (
           <button
@@ -113,6 +103,16 @@ export function Sidebar() {
             Delete
           </button>
         )}
+        <button
+          type='button'
+          className='p-1 cursor-pointer hover:bg-gray-300'
+          onClick={() => {
+            setItem(undefined)
+            setActiveId(0)
+          }}
+        >
+          Close
+        </button>
       </div>
     </div>
   )
