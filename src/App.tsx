@@ -11,10 +11,8 @@ function App() {
   return (
     <>
       <Header />
-      <div className='relative'>
-        {mode === 'timeline' ? <Timeline /> : <InlineBlocks />}
-        <Sidebar />
-      </div>
+      {mode === 'timeline' ? <Timeline /> : <InlineBlocks />}
+      <Sidebar />
     </>
   )
 }

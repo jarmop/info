@@ -163,10 +163,10 @@
   },
   {
     "id": 37,
-    "name": "Neanderthal extinction",
+    "name": "Neanderthal",
     "date": "-40000",
     "description": "",
-    "tags": ["Human", "Life"]
+    "tags": ["Human", "Life", "Extinction"]
   },
   {
     "id": 38,
@@ -416,7 +416,7 @@
   {
     "id": 73,
     "name": "Domestication of Goat, Sheep, Pig, Cow",
-    "date": "-11000",
+    "date": "9000",
     "description": "11000 - 10000 years ago.",
     "tags": ["Human", "Domestication"]
   },
@@ -458,9 +458,9 @@
   {
     "id": 79,
     "name": "Last Glacial Period ended",
-    "date": "-11700",
+    "date": "-9700",
     "description": "Started 115,000 years ago.\n\nThe last Glacial Maximum occurred 20,000 years ago.",
-    "tags": ["Human"]
+    "tags": ["Human", "Earth"]
   },
   {
     "id": 80,
@@ -523,13 +523,6 @@
     "name": "Fictive language",
     "date": "-70000",
     "description": "Homo Sapiens spread to Arabian Peninsula and quickly to rest of the Eurasia.",
-    "tags": ["Human"]
-  },
-  {
-    "id": 89,
-    "name": "Extinction of Neanderthals",
-    "date": "-30000",
-    "description": "",
     "tags": ["Human"]
   },
   {
@@ -839,5 +832,138 @@
     "date": "-10000000000",
     "description": "The Andromeda Galaxy (M31) is estimated to be around 10 billion years old, though some of its oldest stars and globular clusters may be as old as 13.5 billion years, similar to the Milky Way. Andromeda formed through multiple galaxy mergers over billions of years, which shaped it into the massive spiral galaxy we see today.",
     "tags": ["Universe"]
+  },
+  {
+    "id": 134,
+    "name": "Göbekli Tepe",
+    "date": "-9500",
+    "description": "",
+    "tags": ["Human", "Settlement"]
+  },
+  {
+    "id": 135,
+    "name": "Jarmo",
+    "date": "-7090",
+    "description": "Abandoned 4950 BC",
+    "tags": ["Human", "Settlement"]
+  },
+  {
+    "id": 136,
+    "name": "Woolly mammoth",
+    "date": "-7650",
+    "description": "The youngest fossils of the mainland population are from the Kyttyk Peninsula of Siberia and date to 9,650 years ago",
+    "tags": ["Extinction"]
+  },
+  {
+    "id": 137,
+    "name": "Cave bear",
+    "date": "-28000",
+    "description": "",
+    "tags": ["Extinction"]
+  },
+  {
+    "id": 138,
+    "name": "Cave hyena",
+    "date": "-24000",
+    "description": "",
+    "tags": ["Extinction"]
+  },
+  {
+    "id": 139,
+    "name": "Sabre-tooth tiger",
+    "date": "-8000",
+    "description": "Smilodon. Although commonly known as the saber-toothed tiger, it was not closely related to the tiger or other modern cats.",
+    "tags": ["Extinction"]
+  },
+  {
+    "id": 140,
+    "name": "Jericho",
+    "date": "-9600",
+    "description": "",
+    "tags": ["Human", "Settlement"]
+  },
+  {
+    "id": 141,
+    "name": "Çatalhöyük",
+    "date": "-7100",
+    "description": "Abandoned 5700 BC",
+    "tags": ["Human", "Settlement"]
+  },
+  {
+    "id": 142,
+    "name": "Babylon",
+    "date": "-1894",
+    "description": "Abandoned 1000 AD",
+    "tags": ["Human", "Settlement"]
+  },
+  {
+    "id": 143,
+    "name": "Sumer",
+    "date": "-5500",
+    "description": "Most historians have suggested that Sumer was first permanently settled between c. 5500 and c. 3300 BC.\n\nAbandoned 1800 BC",
+    "tags": ["Human", "Settlement"]
+  },
+  {
+    "id": 144,
+    "name": "Nineveh",
+    "date": "-6000",
+    "description": "Abandoned 612 BC.",
+    "tags": ["Human", "Settlement"]
+  },
+  {
+    "id": 145,
+    "name": "Assur",
+    "date": "-2500",
+    "description": "Archaeology reveals the site of the city was occupied by the middle of the 3rd millennium BC.",
+    "tags": ["Human", "Settlement"]
+  },
+  {
+    "id": 146,
+    "name": "Uruk",
+    "date": "-5000",
+    "description": "Abandoned 700 AD",
+    "tags": ["Human", "Settlement"]
+  },
+  {
+    "id": 147,
+    "name": "Ur",
+    "date": "-3800",
+    "description": "Abandoned 500 BC",
+    "tags": ["Human", "Settlement"]
+  },
+  {
+    "id": 148,
+    "name": "Memphis",
+    "date": "-3150",
+    "description": "During the Early Dynastic Period (3150 BC - 2686 BC) and Old Kingdom, Memphis became the capital of Ancient Egypt for more than six consecutive dynasties.",
+    "tags": ["Human", "Settlement"]
+  },
+  {
+    "id": 149,
+    "name": "Athens",
+    "date": "-1400",
+    "description": "Athens has been continuously inhabited for at least 5,000 years. By 1400 BC, the settlement had become an important centre of the Mycenaean civilization",
+    "tags": ["Human", "Settlement"]
+  },
+  {
+    "id": 150,
+    "name": "Kish",
+    "date": "-5300",
+    "description": "Kish was occupied from the Ubaid period (5300-4300 BC). The Sumerian King List (2084-1648 BC) states that Kish was the first city to have kings following the deluge.",
+    "tags": ["Human", "Settlement"]
+  },
+  {
+    "id": 151,
+    "name": "Sumerian King List",
+    "date": "-2084",
+    "description": "Redacted to legitimize the claims to power of various city-states and kingdoms in southern Mesopotamia during the late third and early second millennium BC.\n\nPublication date (2084-1648 BC).",
+    "tags": ["Artefact"]
+  },
+  {
+    "id": 152,
+    "name": "Venus of Willendorf",
+    "date": "-30000",
+    "description": "",
+    "tags": ["Artefact"]
   }
 ]

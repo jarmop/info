@@ -21,10 +21,10 @@ export function Header() {
   const { clearVisibleIds } = useVisibleIds()
 
   const suggestions = data.filter((d) => !visibleIds.includes(d.id))
-  const tags = uniq(suggestions.flatMap((d) => d.tags)).filter((tag) =>
-    tag &&
+  const tags = uniq(suggestions.flatMap((d) => d.tags || [])).filter((tag) =>
+    tag !== undefined &&
     !selectedTags.includes(tag)
-  ) as string[]
+  ).toSorted((a, b) => a.localeCompare(b))
 
   return (
     <div className='bg-gray-200 p-1'>
