@@ -9,7 +9,10 @@ export function Timeline() {
   const { selectedTags } = useTags()
   const [dataByYear, setDataByYear] = useState<Record<string, Datum[]>>({})
   const [years, setYears] = useState<number[]>([])
-  const [showAllYears, setShowAllYears] = useState(false)
+  const [yearRange, setYearRange] = useState<{ start?: number; end?: number }>({
+    start: undefined,
+    end: undefined,
+  })
 
   useEffect(() => {
     const newDataByYear: typeof dataByYear = {}
@@ -18,9 +21,18 @@ export function Timeline() {
       const year = d.date.charAt(0) === '-'
         ? parseInt(`-${d.date.split('-')[1]}`)
         : parseInt(d.date.split('-')[0])
+
+      if (
+        (yearRange.start && year < yearRange.start) ||
+        (yearRange.end && year > yearRange.end)
+      ) {
+        return
+      }
+
       if (!newDataByYear[year]) {
         newDataByYear[year] = []
       }
+
       newDataByYear[year].push(d)
     })
 
@@ -29,14 +41,6 @@ export function Timeline() {
       // Sort by numeric value, lowest first (default sort converts to string)
       (a, b) => a - b,
     )
-
-    // const dataYears = Object.keys(newDataByYear).map((y) => parseInt(y))
-    // const minYear = Math.min(...dataYears)
-    // const maxYear = Math.max(...dataYears)
-    // const newYears: number[] = []
-    // for (let i = minYear; i <= maxYear; i++) {
-    //   newYears.push(i)
-    // }
 
     setDataByYear(newDataByYear)
     setYears(newYears)
@@ -47,27 +51,20 @@ export function Timeline() {
       '--timeline-grid-cols',
       `repeat(${amountOfColumns}, auto) 1fr`,
     )
-  }, [visibleData])
-
-  const visibleYears = years
-  // const visibleYears = showAllYears
-  //   ? years
-  //   : Object.keys(dataByYear).map((y) => parseInt(y))
+  }, [visibleData, yearRange])
 
   return (
     <div>
       <div className='p-1 bg-gray-300 flex'>
-        <div className='cursor-pointer ml-2'>
+        <div className='p-1'>
           <input
-            type='checkbox'
-            id='year'
-            checked={showAllYears}
-            onChange={() => setShowAllYears(!showAllYears)}
-            className='cursor-pointer'
+            type='number'
+            placeholder='start year'
+            className='bg-white px-1 w-24'
+            value={yearRange.start || ''}
+            onChange={(e) =>
+              setYearRange({ ...yearRange, start: parseInt(e.target.value) })}
           />
-          <label htmlFor='year' className='ml-1 cursor-pointer'>
-            Show all years
-          </label>
         </div>
       </div>
       <div className='grid grid-cols-(--timeline-grid-cols)'>
@@ -75,7 +72,7 @@ export function Timeline() {
         {visibleIds.length > 0 && <div></div>}
         {selectedTags.map((tag) => <div key={tag}>{tag}</div>)}
         <div></div>
-        {visibleYears.map((year) => (
+        {years.map((year) => (
           <Fragment key={year}>
             <div className='p-1'>{formatYear(year)}</div>
             {visibleIds.length > 0 && (
