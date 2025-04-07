@@ -16,7 +16,7 @@ export function Box(
   return (
     <div
       onClick={() => activeId === d.id ? setActiveId(0) : setActiveId(d.id)}
-      className={`border-1  m-1 box relative text-sm ${
+      className={`border-1  m-[2px] box relative text-xs ${
         activeId === d.id ? 'bg-blue-200' : ''
       }`}
       onKeyDown={(e) => {
@@ -30,7 +30,7 @@ export function Box(
       }}
       tabIndex={0}
     >
-      <div className='p-1 cursor-pointer'>
+      <div className='px-[3px] cursor-pointer'>
         {title}
       </div>
       {

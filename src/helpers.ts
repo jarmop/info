@@ -25,7 +25,7 @@ export function formatYear(year: number) {
     return `${year / 1e9} B`
   } else if (year <= -1e6) {
     return `${year / 1e6} M`
-  } else if (year <= -1e4) {
+  } else if (year <= -2e4) {
     return `${year / 1e3} K`
   } else if (year < 0) {
     return `${Math.abs(year)} BC`

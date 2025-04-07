@@ -201,21 +201,21 @@
     "name": "The Great Pyramid of Giza",
     "date": "-2570",
     "description": "",
-    "tags": ["Human", "Egypt"]
+    "tags": ["Human", "Egypt", "Construct", "Artefact"]
   },
   {
     "id": 43,
     "name": "Royal game of Ur",
     "date": "-2600",
     "description": "",
-    "tags": ["Human", "Mesopotamia"]
+    "tags": ["Human", "Mesopotamia", "Artefact"]
   },
   {
     "id": 44,
     "name": "Corded ware pottery, Germany",
     "date": "-2500",
     "description": "",
-    "tags": ["Human", "Europe"]
+    "tags": ["Human", "Europe", "Technology"]
   },
   {
     "id": 45,
@@ -229,77 +229,77 @@
     "name": "The Great Sphinx of Giza",
     "date": "-2550",
     "description": "",
-    "tags": ["Human", "Egypt"]
+    "tags": ["Human", "Egypt", "Artefact"]
   },
   {
     "id": 47,
     "name": "Sargon of Akkad",
     "date": "-2300",
     "description": "A face mask (probably) depicting Sargon made sometime during the Akkadian period. Most likely representing either Sargon of Akkad or his grandson Naram-Sin.",
-    "tags": ["Human", "Mesopotamia"]
+    "tags": ["Human", "Mesopotamia", "People"]
   },
   {
     "id": 48,
     "name": "Ziggurat of Ur",
     "date": "-2100",
     "description": "",
-    "tags": ["Human", "Mesopotamia"]
+    "tags": ["Human", "Mesopotamia", "Construct"]
   },
   {
     "id": 49,
     "name": "Priest-King statue of Indus valley",
     "date": "-1900",
     "description": "The most famous statue of the Indus valley civilization.",
-    "tags": ["Human", "India"]
+    "tags": ["Human", "India", "Artefact"]
   },
   {
     "id": 50,
     "name": "Statue of a copulating couple from Babylonia",
     "date": "-1894",
     "description": "1894 - 1595 BC",
-    "tags": ["Human", "Mesopotamia"]
+    "tags": ["Human", "Mesopotamia", "Artefact"]
   },
   {
     "id": 51,
     "name": "Harp player statue from Greek islands",
     "date": "-2000",
     "description": "Cyclades",
-    "tags": ["Human", "Greece"]
+    "tags": ["Human", "Greece", "Artefact"]
   },
   {
     "id": 52,
     "name": "Deer with silver decoration from Anatolia",
     "date": "-2100",
     "description": "Alaca, Anatolia",
-    "tags": ["Human", "Anatolia"]
+    "tags": ["Human", "Anatolia", "Artefact"]
   },
   {
     "id": 53,
     "name": "Mask of “Agamemnon”",
     "date": "-1550",
     "description": "",
-    "tags": ["Human", "Greece"]
+    "tags": ["Human", "Greece", "Artefact"]
   },
   {
     "id": 54,
     "name": "Bull leaping fresco",
     "date": "-1600",
     "description": "1600 - 1450 BC",
-    "tags": ["Human", "Greece"]
+    "tags": ["Human", "Greece", "Artefact"]
   },
   {
     "id": 55,
     "name": "Hatshepsut temple",
     "date": "-1450",
     "description": "",
-    "tags": ["Human", "Egypt"]
+    "tags": ["Human", "Egypt", "Construct"]
   },
   {
     "id": 56,
     "name": "Ziggurat of Dur Kurigalzu",
     "date": "-1375",
     "description": "Founded by Kassite king of Babylon, Kurigalzu I",
-    "tags": ["Human", "Mesopotamia"]
+    "tags": ["Human", "Mesopotamia", "Construct"]
   },
   {
     "id": 57,
@@ -313,28 +313,28 @@
     "name": "Mask of Tutankhamun",
     "date": "-1323",
     "description": "His grave was perhaps safe from robbers because he died fairly young (19) and was thus largely forgotten.",
-    "tags": ["Human", "Egypt"]
+    "tags": ["Human", "Egypt", "Artefact"]
   },
   {
     "id": 59,
     "name": "Merneptah stele",
     "date": "-1208",
     "description": "The earliest mention of Israel in any writing.",
-    "tags": ["Human", "Levant"]
+    "tags": ["Human", "Levant", "Artefact"]
   },
   {
     "id": 60,
     "name": "Olmec colossal heads",
     "date": "-900",
     "description": "Olmec were an early known major Mesoamerican civilization, flourishing in the modern-day Mexican states of Veracruz and Tabasco from roughly 1200 to 400 BCE during Mesoamerica's formative period",
-    "tags": ["Human", "Mesoamerica"]
+    "tags": ["Human", "Mesoamerica", "Artefact"]
   },
   {
     "id": 61,
     "name": "Rosetta stone",
     "date": "-196",
     "description": "",
-    "tags": ["Human", "Egypt"]
+    "tags": ["Human", "Egypt", "Artefact"]
   },
   {
     "id": 62,
@@ -409,28 +409,28 @@
   {
     "id": 72,
     "name": "Domestication of Dog",
-    "date": "-15000",
+    "date": "-13000",
     "description": "",
     "tags": ["Human", "Domestication"]
   },
   {
     "id": 73,
     "name": "Domestication of Goat, Sheep, Pig, Cow",
-    "date": "9000",
+    "date": "-11000",
     "description": "11000 - 10000 years ago.",
     "tags": ["Human", "Domestication"]
   },
   {
     "id": 74,
     "name": "Domestication of Wheat and Barley",
-    "date": "-13000",
+    "date": "-11000",
     "description": "13000 - 11000 years ago.",
     "tags": ["Human", "Domestication"]
   },
   {
     "id": 75,
     "name": "Domestication of Flax",
-    "date": "-13000",
+    "date": "-11000",
     "description": "13000 - 11000 years ago.",
     "tags": ["Human", "Domestication"]
   },
@@ -654,8 +654,8 @@
   {
     "id": 108,
     "name": "Copper",
-    "date": "-3200",
-    "description": "",
+    "date": "-5500",
+    "description": "Serbia",
     "tags": ["Human", "Technology"]
   },
   {
@@ -965,5 +965,96 @@
     "date": "-30000",
     "description": "",
     "tags": ["Artefact"]
+  },
+  {
+    "id": 153,
+    "name": "Indus Valley Civilization",
+    "date": "-3300",
+    "description": "Abandoned 1300 BC",
+    "tags": ["Human", "Settlement"]
+  },
+  {
+    "id": 154,
+    "name": "iPhone",
+    "date": "2007-6-29",
+    "description": "",
+    "tags": ["Technology"]
+  },
+  {
+    "id": 155,
+    "name": "Julius Caesar",
+    "description": "Born 100 BC",
+    "date": "-44",
+    "tags": ["People"]
+  },
+  {
+    "id": 156,
+    "name": "Alexander the Great",
+    "description": "Born 356 BC",
+    "date": "-323",
+    "tags": ["People"]
+  },
+  {
+    "id": 157,
+    "name": "Charlemagne",
+    "description": "Born 748. Died 814. Holy Roman Emperor in 800.",
+    "date": "800",
+    "tags": ["People"]
+  },
+  {
+    "id": 158,
+    "name": "Marcus Aurelius",
+    "description": "Born 121.",
+    "date": "180",
+    "tags": ["People"]
+  },
+  {
+    "id": 159,
+    "name": "Constantine the Great",
+    "description": "Born 272. Died 337. Contested Roman Emperor since 306. Undisputed since 324.",
+    "date": "324",
+    "tags": ["People"]
+  },
+  {
+    "id": 160,
+    "name": "Napoleon",
+    "description": "- 1769-1821\n- 1804 Emperor of the French",
+    "date": "1804",
+    "tags": ["People"]
+  },
+  {
+    "id": 161,
+    "name": "Printing Press",
+    "description": "",
+    "date": "1456",
+    "tags": ["Technology"]
+  },
+  {
+    "id": 162,
+    "name": "Sailing",
+    "date": "-5500",
+    "description": "",
+    "tags": ["Human", "Technology"]
+  },
+  {
+    "id": 163,
+    "name": "Genghis Khan",
+    "description": "Born 1162. Died 1227.",
+    "date": "1227",
+    "tags": ["People"]
+  },
+  {
+    "id": 164,
+    "name": "Christopher Colmubus",
+    "description": "Born 1451. Died 1506.",
+    "date": "1492",
+    "tags": ["People"]
+  },
+  {
+    "id": 165,
+    "name": "Tutankhamun",
+    "date": "-1323",
+    "description": "Born 1341 BC. Died 1323 BC (aged 18-19).",
+    "tags": ["Human", "Egypt", "People"]
   }
 ]

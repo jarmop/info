@@ -10,37 +10,56 @@ export function Timeline() {
   const [dataByYear, setDataByYear] = useState<Record<string, Datum[]>>({})
   const [years, setYears] = useState<number[]>([])
   const [yearRange, setYearRange] = useState<{ start?: number; end?: number }>({
-    start: undefined,
-    end: undefined,
+    start: 0,
+    end: new Date().getFullYear(),
   })
+  const step = 50
 
   useEffect(() => {
     const newDataByYear: typeof dataByYear = {}
+
+    function yearToMillennia(year: number) {
+      return Math.floor(year / step) * step
+    }
 
     visibleData.forEach((d) => {
       const year = d.date.charAt(0) === '-'
         ? parseInt(`-${d.date.split('-')[1]}`)
         : parseInt(d.date.split('-')[0])
+      const millennia = yearToMillennia(year)
 
       if (
-        (yearRange.start && year < yearRange.start) ||
-        (yearRange.end && year > yearRange.end)
+        (yearRange.start !== undefined && year < yearRange.start) ||
+        (yearRange.end !== undefined && year > yearRange.end)
       ) {
         return
       }
 
-      if (!newDataByYear[year]) {
-        newDataByYear[year] = []
+      if (!newDataByYear[millennia]) {
+        newDataByYear[millennia] = []
       }
 
-      newDataByYear[year].push(d)
+      newDataByYear[millennia].push(d)
     })
 
     // need to sort again to get negative years first
-    const newYears = Object.keys(newDataByYear).map((y) => parseInt(y)).sort(
+    const keyYears = Object.keys(newDataByYear).map((y) => parseInt(y)).sort(
       // Sort by numeric value, lowest first (default sort converts to string)
       (a, b) => a - b,
     )
+    const minYear = Math.min(...keyYears)
+    const maxYear = Math.max(...keyYears)
+    const newYears: number[] = []
+    const loopLimit = 1000
+    const maxYearLimit = (maxYear - minYear) / step > loopLimit
+      ? minYear + loopLimit * step
+      : maxYear
+    for (let i = minYear; i <= maxYearLimit; i += step) {
+      newYears.push(i)
+      if (!newDataByYear[i]) {
+        newDataByYear[i] = []
+      }
+    }
 
     setDataByYear(newDataByYear)
     setYears(newYears)
@@ -54,16 +73,21 @@ export function Timeline() {
   }, [visibleData, yearRange])
 
   return (
-    <div>
+    <div className='text-xs'>
       <div className='p-1 bg-gray-300 flex'>
         <div className='p-1'>
           <input
-            type='number'
+            type='text'
             placeholder='start year'
             className='bg-white px-1 w-24'
-            value={yearRange.start || ''}
-            onChange={(e) =>
-              setYearRange({ ...yearRange, start: parseInt(e.target.value) })}
+            defaultValue={yearRange.start || ''}
+            onChange={(e) => {
+              const value = parseInt(e.target.value)
+              if (isNaN(value)) {
+                return
+              }
+              setYearRange({ ...yearRange, start: value })
+            }}
           />
         </div>
       </div>
