@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { useActiveItem, useData } from './store.ts'
+import { Datum, useActiveItem, useData } from './store.ts'
 import { formatYear, parseYear } from './helpers.ts'
 
 const defaultItem = { id: -1, name: '', description: '', date: '' }
@@ -65,6 +65,30 @@ export function Sidebar() {
         className='resize bg-white p-1 field-sizing-content block mt-2 w-full'
         value={item.tags?.join(', ')}
         onChange={(e) => setItem({ ...item, tags: e.target.value.split(', ') })}
+      />
+      <input
+        placeholder='small image'
+        type='text'
+        className='bg-white p-1 w-full mt-2'
+        value={item.image?.small || ''}
+        onChange={(e) => {
+          setItem({
+            ...item,
+            image: { small: e.target.value, large: item.image?.large || '' },
+          })
+        }}
+      />
+      <input
+        placeholder='large image'
+        type='text'
+        className='bg-white p-1 w-full mt-2'
+        value={item.image?.large || ''}
+        onChange={(e) => {
+          setItem({
+            ...item,
+            image: { small: item.image?.small || '', large: e.target.value },
+          })
+        }}
       />
       <div className='flex justify-between mt-4'>
         <div>

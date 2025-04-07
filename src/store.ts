@@ -4,14 +4,14 @@ import rawData from './assets/data.json' with { type: 'json' }
 import { useMemo } from 'react'
 import { sortByDate } from './helpers.ts'
 
-export type Datum = typeof rawData[number]
-
-// export type Datum = {
-//   id: number
-//   name: string
-//   description: string
-//   date: string
-// }
+export type Datum = {
+  id: number
+  name: string
+  description: string
+  date: string
+  tags?: string[]
+  image?: { small: string; large: string }
+}
 
 interface State {
   activeId: number

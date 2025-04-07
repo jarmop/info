@@ -13,6 +13,7 @@ export function Flow() {
             key={d.id}
             d={d}
             showYear
+            showImage
           />
         ))}
       </div>
