@@ -277,7 +277,7 @@
     "id": 53,
     "name": "Mask of “Agamemnon”",
     "date": "-1550",
-    "description": "",
+    "description": "Discovered at the Bronze Age site of Mycenae in southern Greece.",
     "tags": ["Human", "Greece", "Artefact"]
   },
   {
@@ -894,63 +894,63 @@
     "name": "Babylon",
     "date": "-1894",
     "description": "Abandoned 1000 AD",
-    "tags": ["Human", "Settlement"]
+    "tags": ["Human", "Settlement", "Mesopotamia", "Babylonia"]
   },
   {
     "id": 143,
     "name": "Sumer",
     "date": "-5500",
     "description": "Most historians have suggested that Sumer was first permanently settled between c. 5500 and c. 3300 BC.\n\nAbandoned 1800 BC",
-    "tags": ["Human", "Settlement"]
+    "tags": ["Human", "Settlement", "Mesopotamia"]
   },
   {
     "id": 144,
     "name": "Nineveh",
     "date": "-6000",
     "description": "Abandoned 612 BC.",
-    "tags": ["Human", "Settlement"]
+    "tags": ["Human", "Settlement", "Assyria", "Mesopotamia"]
   },
   {
     "id": 145,
     "name": "Assur",
     "date": "-2500",
     "description": "Archaeology reveals the site of the city was occupied by the middle of the 3rd millennium BC.",
-    "tags": ["Human", "Settlement"]
+    "tags": ["Human", "Settlement", "Assyria"]
   },
   {
     "id": 146,
     "name": "Uruk",
     "date": "-5000",
     "description": "Abandoned 700 AD",
-    "tags": ["Human", "Settlement"]
+    "tags": ["Human", "Settlement", "Mesopotamia"]
   },
   {
     "id": 147,
     "name": "Ur",
     "date": "-3800",
     "description": "Abandoned 500 BC",
-    "tags": ["Human", "Settlement"]
+    "tags": ["Human", "Settlement", "Mesopotamia", "Sumer", "Akkadia"]
   },
   {
     "id": 148,
     "name": "Memphis",
     "date": "-3150",
     "description": "During the Early Dynastic Period (3150 BC - 2686 BC) and Old Kingdom, Memphis became the capital of Ancient Egypt for more than six consecutive dynasties.",
-    "tags": ["Human", "Settlement"]
+    "tags": ["Human", "Settlement", "Egypt"]
   },
   {
     "id": 149,
     "name": "Athens",
     "date": "-1400",
     "description": "Athens has been continuously inhabited for at least 5,000 years. By 1400 BC, the settlement had become an important centre of the Mycenaean civilization",
-    "tags": ["Human", "Settlement"]
+    "tags": ["Human", "Settlement", "Greece"]
   },
   {
     "id": 150,
     "name": "Kish",
     "date": "-5300",
     "description": "Kish was occupied from the Ubaid period (5300-4300 BC). The Sumerian King List (2084-1648 BC) states that Kish was the first city to have kings following the deluge.",
-    "tags": ["Human", "Settlement"]
+    "tags": ["Human", "Settlement", "Mesopotamia"]
   },
   {
     "id": 151,
@@ -971,7 +971,7 @@
     "name": "Indus Valley Civilization",
     "date": "-3300",
     "description": "Abandoned 1300 BC",
-    "tags": ["Human", "Settlement"]
+    "tags": ["Human", "Settlement", "India"]
   },
   {
     "id": 154,
@@ -1056,5 +1056,236 @@
     "date": "-1323",
     "description": "Born 1341 BC. Died 1323 BC (aged 18-19).",
     "tags": ["Human", "Egypt", "People"]
+  },
+  {
+    "id": 166,
+    "name": "Early Dynastic Period",
+    "description": "",
+    "date": "-3150",
+    "tags": ["Egypt", "Kingdom"]
+  },
+  {
+    "id": 167,
+    "name": "Old Kingdom",
+    "description": "",
+    "date": "-2686",
+    "tags": ["Egypt", "Kingdom"]
+  },
+  {
+    "id": 168,
+    "name": "First Intermediate Period",
+    "description": "Ends 2055. (Overlaps with the next period)",
+    "date": "-2181",
+    "tags": ["Egypt", "Kingdom"]
+  },
+  {
+    "id": 169,
+    "name": "Middle Kingdom",
+    "description": "Ends 1690 BC",
+    "date": "-2134",
+    "tags": ["Egypt", "Kingdom"]
+  },
+  {
+    "id": 170,
+    "name": "Second Intermediate Period",
+    "description": "",
+    "date": "-1674",
+    "tags": ["Egypt", "Kingdom"]
+  },
+  {
+    "id": 171,
+    "name": "New Kingdom",
+    "description": "",
+    "date": "-1549",
+    "tags": ["Egypt", "Kingdom"]
+  },
+  {
+    "id": 172,
+    "name": "Third Intermediate Period",
+    "description": "",
+    "date": "-1069",
+    "tags": ["Egypt", "Kingdom"]
+  },
+  {
+    "id": 173,
+    "name": "Late Period",
+    "description": "",
+    "date": "-653",
+    "tags": ["Egypt", "Kingdom"]
+  },
+  {
+    "id": 174,
+    "name": "Ptolemaic period",
+    "description": "",
+    "date": "-332",
+    "tags": ["Egypt", "Kingdom"]
+  },
+  {
+    "id": 175,
+    "name": "Roman period",
+    "description": "Until 642 AD",
+    "date": "-30",
+    "tags": ["Egypt", "Kingdom"]
+  },
+  {
+    "id": 176,
+    "name": "Early Helladic",
+    "date": "-3200",
+    "description": "",
+    "tags": ["Greece"]
+  },
+  {
+    "id": 177,
+    "name": "Middle Helladic",
+    "date": "-2000",
+    "description": "",
+    "tags": ["Greece"]
+  },
+  {
+    "id": 178,
+    "name": "Late Helladic",
+    "date": "-1550",
+    "description": "Until 1050 BC",
+    "tags": ["Greece"]
+  },
+  {
+    "id": 179,
+    "name": "Early Assyrian period",
+    "date": "-2600",
+    "description": "Until 2025 BC",
+    "tags": ["Assyria"]
+  },
+  {
+    "id": 180,
+    "name": "Old Assyrian period",
+    "date": "-2025",
+    "description": "Until 1364 BC",
+    "tags": ["Assyria"]
+  },
+  {
+    "id": 181,
+    "name": "Middle Assyrian Empire",
+    "date": "-1363",
+    "description": "Until 912 BC",
+    "tags": ["Assyria"]
+  },
+  {
+    "id": 182,
+    "name": "Neo-Assyrian Empire",
+    "date": "-911",
+    "description": "Until 609 BC",
+    "tags": ["Assyria", "Mesopotamia"]
+  },
+  {
+    "id": 183,
+    "name": "Akkadian Empire",
+    "date": "-2334",
+    "description": "Until 2154 BC",
+    "tags": ["Akkadia", "Mesopotamia"]
+  },
+  {
+    "id": 184,
+    "name": "First Babylonian dynasty",
+    "date": "-1894",
+    "description": "",
+    "tags": ["Mesopotamia", "Babylonia"]
+  },
+  {
+    "id": 185,
+    "name": "Kassite dynasty",
+    "date": "-1595",
+    "description": "",
+    "tags": ["Mesopotamia", "Babylonia"]
+  },
+  {
+    "id": 186,
+    "name": "Early Iron Age",
+    "date": "-1155",
+    "description": "",
+    "tags": ["Mesopotamia", "Babylonia"]
+  },
+  {
+    "id": 187,
+    "name": "Period of chaos",
+    "date": "-1026",
+    "description": "",
+    "tags": ["Mesopotamia", "Babylonia"]
+  },
+  {
+    "id": 188,
+    "name": "Assyrian rule",
+    "date": "-911",
+    "description": "",
+    "tags": ["Mesopotamia", "Babylonia"]
+  },
+  {
+    "id": 189,
+    "name": "Hittite Empire",
+    "date": "-1650",
+    "description": "",
+    "tags": ["Anatolia"]
+  },
+  {
+    "id": 190,
+    "name": "Troy",
+    "date": "-3600",
+    "description": "",
+    "tags": ["Anatolia", "Settlement"]
+  },
+  {
+    "id": 191,
+    "name": "Troy II",
+    "date": "-2550",
+    "description": "Twice the size of the preceding city.",
+    "tags": ["Anatolia", "Settlement"]
+  },
+  {
+    "id": 192,
+    "name": "Troy VI",
+    "date": "-1750",
+    "description": "Destroyed around 1300 BC. Indicative of an earthquake.\n\nTroy VI–VII is believed to be the city referred to as Wilusa and Taruisa in Hittite records",
+    "tags": ["Anatolia", "Settlement"]
+  },
+  {
+    "id": 193,
+    "name": "Troy VIIa",
+    "date": "-1300",
+    "description": "Destroyed around 1180 BC.",
+    "tags": ["Anatolia", "Settlement"]
+  },
+  {
+    "id": 194,
+    "name": "Troy VIIb",
+    "date": "-1180",
+    "description": "Destroyed by fire around 950 BC.",
+    "tags": ["Anatolia", "Settlement"]
+  },
+  {
+    "id": 195,
+    "name": "Early Minoan",
+    "date": "-3200",
+    "description": "",
+    "tags": ["Crete"]
+  },
+  {
+    "id": 196,
+    "name": "Middle Minoan",
+    "date": "-2160",
+    "description": "",
+    "tags": ["Crete"]
+  },
+  {
+    "id": 197,
+    "name": "Late Minoan",
+    "date": "-1600",
+    "description": "Until 1100 BC.",
+    "tags": ["Crete"]
+  },
+  {
+    "id": 198,
+    "name": "Mycenae",
+    "date": "-1550",
+    "description": "The dominant state in Greece during the Late Helladic period (1550-1050 BC).",
+    "tags": ["Greece"]
   }
 ]

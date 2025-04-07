@@ -1,8 +1,16 @@
 import { Datum } from './store.ts'
 
+export function getYear(date: string) {
+  const parts = date.split('-')
+  return parts[0] === '' ? -parseInt(parts[1]) : parseInt(parts[0])
+}
+
 function compareDate(a: Datum, b: Datum) {
-  if (a.date < b.date) return -1
-  else if (a.date > b.date) return 1
+  const aYear = getYear(a.date)
+  const bYear = getYear(b.date)
+
+  if (aYear < bYear) return -1
+  else if (aYear > bYear) return 1
   else return 0
 }
 

@@ -1,13 +1,14 @@
 import { Box } from './Box.tsx'
 import { useData } from './store.ts'
+import { sortByDate } from './helpers.ts'
 
-function InlineBlocks() {
+export function Flow() {
   const { visibleData } = useData()
 
   return (
     <div className='m-2'>
       <div className='-m-1 flex flex-row flex-wrap'>
-        {visibleData.map((d) => (
+        {sortByDate(visibleData).map((d) => (
           <Box
             key={d.id}
             d={d}
@@ -18,5 +19,3 @@ function InlineBlocks() {
     </div>
   )
 }
-
-export default InlineBlocks

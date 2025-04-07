@@ -1,5 +1,5 @@
 import './App.css'
-import InlineBlocks from './InlineBlocks.tsx'
+import { Flow } from './Flow.tsx'
 import { Header } from './Header.tsx'
 import { Timeline } from './Timeline.tsx'
 import { useMode } from './store.ts'
@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <Header />
-      {mode === 'timeline' ? <Timeline /> : <InlineBlocks />}
+      {mode === 'timeline' ? <Timeline /> : <Flow />}
       <Sidebar />
     </>
   )

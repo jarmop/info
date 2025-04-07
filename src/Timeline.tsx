@@ -1,7 +1,7 @@
 import { Fragment, useEffect, useState } from 'react'
 import { Datum, useData, useTags, useVisibleIds } from './store.ts'
 import { Box } from './Box.tsx'
-import { formatYear } from './helpers.ts'
+import { formatYear, getYear } from './helpers.ts'
 
 export function Timeline() {
   const { visibleIds } = useVisibleIds()
@@ -10,7 +10,7 @@ export function Timeline() {
   const [dataByYear, setDataByYear] = useState<Record<string, Datum[]>>({})
   const [years, setYears] = useState<number[]>([])
   const [yearRange, setYearRange] = useState<{ start?: number; end?: number }>({
-    start: 0,
+    start: -2000,
     end: new Date().getFullYear(),
   })
   const step = 50
@@ -23,9 +23,7 @@ export function Timeline() {
     }
 
     visibleData.forEach((d) => {
-      const year = d.date.charAt(0) === '-'
-        ? parseInt(`-${d.date.split('-')[1]}`)
-        : parseInt(d.date.split('-')[0])
+      const year = getYear(d.date)
       const millennia = yearToMillennia(year)
 
       if (
