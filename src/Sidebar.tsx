@@ -47,13 +47,23 @@ export function Sidebar() {
         value={item.name}
         onChange={(e) => setItem({ ...item, name: e.target.value })}
       />
-      <input
-        placeholder='date'
-        type='text'
-        className='bg-white mt-2 p-1'
-        value={item.date}
-        onChange={(e) => setItem({ ...item, date: e.target.value })}
-      />
+      <div className='flex items-center'>
+        <input
+          placeholder='start'
+          type='text'
+          className='bg-white mt-2 p-1 w-12'
+          value={item.date}
+          onChange={(e) => setItem({ ...item, date: e.target.value })}
+        />
+        <div className='mt-2 mx-2'>-</div>
+        <input
+          placeholder='end'
+          type='text'
+          className='bg-white mt-2 p-1 w-12'
+          value={item.end || ''}
+          onChange={(e) => setItem({ ...item, end: e.target.value })}
+        />
+      </div>
       <textarea
         placeholder='description'
         className='resize bg-white p-1 field-sizing-content block mt-2 w-full min-h-50'

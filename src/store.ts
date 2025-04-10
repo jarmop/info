@@ -9,6 +9,7 @@ export type Datum = {
   name: string
   description: string
   date: string
+  end?: string
   tags?: string[]
   image?: { small: string; large: string }
   person?: string
