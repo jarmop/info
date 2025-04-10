@@ -11,6 +11,7 @@ export type Datum = {
   date: string
   tags?: string[]
   image?: { small: string; large: string }
+  person?: string
 }
 
 interface State {

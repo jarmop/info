@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { Datum, useActiveItem, useData } from './store.ts'
+import { useActiveItem, useData } from './store.ts'
 import { formatYear, parseYear } from './helpers.ts'
 
 const defaultItem = { id: -1, name: '', description: '', date: '' }
@@ -87,6 +87,18 @@ export function Sidebar() {
           setItem({
             ...item,
             image: { small: item.image?.small || '', large: e.target.value },
+          })
+        }}
+      />
+      <input
+        placeholder='person'
+        type='text'
+        className='bg-white p-1 w-full mt-2'
+        value={item.person || ''}
+        onChange={(e) => {
+          setItem({
+            ...item,
+            person: e.target.value,
           })
         }}
       />

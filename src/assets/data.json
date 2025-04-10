@@ -736,7 +736,11 @@
     "name": "Sundial",
     "date": "-800",
     "description": "",
-    "tags": ["Human", "Technology"]
+    "tags": ["Technology"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Leiden_-_Rijksmuseum_van_Oudheden_-_Egyptian_antiquities_-_Ancient_Egyptian_sundial.jpg/250px-Leiden_-_Rijksmuseum_van_Oudheden_-_Egyptian_antiquities_-_Ancient_Egyptian_sundial.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Leiden_-_Rijksmuseum_van_Oudheden_-_Egyptian_antiquities_-_Ancient_Egyptian_sundial.jpg/1280px-Leiden_-_Rijksmuseum_van_Oudheden_-_Egyptian_antiquities_-_Ancient_Egyptian_sundial.jpg"
+    }
   },
   {
     "id": 114,
@@ -1080,7 +1084,11 @@
     "name": "Printing Press",
     "description": "",
     "date": "1440",
-    "tags": ["Technology"]
+    "tags": ["Technology"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/PrintMus_038.jpg/220px-PrintMus_038.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/PrintMus_038.jpg/1280px-PrintMus_038.jpg"
+    }
   },
   {
     "id": 162,
@@ -4203,6 +4211,203 @@
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Montgolfier_brothers_flight.jpg/250px-Montgolfier_brothers_flight.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Montgolfier_brothers_flight.jpg/1280px-Montgolfier_brothers_flight.jpg"
+    }
+  },
+  {
+    "id": 459,
+    "name": "Hourglass",
+    "date": "1338",
+    "description": "The first documented example dates from the 14th century, a depiction in the 1338 fresco Allegory of Good Government by Ambrogio Lorenzetti.",
+    "tags": ["Technology"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ambrogio_Lorenzetti_002-detail-Temperance.jpg/250px-Ambrogio_Lorenzetti_002-detail-Temperance.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Ambrogio_Lorenzetti_002-detail-Temperance.jpg"
+    }
+  },
+  {
+    "id": 460,
+    "name": "Compass",
+    "description": "The first recorded appearance of the use of the compass in Europe, as a description of a magnetized needle and its use among sailors, occurs in Alexander Neckam's De naturis rerum (On the Natures of Things), written in 1190.",
+    "date": "1190",
+    "tags": ["Technology"],
+    "image": { "small": "", "large": "" }
+  },
+  {
+    "id": 461,
+    "name": "Coca-Cola",
+    "date": "1886",
+    "description": "The picture is from 1888, and is believed to be the first coupon.",
+    "tags": ["Technology"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/19th_century_Coca-Cola_coupon.jpg/250px-19th_century_Coca-Cola_coupon.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/19th_century_Coca-Cola_coupon.jpg/1280px-19th_century_Coca-Cola_coupon.jpg"
+    }
+  },
+  {
+    "id": 462,
+    "name": "Billy the Kid",
+    "date": "1880",
+    "description": "- 1859 - 1881\n- Portrait attributed to Ben Wittick, c. 1880",
+    "tags": ["Artefact", "Photo", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Billy_the_Kid_tintype%2C_Fort_Sumner%2C_1879-80-Edit2.jpg/250px-Billy_the_Kid_tintype%2C_Fort_Sumner%2C_1879-80-Edit2.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Billy_the_Kid_tintype%2C_Fort_Sumner%2C_1879-80-Edit2.jpg/1024px-Billy_the_Kid_tintype%2C_Fort_Sumner%2C_1879-80-Edit2.jpg"
+    }
+  },
+  {
+    "id": 463,
+    "name": "Shipping container",
+    "date": "1956",
+    "description": "",
+    "tags": ["Technology"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Container_01_KMJ.jpg/250px-Container_01_KMJ.jpg",
+      "large": ""
+    }
+  },
+  {
+    "id": 464,
+    "name": "Still on Top",
+    "date": "1873",
+    "description": "",
+    "tags": ["England", "Artefact", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/James_Tissot_-_Still_on_Top_-_Google_Art_Project.jpg/220px-James_Tissot_-_Still_on_Top_-_Google_Art_Project.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/James_Tissot_-_Still_on_Top_-_Google_Art_Project.jpg/1024px-James_Tissot_-_Still_on_Top_-_Google_Art_Project.jpg"
+    },
+    "person": "James Tissot"
+  },
+  {
+    "id": 465,
+    "name": "Sovereigns No. 8, Wilhelm I",
+    "date": "1871",
+    "description": "",
+    "tags": ["England", "Artefact", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wilhelm_I%2C_Vanity_Fair%2C_1871-01-07.jpg/250px-Wilhelm_I%2C_Vanity_Fair%2C_1871-01-07.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/8/81/Wilhelm_I%2C_Vanity_Fair%2C_1871-01-07.jpg"
+    },
+    "person": "James Tissot"
+  },
+  {
+    "id": 466,
+    "name": "Mayflower arrives in America",
+    "date": "1620",
+    "description": "",
+    "tags": ["Technology", "Event"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Copyrighted_and_Published_by_A_S_Burbank%2C_The_Mayflower_at_Sea_%28NBY_21340%29.jpg/300px-Copyrighted_and_Published_by_A_S_Burbank%2C_The_Mayflower_at_Sea_%28NBY_21340%29.jpg",
+      "large": ""
+    }
+  },
+  {
+    "id": 467,
+    "name": "Salem witch trials",
+    "date": "1692",
+    "description": "1692-1693",
+    "tags": ["Event"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Witchcraft_at_Salem_Village.jpg/220px-Witchcraft_at_Salem_Village.jpg",
+      "large": ""
+    }
+  },
+  {
+    "id": 468,
+    "name": "Seven Years' War",
+    "date": "1756",
+    "description": "1756 - 1763",
+    "tags": ["Event", "War"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Seven_Years%27_War_Collage.jpg/300px-Seven_Years%27_War_Collage.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Seven_Years%27_War_Collage.jpg/1280px-Seven_Years%27_War_Collage.jpg"
+    }
+  },
+  {
+    "id": 469,
+    "name": "Lisbon earthquake",
+    "date": "1755",
+    "description": "",
+    "tags": ["Event"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ex-voto_a_Nossa_Senhora_da_Estrela_%282.%C2%AA_metade_s%C3%A9c._XVIII%29_-_Jo%C3%A3o_Glama_Str%C3%B6berle%2C_atrib._%28Museu_de_Lisboa%2C_MC.PIN.0269%29.png/220px-Ex-voto_a_Nossa_Senhora_da_Estrela_%282.%C2%AA_metade_s%C3%A9c._XVIII%29_-_Jo%C3%A3o_Glama_Str%C3%B6berle%2C_atrib._%28Museu_de_Lisboa%2C_MC.PIN.0269%29.png",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ex-voto_a_Nossa_Senhora_da_Estrela_%282.%C2%AA_metade_s%C3%A9c._XVIII%29_-_Jo%C3%A3o_Glama_Str%C3%B6berle%2C_atrib._%28Museu_de_Lisboa%2C_MC.PIN.0269%29.png/1280px-Ex-voto_a_Nossa_Senhora_da_Estrela_%282.%C2%AA_metade_s%C3%A9c._XVIII%29_-_Jo%C3%A3o_Glama_Str%C3%B6berle%2C_atrib._%28Museu_de_Lisboa%2C_MC.PIN.0269%29.png"
+    }
+  },
+  {
+    "id": 470,
+    "name": "Great Fire of London",
+    "date": "1666",
+    "description": "",
+    "tags": ["Event"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Great_Fire_London.jpg/400px-Great_Fire_London.jpg",
+      "large": ""
+    }
+  },
+  {
+    "id": 471,
+    "name": "Chocolate in Europe",
+    "date": "1585",
+    "description": "The earliest documented introduction to the Spanish court occurred in 1544, but it was not until 1585 that the first official shipment of cacao to Europe was recorded. In the 18th century, chocolate was considered southern European, aristocratic and Catholic. This was in contrast to the bourgeois coffee and proletarian alcohol.",
+    "tags": ["Event"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chocolate_%28blue_background%29.jpg/220px-Chocolate_%28blue_background%29.jpg",
+      "large": ""
+    }
+  },
+  {
+    "id": 472,
+    "name": "United States Declaration of Independence",
+    "date": "1776",
+    "description": "",
+    "tags": ["Event"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/United_States_Declaration_of_Independence.jpg/440px-United_States_Declaration_of_Independence.jpg",
+      "large": ""
+    }
+  },
+  {
+    "id": 473,
+    "name": "War of the Austrian Succession",
+    "date": "1740",
+    "description": "1740 - 1748",
+    "tags": ["Event", "War"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/War_of_The_Austrian_Succesion_Collage_1.jpg/280px-War_of_The_Austrian_Succesion_Collage_1.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/War_of_The_Austrian_Succesion_Collage_1.jpg/1280px-War_of_The_Austrian_Succesion_Collage_1.jpg"
+    }
+  },
+  {
+    "id": 474,
+    "name": "Glorious Revolution",
+    "date": "1688",
+    "description": "",
+    "tags": ["Event"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/William_of_Orange_III_and_his_Dutch_army_land_in_Brixham%2C_1688.jpg/240px-William_of_Orange_III_and_his_Dutch_army_land_in_Brixham%2C_1688.jpg",
+      "large": ""
+    }
+  },
+  {
+    "id": 475,
+    "name": "Peace of Westphalia",
+    "date": "1648",
+    "description": "",
+    "tags": ["Event"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/M%C3%BCnster%2C_Historisches_Rathaus_--_2014_--_6855.jpg/200px-M%C3%BCnster%2C_Historisches_Rathaus_--_2014_--_6855.jpg",
+      "large": ""
+    }
+  },
+  {
+    "id": 476,
+    "name": "Anglo-Spanish War",
+    "date": "1585",
+    "description": "1585 - 1604",
+    "tags": ["Event", "War"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/English_Ships_and_the_Spanish_Armada%2C_August_1588_RMG_BHC0262.jpg/300px-English_Ships_and_the_Spanish_Armada%2C_August_1588_RMG_BHC0262.jpg",
+      "large": ""
     }
   }
 ]
