@@ -51,7 +51,7 @@ export function Sidebar() {
         <input
           placeholder='start'
           type='text'
-          className='bg-white mt-2 p-1 w-12'
+          className='bg-white mt-2 p-1 w-23'
           value={item.date}
           onChange={(e) => setItem({ ...item, date: e.target.value })}
         />
@@ -59,7 +59,7 @@ export function Sidebar() {
         <input
           placeholder='end'
           type='text'
-          className='bg-white mt-2 p-1 w-12'
+          className='bg-white mt-2 p-1 w-23'
           value={item.end || ''}
           onChange={(e) => setItem({ ...item, end: e.target.value })}
         />
