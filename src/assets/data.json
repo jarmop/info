@@ -4138,7 +4138,7 @@
     "name": "The first steam battleship",
     "date": "1850",
     "description": "French ship Napoléon",
-    "tags": ["Technology"],
+    "tags": ["Technology", "Seafaring", "War"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Napoleon%281850%29.jpg/220px-Napoleon%281850%29.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Napoleon%281850%29.jpg"
@@ -4160,7 +4160,7 @@
     "name": "Battle tank",
     "date": "1916",
     "description": "The first offensive using tanks took place on 15 September 1916, during the Battle of the Somme. Forty-nine of the Mark I type were committed, of which thirty-two were mechanically fit to take part in the advance and achieved some small, local successes.",
-    "tags": ["Technology"],
+    "tags": ["Technology", "Photo", "War"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/British_Mark_I_male_tank_Somme_25_September_1916.jpg/250px-British_Mark_I_male_tank_Somme_25_September_1916.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/British_Mark_I_male_tank_Somme_25_September_1916.jpg/1280px-British_Mark_I_male_tank_Somme_25_September_1916.jpg"
@@ -4171,7 +4171,7 @@
     "name": "Flight",
     "date": "1903",
     "description": "The Wright Flyer made the first sustained flight by a manned heavier-than-air powered and controlled aircraft on December 17, 1903.",
-    "tags": ["Technology"],
+    "tags": ["Technology", "Aviation", "Photo"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/First_flight2.jpg/330px-First_flight2.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/First_flight2.jpg/1280px-First_flight2.jpg"
@@ -9577,7 +9577,7 @@
     "name": "\"Revolving\" self-portrait",
     "date": "1865",
     "description": "",
-    "tags": ["Artefact", "Photo"],
+    "tags": ["Artefact", "Photo", "Film", "Technology"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Nadar_autoportrait_tournant.gif/250px-Nadar_autoportrait_tournant.gif",
       "large": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Nadar_autoportrait_tournant.gif"
@@ -10433,7 +10433,7 @@
     "name": "SS Great Britain",
     "date": "1845",
     "description": "\n",
-    "tags": ["Technology", "Ship"],
+    "tags": ["Technology", "Seafaring"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bristol_MMB_43_SS_Great_Britain.jpg/330px-Bristol_MMB_43_SS_Great_Britain.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bristol_MMB_43_SS_Great_Britain.jpg/1280px-Bristol_MMB_43_SS_Great_Britain.jpg"
@@ -10444,7 +10444,7 @@
     "name": "SS Great Western",
     "date": "1845",
     "description": "The first steamship purpose-built for crossing the Atlantic\n",
-    "tags": ["Technology", "Ship"],
+    "tags": ["Technology", "Seafaring"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/The_Steamer_Great_Western_of_Bristol_RMG_A7626.jpg/330px-The_Steamer_Great_Western_of_Bristol_RMG_A7626.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/4/41/The_Steamer_Great_Western_of_Bristol_RMG_A7626.jpg"
@@ -10455,7 +10455,7 @@
     "name": "SS Archimedes",
     "date": "1839",
     "description": "The first steamship to be driven successfully by a screw propeller.",
-    "tags": ["Technology", "Ship"],
+    "tags": ["Technology", "Seafaring"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/The_Archimedes%2C_fitted_with_Mr._F.P._Smith%27s_Patent_Screw_Propeller_-_off_The_Nore%2C_on_her_trip_from_Gravesend_to_Portsmouth_-_May_14th_1839_RMG_PY8879.jpg/330px-The_Archimedes%2C_fitted_with_Mr._F.P._Smith%27s_Patent_Screw_Propeller_-_off_The_Nore%2C_on_her_trip_from_Gravesend_to_Portsmouth_-_May_14th_1839_RMG_PY8879.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/7/7e/The_Archimedes%2C_fitted_with_Mr._F.P._Smith%27s_Patent_Screw_Propeller_-_off_The_Nore%2C_on_her_trip_from_Gravesend_to_Portsmouth_-_May_14th_1839_RMG_PY8879.jpg"
@@ -10466,10 +10466,1189 @@
     "name": "SS Great Eastern",
     "date": "1859",
     "description": "Powered by both sidewheels and screw propellers, she was by far the largest ship ever built at the time of her 1858 launch, and had the capacity to carry 4,000 passengers from England to Australia without refuelling.\n",
-    "tags": ["Technology", "Ship"],
+    "tags": ["Technology", "Seafaring"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Great_Eastern_painting_smooth_sea-2.jpg/220px-Great_Eastern_painting_smooth_sea-2.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Great_Eastern_painting_smooth_sea-2.jpg/1280px-Great_Eastern_painting_smooth_sea-2.jpg"
     }
+  },
+  {
+    "id": 962,
+    "name": "Isambard Kingdom Brunel",
+    "date": "1857",
+    "description": "Standing before the launching chains of the Great Eastern.",
+    "tags": ["Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Robert_Howlett_%28Isambard_Kingdom_Brunel_Standing_Before_the_Launching_Chains_of_the_Great_Eastern%29%2C_The_Metropolitan_Museum_of_Art_-_restoration1.jpg/250px-Robert_Howlett_%28Isambard_Kingdom_Brunel_Standing_Before_the_Launching_Chains_of_the_Great_Eastern%29%2C_The_Metropolitan_Museum_of_Art_-_restoration1.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Robert_Howlett_%28Isambard_Kingdom_Brunel_Standing_Before_the_Launching_Chains_of_the_Great_Eastern%29%2C_The_Metropolitan_Museum_of_Art_-_restoration1.jpg/1280px-Robert_Howlett_%28Isambard_Kingdom_Brunel_Standing_Before_the_Launching_Chains_of_the_Great_Eastern%29%2C_The_Metropolitan_Museum_of_Art_-_restoration1.jpg"
+    },
+    "person": "Robert Howlett"
+  },
+  {
+    "id": 963,
+    "name": "SS Great Eastern under construction",
+    "date": "1857",
+    "description": "",
+    "tags": ["Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/-Men_at_Work_Beside_the_Launching_Chains_of_the_%22Great_Eastern%22-_MET_DP275749_%28cropped%29.jpg/250px--Men_at_Work_Beside_the_Launching_Chains_of_the_%22Great_Eastern%22-_MET_DP275749_%28cropped%29.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/-Men_at_Work_Beside_the_Launching_Chains_of_the_%22Great_Eastern%22-_MET_DP275749_%28cropped%29.jpg/1280px--Men_at_Work_Beside_the_Launching_Chains_of_the_%22Great_Eastern%22-_MET_DP275749_%28cropped%29.jpg"
+    },
+    "person": "Robert Howlett"
+  },
+  {
+    "id": 964,
+    "name": "French reconnaissance balloon",
+    "date": "1796",
+    "description": "L'Intrépide, the oldest existing flying device.",
+    "tags": ["Technology", "Aviation"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/L%E2%80%99Intr%C3%A9pide%2C_Austrian_Military_Museum.jpg/220px-L%E2%80%99Intr%C3%A9pide%2C_Austrian_Military_Museum.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/L%E2%80%99Intr%C3%A9pide%2C_Austrian_Military_Museum.jpg/1024px-L%E2%80%99Intr%C3%A9pide%2C_Austrian_Military_Museum.jpg"
+    }
+  },
+  {
+    "id": 965,
+    "name": "La France flying",
+    "date": "1885",
+    "description": "",
+    "tags": ["Technology", "Aviation", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Le_premier_circuit_ferm%C3%A9_en_dirigeable%2C_25_sept_1885%2C_Commandant_P._Renard%2C_Gallica.jpg/250px-Le_premier_circuit_ferm%C3%A9_en_dirigeable%2C_25_sept_1885%2C_Commandant_P._Renard%2C_Gallica.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Le_premier_circuit_ferm%C3%A9_en_dirigeable%2C_25_sept_1885%2C_Commandant_P._Renard%2C_Gallica.jpg/1280px-Le_premier_circuit_ferm%C3%A9_en_dirigeable%2C_25_sept_1885%2C_Commandant_P._Renard%2C_Gallica.jpg"
+    }
+  },
+  {
+    "id": 966,
+    "name": "Santos-Dumont's \"Number 6\"",
+    "date": "1901",
+    "description": "Rounding the Eiffel Tower in the process of winning the Deutsch de la Meurthe Prize.",
+    "tags": ["Technology", "Aviation", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Santos-Dumont_flight_around_the_Eiffel_Tower.jpg/250px-Santos-Dumont_flight_around_the_Eiffel_Tower.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Santos-Dumont_flight_around_the_Eiffel_Tower.jpg/1280px-Santos-Dumont_flight_around_the_Eiffel_Tower.jpg"
+    }
+  },
+  {
+    "id": 967,
+    "name": "\"Governable parachute\" design",
+    "date": "1852",
+    "description": "",
+    "tags": ["Technology", "Aviation"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Governableparachute.jpg/250px-Governableparachute.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Governableparachute.jpg/1024px-Governableparachute.jpg"
+    }
+  },
+  {
+    "id": 968,
+    "name": "Aerial steam carriage design",
+    "date": "1843",
+    "description": "Artist's impression of John Stringfellow's plane Ariel flying over the Nile.",
+    "tags": ["Technology", "Aviation"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Print_%28BM_1871%2C0812.5370%29.jpg/250px-Print_%28BM_1871%2C0812.5370%29.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/6/61/Print_%28BM_1871%2C0812.5370%29.jpg"
+    }
+  },
+  {
+    "id": 969,
+    "name": "Albatros II",
+    "date": "1868",
+    "description": "Jean-Marie Le Bris and his flying machine",
+    "tags": ["Technology", "Aviation", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/LeBris1868.jpg/250px-LeBris1868.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/5/5b/LeBris1868.jpg"
+    }
+  },
+  {
+    "id": 970,
+    "name": "The Aeroplane of Victor Tatin",
+    "date": "1879",
+    "description": "",
+    "tags": ["Technology", "Aviation"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Victor_Tatin_aeroplane_1879.jpg/250px-Victor_Tatin_aeroplane_1879.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Victor_Tatin_aeroplane_1879.jpg/1280px-Victor_Tatin_aeroplane_1879.jpg"
+    }
+  },
+  {
+    "id": 971,
+    "name": "Otto Lilienthal flying",
+    "date": "1895",
+    "description": "",
+    "tags": ["Technology", "Aviation", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/More_otho_flying.JPG/250px-More_otho_flying.JPG",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/6/6b/More_otho_flying.JPG"
+    }
+  },
+  {
+    "id": 972,
+    "name": "Aerodrome fails",
+    "date": "1903",
+    "description": "First failure of Langley's manned Aerodrome on the Potomac River, 7 October 1903.",
+    "tags": ["Technology", "Aviation", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Samuel_Pierpont_Langley_-_Potomac_experiment_1903.jpeg/250px-Samuel_Pierpont_Langley_-_Potomac_experiment_1903.jpeg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/7/71/Samuel_Pierpont_Langley_-_Potomac_experiment_1903.jpeg"
+    }
+  },
+  {
+    "id": 973,
+    "name": "Machine that flies",
+    "date": "1903",
+    "description": "",
+    "tags": ["Journalism"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/19031228_Machine_That_Flies_-_The_Newark_Daily_Advocate.jpg/330px-19031228_Machine_That_Flies_-_The_Newark_Daily_Advocate.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/19031228_Machine_That_Flies_-_The_Newark_Daily_Advocate.jpg/1280px-19031228_Machine_That_Flies_-_The_Newark_Daily_Advocate.jpg"
+    }
+  },
+  {
+    "id": 974,
+    "name": "Operational jet fighter",
+    "date": "1942",
+    "description": "Me 262 ",
+    "tags": ["Technology", "Aviation", "War"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Messerschmitt_Me_262_Schwable.jpg/220px-Messerschmitt_Me_262_Schwable.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Messerschmitt_Me_262_Schwable.jpg/1280px-Messerschmitt_Me_262_Schwable.jpg"
+    }
+  },
+  {
+    "id": 975,
+    "name": "Commercial jet airliner",
+    "date": "1952",
+    "description": "De Havilland Comet",
+    "tags": ["Technology", "Aviation"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/BEA_de_Havilland_DH-106_Comet_4B_Berlin.jpg/300px-BEA_de_Havilland_DH-106_Comet_4B_Berlin.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/5/5e/BEA_de_Havilland_DH-106_Comet_4B_Berlin.jpg"
+    }
+  },
+  {
+    "id": 976,
+    "name": "Supersonic flight",
+    "date": "1947",
+    "description": "Bell X-1",
+    "tags": ["Technology", "Aviation"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bell_X-1_in_flight.jpg/250px-Bell_X-1_in_flight.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bell_X-1_in_flight.jpg/1280px-Bell_X-1_in_flight.jpg"
+    }
+  },
+  {
+    "id": 977,
+    "name": "Submarine Alexander",
+    "date": "1550",
+    "description": "A 16th-century Islamic painting depicting Alexander the Great being lowered in a glass submersible.",
+    "tags": ["Technology", "Seafaring", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Submerge2.JPG/250px-Submerge2.JPG",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Submerge2.JPG/1280px-Submerge2.JPG"
+    }
+  },
+  {
+    "id": 978,
+    "name": "Submarine",
+    "date": "1624",
+    "description": "Submarine of Cornelius Jacobszoon Drebbel",
+    "tags": ["Technology", "Seafaring", "Painting", "Artefact"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Van_Drebbel.jpg/250px-Van_Drebbel.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Van_Drebbel.jpg"
+    }
+  },
+  {
+    "id": 979,
+    "name": "David Bushnell's Turtle",
+    "date": "1776",
+    "description": "A cutaway depiction of David Bushnell's Turtle. Its paddle propeller has a different appearance than Archimedes' screw.",
+    "tags": ["Technology", "Seafaring", "Artefact"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TurtleSubmarine.jpg/250px-TurtleSubmarine.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/c/c4/TurtleSubmarine.jpg"
+    }
+  },
+  {
+    "id": 980,
+    "name": "Nautilus",
+    "date": "1800",
+    "description": "",
+    "tags": ["Technology", "Seafaring", "Artefact"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/FultonNautilus.jpg/250px-FultonNautilus.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/FultonNautilus.jpg/1280px-FultonNautilus.jpg"
+    },
+    "person": "Robert Fulton"
+  },
+  {
+    "id": 981,
+    "name": "Ottoman submarine Abdül Hamid",
+    "date": "1881",
+    "description": "In service 1881 - 1910",
+    "tags": ["Technology", "Seafaring", "Artefact"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Nordenfelt_submarine_Abd%C3%BClhamid.jpg/300px-Nordenfelt_submarine_Abd%C3%BClhamid.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Nordenfelt_submarine_Abd%C3%BClhamid.jpg/1280px-Nordenfelt_submarine_Abd%C3%BClhamid.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 982,
+    "name": "Plongeur",
+    "date": "1863",
+    "description": "The first submarine to be propelled by mechanized (rather than human) power.",
+    "tags": ["Technology", "Seafaring", "Artefact", "France"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Plongeur.jpg/330px-Plongeur.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Plongeur.jpg/1280px-Plongeur.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 983,
+    "name": "Peral",
+    "date": "1889",
+    "description": "The first successful submarine to be entirely powered by electric batteries and the first fully military-capable submarine.",
+    "tags": ["Technology", "Seafaring", "Spain"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Peral1888.jpg/330px-Peral1888.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/2/25/Peral1888.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 984,
+    "name": "U-boat",
+    "date": "1906",
+    "description": "SM U-1",
+    "tags": ["Technology", "Seafaring"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/SM_U_1_800px.jpg/330px-SM_U_1_800px.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/b/bf/SM_U_1_800px.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 985,
+    "name": "The Mysteryes of Nature and Art",
+    "date": "1634",
+    "description": "",
+    "tags": ["Literature"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/The_Mysteryes_of_Nature_and_Art_bookcover.jpg/250px-The_Mysteryes_of_Nature_and_Art_bookcover.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/en/a/a6/The_Mysteryes_of_Nature_and_Art_bookcover.jpg"
+    },
+    "person": "John Bate"
+  },
+  {
+    "id": 986,
+    "name": "Camera obscura",
+    "date": "1545",
+    "description": "First published picture of camera obscura, in Gemma Frisius' 1545 book De Radio Astronomica et Geometrica",
+    "tags": ["Technology", "Artefact"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/1545_gemma_frisius_-_camera-obscura-sonnenfinsternis_1545-650x337.jpg/250px-1545_gemma_frisius_-_camera-obscura-sonnenfinsternis_1545-650x337.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/4/4d/1545_gemma_frisius_-_camera-obscura-sonnenfinsternis_1545-650x337.jpg"
+    }
+  },
+  {
+    "id": 987,
+    "name": "Stroboscopic animation",
+    "date": "1833",
+    "description": "Animated GIF of Prof. Stampfer's Stroboscopische Scheibe No. X (Trentsensky & Vieweg 1833)",
+    "tags": ["Technology", "Artefact", "Film"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Prof._Stampfer%27s_Stroboscopische_Scheibe_No._X.gif/250px-Prof._Stampfer%27s_Stroboscopische_Scheibe_No._X.gif",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Prof._Stampfer%27s_Stroboscopische_Scheibe_No._X.gif/250px-Prof._Stampfer%27s_Stroboscopische_Scheibe_No._X.gif"
+    }
+  },
+  {
+    "id": 988,
+    "name": "Horse in Motion",
+    "date": "1879",
+    "description": "GIF animation from retouched pictures of The Horse in Motion by Eadweard Muybridge.",
+    "tags": ["Technology", "Artefact", "Film"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Horse_in_Motion-anim.gif/220px-The_Horse_in_Motion-anim.gif",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/0/07/The_Horse_in_Motion-anim.gif"
+    },
+    "person": "Eadweard Muybridge"
+  },
+  {
+    "id": 989,
+    "name": "Flying pelican",
+    "date": "1882",
+    "description": "Marey created a method of recording several phases of movement superimposed into one photograph",
+    "tags": ["Technology", "Artefact", "Film", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Marey_-_birds.jpg/220px-Marey_-_birds.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Marey_-_birds.jpg/1280px-Marey_-_birds.jpg"
+    },
+    "person": "Marey"
+  },
+  {
+    "id": 990,
+    "name": "Television picture",
+    "date": "1926",
+    "description": "The earliest photograph of a television picture, showing the face of Oliver Hutchinson in June 1926. The television picture was projected using Baird's television camera.",
+    "tags": ["Technology", "Artefact", "Film", "Photo", "Television"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/John_Logie_Baird%2C_1st_Image.jpg/220px-John_Logie_Baird%2C_1st_Image.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/en/e/e6/John_Logie_Baird%2C_1st_Image.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 991,
+    "name": "Television broadcast",
+    "date": "1951",
+    "description": "The first national live television broadcast in the U.S. took place on September 4, 1951, when President Harry Truman's speech at the Japanese Peace Treaty Conference in San Francisco was transmitted over AT&T's transcontinental cable and microwave radio relay system to broadcast stations in local markets",
+    "tags": ["Technology", "Television"],
+    "image": { "small": "", "large": "" },
+    "person": ""
+  },
+  {
+    "id": 992,
+    "name": "Mass-produced television set",
+    "date": "1946",
+    "description": "RCA 630-TS, the first mass-produced television set, which sold in 1946–1947.",
+    "tags": ["Technology", "Television"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/RCA_630-TS_Television.jpg/250px-RCA_630-TS_Television.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/RCA_630-TS_Television.jpg/1280px-RCA_630-TS_Television.jpg"
+    },
+    "person": "",
+    "end": "1947"
+  },
+  {
+    "id": 993,
+    "name": "L'Arroseur Arrosé",
+    "date": "1895",
+    "description": "A frame from the Lumière brothers staged comedy film.",
+    "tags": ["Technology", "Artefact", "Film", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/L%27ArroseurArros%C3%A9.jpg/250px-L%27ArroseurArros%C3%A9.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/L%27ArroseurArros%C3%A9.jpg/1280px-L%27ArroseurArros%C3%A9.jpg"
+    },
+    "person": "Lumière brothers"
+  },
+  {
+    "id": 994,
+    "name": "The earliest surviving film",
+    "date": "1888",
+    "description": "Roundhay Garden Scene",
+    "tags": ["Technology", "Artefact", "Film"],
+    "image": { "small": "", "large": "" },
+    "person": "Louis Le Prince"
+  },
+  {
+    "id": 995,
+    "name": "The Great Train Robbery",
+    "date": "1903",
+    "description": "",
+    "tags": ["Technology", "Artefact", "Film", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Great_Train_Robbery_0018.jpg/120px-The_Great_Train_Robbery_0018.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/b/b4/The_Great_Train_Robbery_0018.jpg"
+    },
+    "person": "Edwin S. Porter"
+  },
+  {
+    "id": 996,
+    "name": "Promotional leaflet for a film",
+    "date": "1903",
+    "description": "Cover of a promotional leaflet for the film, The Great Train Robbery.",
+    "tags": ["Artefact", "Advertisement"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/The_Great_Train_Robbery%2C_Edwin_S._Porter%2C_Edison_Films%2C_1903_Poster.jpg/250px-The_Great_Train_Robbery%2C_Edwin_S._Porter%2C_Edison_Films%2C_1903_Poster.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/5/51/The_Great_Train_Robbery%2C_Edwin_S._Porter%2C_Edison_Films%2C_1903_Poster.jpg"
+    }
+  },
+  {
+    "id": 997,
+    "name": "A Trip to the Moon",
+    "date": "1902",
+    "description": "The first sci-fi film.",
+    "tags": ["Technology", "Artefact", "Film", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Le_Voyage_dans_la_lune.jpg/250px-Le_Voyage_dans_la_lune.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/0/04/Le_Voyage_dans_la_lune.jpg"
+    },
+    "person": "Georges Méliès"
+  },
+  {
+    "id": 998,
+    "name": "HMS Dreadnought",
+    "date": "1906",
+    "description": "The ship's entry into service represented such an advance in naval technology that her name came to be associated with an entire generation of battleships",
+    "tags": ["Technology", "Seafaring", "War", "Photo", "Artefact"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/HMS_Dreadnought_1906_H61017.jpg/330px-HMS_Dreadnought_1906_H61017.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/HMS_Dreadnought_1906_H61017.jpg/1280px-HMS_Dreadnought_1906_H61017.jpg"
+    }
+  },
+  {
+    "id": 999,
+    "name": "Oceanic-class ocean liner",
+    "date": "1870",
+    "description": "The class has been hailed as a landmark in the development of ocean liner design.\n",
+    "tags": ["Technology", "Seafaring"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RMS_Oceanic_1895.jpg/330px-RMS_Oceanic_1895.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RMS_Oceanic_1895.jpg/1280px-RMS_Oceanic_1895.jpg"
+    }
+  },
+  {
+    "id": 1000,
+    "name": "Illustrations of the interiors of the Oceanic-class ships",
+    "date": "1875",
+    "description": "",
+    "tags": ["England", "Artefact", "Illustration"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Oceanic_Class_Interior.png/330px-Oceanic_Class_Interior.png",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Oceanic_Class_Interior.png/1280px-Oceanic_Class_Interior.png"
+    },
+    "person": ""
+  },
+  {
+    "id": 1001,
+    "name": "SS La Bourgogne",
+    "date": "1886",
+    "description": "Set a record for the fastest westbound transatlantic crossing from Le Havre to New York.\n",
+    "tags": ["Technology", "Seafaring"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/La_Bourgogne%2C_ca._1895.jpg/330px-La_Bourgogne%2C_ca._1895.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/La_Bourgogne%2C_ca._1895.jpg/1280px-La_Bourgogne%2C_ca._1895.jpg"
+    }
+  },
+  {
+    "id": 1002,
+    "name": "California gold rush",
+    "date": "1850",
+    "description": "Prospectors working California gold placer deposits",
+    "tags": ["Artefact", "Photo", "Event"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/1850_Woman_and_Men_in_California_Gold_Rush.jpg/250px-1850_Woman_and_Men_in_California_Gold_Rush.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/0/04/1850_Woman_and_Men_in_California_Gold_Rush.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1003,
+    "name": "California gold rush",
+    "date": "1850",
+    "description": "Merchant ships fill San Francisco Bay",
+    "tags": ["Artefact", "Photo", "Event"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/SanFranciscoharbor1851c_sharp.jpg/220px-SanFranciscoharbor1851c_sharp.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/SanFranciscoharbor1851c_sharp.jpg/1280px-SanFranciscoharbor1851c_sharp.jpg"
+    },
+    "person": "",
+    "end": "1851"
+  },
+  {
+    "id": 1004,
+    "name": "California gold rush",
+    "date": "1850",
+    "description": "Advertisement about sailing to California",
+    "tags": ["Artefact", "Advertisement"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/California_Clipper_500.jpg/250px-California_Clipper_500.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/California_Clipper_500.jpg/1280px-California_Clipper_500.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1005,
+    "name": "California gold rush",
+    "date": "1850",
+    "description": "\"Independent Gold Hunter on His Way to California\"",
+    "tags": ["Artefact", "Cartoon"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Independent_Gold_Hunter_on_His_Way_to_California.jpg/250px-Independent_Gold_Hunter_on_His_Way_to_California.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/2/26/Independent_Gold_Hunter_on_His_Way_to_California.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1006,
+    "name": "California gold rush",
+    "date": "1848",
+    "description": "",
+    "tags": ["Event"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/California_Clipper_500.jpg/250px-California_Clipper_500.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/California_Clipper_500.jpg/1280px-California_Clipper_500.jpg"
+    },
+    "person": "",
+    "end": "1855"
+  },
+  {
+    "id": 1007,
+    "name": "Titanic",
+    "date": "1912",
+    "description": "\n",
+    "tags": ["Technology", "Seafaring", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/300px-RMS_Titanic_3.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/1280px-RMS_Titanic_3.jpg"
+    }
+  },
+  {
+    "id": 1008,
+    "name": "Condom",
+    "date": "1900",
+    "description": "Compared to the 19th-century rubber condoms, skin condoms were initially cheaper and offered better sensitivity. For these reasons, skin condoms remained more popular.",
+    "tags": ["Artefact"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Condom_1900.jpg/220px-Condom_1900.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Condom_1900.jpg/1280px-Condom_1900.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1009,
+    "name": "Transcontinental railroad",
+    "date": "1869",
+    "description": "The ceremony for the driving of the\n\"Last Spike\" at Promontory Summit, Utah,\nMay 10, 1869",
+    "tags": ["Artefact", "Photo", "Technology"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg/250px-East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg/1280px-East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1010,
+    "name": "Gatling gun",
+    "date": "1861",
+    "description": "",
+    "tags": ["Technology", "War"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gatling_gun_1865.jpg/250px-Gatling_gun_1865.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gatling_gun_1865.jpg/1280px-Gatling_gun_1865.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1011,
+    "name": "Aerial warfare",
+    "date": "1849",
+    "description": "Austria bombed venice with balloons",
+    "tags": ["Technology", "War", "Event"],
+    "image": {
+      "small": "https://www.historytoday.com/sites/default/files/venice_balloons.JPG",
+      "large": ""
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1012,
+    "name": "Edison light bulb",
+    "date": "1879",
+    "description": "Austria bombed venice with balloons",
+    "tags": ["Technology"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Edison_Carbon_Bulb.jpg/170px-Edison_Carbon_Bulb.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/3/31/Edison_Carbon_Bulb.jpg"
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1013,
+    "name": "Telephone",
+    "date": "1876",
+    "description": "Alexander Graham Bell was awarded the first U.S. patent for the invention of the telephone in 1876.",
+    "tags": ["Technology"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Alexander_Graham_Bell.jpg/120px-Alexander_Graham_Bell.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/1/10/Alexander_Graham_Bell.jpg"
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1014,
+    "name": "Rikstelefon",
+    "date": "1896",
+    "description": "Telephone produced in 1896 by the Swedish State",
+    "tags": ["Technology", "Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/1896_telephone.jpg/250px-1896_telephone.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/1/15/1896_telephone.jpg"
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1015,
+    "name": "W48",
+    "date": "1948",
+    "description": "Regarded in Germany as the classic telephone.",
+    "tags": ["Technology"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Telephone_W48_Bakelit_IMGP9744.jpg/250px-Telephone_W48_Bakelit_IMGP9744.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Telephone_W48_Bakelit_IMGP9744.jpg/1280px-Telephone_W48_Bakelit_IMGP9744.jpg"
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1016,
+    "name": "Personal computer",
+    "date": "1971",
+    "description": "The Kenbak-1 is considered to be the world's first \"personal computer\"",
+    "tags": ["Technology", "Computing"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kenbak-1_personal_computer.jpg/250px-Kenbak-1_personal_computer.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kenbak-1_personal_computer.jpg/1280px-Kenbak-1_personal_computer.jpg"
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1017,
+    "name": "Edison Studios",
+    "date": "1894",
+    "description": "The studio made close to 1,200 films",
+    "tags": ["Technology", "Film"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Edison_Studio_Bronxbis.jpg/250px-Edison_Studio_Bronxbis.jpg",
+      "large": ""
+    },
+    "person": "Thomas Edison",
+    "end": "1918"
+  },
+  {
+    "id": 1018,
+    "name": "Edison Studios",
+    "date": "1912",
+    "description": "Several films in production at Edison's Bronx studio, c. 1912. Seated in the foreground, with his legs crossed, is Charles Brabin; seated to the rear, with the card \"26\" under his arm, is Harold M. Shaw.",
+    "tags": ["Artefact", "Photo", "Film"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Edison_Studio_Bronxbis.jpg/250px-Edison_Studio_Bronxbis.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Edison_Studio_Bronxbis.jpg"
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1019,
+    "name": "The Kiss",
+    "date": "1896",
+    "description": "The first love scene on film. Produced by Edison Studio.",
+    "tags": ["Technology", "Film"],
+    "image": { "small": "", "large": "" },
+    "person": ""
+  },
+  {
+    "id": 1020,
+    "name": "Frankenstein movie",
+    "date": "1910",
+    "description": "Edison Studios produced the first motion picture adaptation of Mary Shelley's Frankenstein.",
+    "tags": ["Technology", "Film", "Artefact"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Charles_Ogle_In_Frankenstein_1910.jpg/170px-Charles_Ogle_In_Frankenstein_1910.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Charles_Ogle_In_Frankenstein_1910.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1021,
+    "name": "Sandow Trocadero Vaudevilles",
+    "date": "1894",
+    "description": "A promotional poster for the Sandow Trocadero Vaudevilles (1894), showing dancers, clowns, trapeze artists, costumed dogs, singers and costumed actors",
+    "tags": ["Artefact", "Advertisement"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/The_Sandow_Trocadero_Vaudevilles%2C_performing_arts_poster%2C_1894.jpg/250px-The_Sandow_Trocadero_Vaudevilles%2C_performing_arts_poster%2C_1894.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/The_Sandow_Trocadero_Vaudevilles%2C_performing_arts_poster%2C_1894.jpg/1024px-The_Sandow_Trocadero_Vaudevilles%2C_performing_arts_poster%2C_1894.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1022,
+    "name": "Charles Grapewin",
+    "date": "1900",
+    "description": "From newspaper promotional for vaudeville character actor Charles Grapewin, c. 1900",
+    "tags": ["Artefact", "Advertisement", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Character_comedian_charles_e_grapewin.gif",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Character_comedian_charles_e_grapewin.gif"
+    },
+    "person": ""
+  },
+  {
+    "id": 1023,
+    "name": "Butch Cassidy",
+    "date": "1900",
+    "description": "",
+    "tags": ["Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Butch_Cassidy_with_bowler_hat.jpg/250px-Butch_Cassidy_with_bowler_hat.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/3/36/Butch_Cassidy_with_bowler_hat.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1024,
+    "name": "Butch Cassidy's mugshot",
+    "date": "1894",
+    "description": "From the Wyoming State Prison",
+    "tags": ["Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Butch_Cassidy_mugshot_detail.jpg/250px-Butch_Cassidy_mugshot_detail.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/7/76/Butch_Cassidy_mugshot_detail.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1025,
+    "name": "Charles Dickens 46",
+    "date": "1858",
+    "description": "",
+    "tags": ["Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Dickens_by_Watkins_1858.png/250px-Dickens_by_Watkins_1858.png",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/3/36/Dickens_by_Watkins_1858.png"
+    },
+    "person": ""
+  },
+  {
+    "id": 1026,
+    "name": "Charles Dickens 56",
+    "date": "1868",
+    "description": "",
+    "tags": ["Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dickens_Gurney_head.jpg/220px-Dickens_Gurney_head.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Dickens_Gurney_head.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1027,
+    "name": "Oscar Wilde 28",
+    "date": "1882",
+    "description": "",
+    "tags": ["Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated.jpg/220px-Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated.jpg/1024px-Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1028,
+    "name": "Mark Twain 72",
+    "date": "1907",
+    "description": "",
+    "tags": ["Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mark_Twain_by_AF_Bradley.jpg/220px-Mark_Twain_by_AF_Bradley.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mark_Twain_by_AF_Bradley.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1029,
+    "name": "H. G. Wells 54",
+    "date": "1920",
+    "description": "",
+    "tags": ["Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/H.G._Wells_by_Beresford.jpg/250px-H.G._Wells_by_Beresford.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/4/4b/H.G._Wells_by_Beresford.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1030,
+    "name": "H. G. Wells 11",
+    "date": "1877",
+    "description": "Young Wells, \"Bertie\" as he was known, c. 1870s",
+    "tags": ["Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Young_Bertie_%28H._G._Wells%29.jpg/250px-Young_Bertie_%28H._G._Wells%29.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Young_Bertie_%28H._G._Wells%29.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1031,
+    "name": "Edgar Allan Poe 40",
+    "date": "1849",
+    "description": "",
+    "tags": ["Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg/250px-Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg/1280px-Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1032,
+    "name": "Mark Twain 15",
+    "date": "1851",
+    "description": "Samuel Clemens (his real name), age 15 holding metal type in a composing stick that spells out his first name. He understood that the photographic printing process reversed the contents of an image in the same way backwards moveable type was reversed in printing to give clear copy.",
+    "tags": ["Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mark_Twain_by_GH_Jones%2C_1850_-_retouched.jpg/250px-Mark_Twain_by_GH_Jones%2C_1850_-_retouched.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mark_Twain_by_GH_Jones%2C_1850_-_retouched.jpg/1280px-Mark_Twain_by_GH_Jones%2C_1850_-_retouched.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1033,
+    "name": "Mark Twain 35",
+    "date": "1871",
+    "description": "(From l. to r.) American Civil War correspondent and author George Alfred Townsend, Mark Twain and David Gray, editor of the rival Buffalo Courier",
+    "tags": ["Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mark_Twain_1871-02-07.jpg/250px-Mark_Twain_1871-02-07.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mark_Twain_1871-02-07.jpg/1280px-Mark_Twain_1871-02-07.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1034,
+    "name": "Abraham Lincoln 54",
+    "date": "1863",
+    "description": "",
+    "tags": ["Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg/250px-Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg/1280px-Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1035,
+    "name": "Theodore Roosevelt 45",
+    "date": "1904",
+    "description": "",
+    "tags": ["Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Theodore_Roosevelt_by_the_Pach_Bros.jpg/330px-Theodore_Roosevelt_by_the_Pach_Bros.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Theodore_Roosevelt_by_the_Pach_Bros.jpg/1280px-Theodore_Roosevelt_by_the_Pach_Bros.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1036,
+    "name": "Theodore Roosevelt 11",
+    "date": "1870",
+    "description": "",
+    "tags": ["Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TR_Age_11_Paris.jpg/180px-TR_Age_11_Paris.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/8/84/TR_Age_11_Paris.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1037,
+    "name": "Theodore Roosevelt 18",
+    "date": "1877",
+    "description": "Theodore Roosevelt as an undergraduate at Harvard University circa 1877.",
+    "tags": ["Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Teddy_Roosevelt_in_sculling_gear_while_an_undergraduate_at_Harvard%2C_circa_1877.jpg/250px-Teddy_Roosevelt_in_sculling_gear_while_an_undergraduate_at_Harvard%2C_circa_1877.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/5/54/Teddy_Roosevelt_in_sculling_gear_while_an_undergraduate_at_Harvard%2C_circa_1877.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1038,
+    "name": "Theodore Roosevelt 26",
+    "date": "1885",
+    "description": "Roosevelt as a Badlands hunter",
+    "tags": ["Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/TR_Buckskin_Tiffany_Knife.jpg/250px-TR_Buckskin_Tiffany_Knife.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/2/22/TR_Buckskin_Tiffany_Knife.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1039,
+    "name": "Theodore Roosevelt 39",
+    "date": "1898",
+    "description": "Colonel Roosevelt",
+    "tags": ["Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Theodore_Rooseveltnewtry.jpg/250px-Theodore_Rooseveltnewtry.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Theodore_Rooseveltnewtry.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1040,
+    "name": "Rough Riders",
+    "date": "1898",
+    "description": "Colonel Roosevelt and the Rough Riders along with members of the 3rd Volunteers and the 10th Cavalry Regiment after capturing Kettle Hill in Cuba during the Spanish-American War in July 1898",
+    "tags": ["Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/TR_San_Juan_Hill_1898.jpg/250px-TR_San_Juan_Hill_1898.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/5/58/TR_San_Juan_Hill_1898.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1041,
+    "name": "H. P. Lovecraft 43",
+    "date": "1934",
+    "description": "",
+    "tags": ["Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/H._P._Lovecraft%2C_June_1934.jpg/250px-H._P._Lovecraft%2C_June_1934.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/1/10/H._P._Lovecraft%2C_June_1934.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1042,
+    "name": "Hemingway 19",
+    "date": "1918",
+    "description": "Ernest Hemingway as a 1st Lt. in the A.R.C., in late 1918. In Northern Italy, he drove ambulances for two months until he was wounded",
+    "tags": ["Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ernest_Hemingway_in_Milan_1918_retouched_3.jpg/190px-Ernest_Hemingway_in_Milan_1918_retouched_3.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Ernest_Hemingway_in_Milan_1918_retouched_3.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1043,
+    "name": "Elvis 21",
+    "date": "1956",
+    "description": "Presley signing autographs in Minneapolis in 1956",
+    "tags": ["Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Elvis_signs_autographs_in_Minneapolis_1956.jpg/250px-Elvis_signs_autographs_in_Minneapolis_1956.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/0/07/Elvis_signs_autographs_in_Minneapolis_1956.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1044,
+    "name": "Elvis performing",
+    "date": "1956",
+    "description": "Presley performing live at the Mississippi-Alabama Fairgrounds in Tupelo, September 26, 1956",
+    "tags": ["Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Elvis_Presley_-_TV_Radio_Mirror%2C_March_1957_01.jpg/330px-Elvis_Presley_-_TV_Radio_Mirror%2C_March_1957_01.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Elvis_Presley_-_TV_Radio_Mirror%2C_March_1957_01.jpg/1280px-Elvis_Presley_-_TV_Radio_Mirror%2C_March_1957_01.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1045,
+    "name": "Beatlemania",
+    "date": "1964",
+    "description": "The Beatles arriving in the United States at John F. Kennedy International Airport in Queens, New York. 7 February 1964",
+    "tags": ["Artefact", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_Beatles_arrive_at_JFK_Airport.jpg/250px-The_Beatles_arrive_at_JFK_Airport.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_Beatles_arrive_at_JFK_Airport.jpg/1280px-The_Beatles_arrive_at_JFK_Airport.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1046,
+    "name": "Clark Gable 38",
+    "date": "1939",
+    "description": "Publicity photo for the Gone with the Wind",
+    "tags": ["Film", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Clark_Gable_and_Vivien_Leigh_-_Wind.jpg/220px-Clark_Gable_and_Vivien_Leigh_-_Wind.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/4/46/Clark_Gable_and_Vivien_Leigh_-_Wind.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1047,
+    "name": "John Wayne 23",
+    "date": "1930",
+    "description": "With Marguerite Churchill in the widescreen The Big Trail (1930); John Wayne's first role as a leading man",
+    "tags": ["Film", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/The_Big_Trail_%28publicity_photo_-_Wayne_%26_Churchill%29.jpg/220px-The_Big_Trail_%28publicity_photo_-_Wayne_%26_Churchill%29.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/5/59/The_Big_Trail_%28publicity_photo_-_Wayne_%26_Churchill%29.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1048,
+    "name": "Gregory Peck 29",
+    "date": "1945",
+    "description": "",
+    "tags": ["Film", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Peck_The_Valley_of_Decision.jpg/250px-Peck_The_Valley_of_Decision.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/5/52/Peck_The_Valley_of_Decision.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1049,
+    "name": " Cary Grant 37",
+    "date": "1941",
+    "description": "Publicity still from Suspicion (1941)",
+    "tags": ["Film", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Grant%2C_Cary_%28Suspicion%29_01_Crisco_edit.jpg/250px-Grant%2C_Cary_%28Suspicion%29_01_Crisco_edit.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Grant%2C_Cary_%28Suspicion%29_01_Crisco_edit.jpg/1280px-Grant%2C_Cary_%28Suspicion%29_01_Crisco_edit.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1050,
+    "name": "Clint Eastwood 34",
+    "date": "1964",
+    "description": "As the Man with No Name in A Fistful of Dollars (1964)",
+    "tags": ["Film", "Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Clint_Eastwood_-_1960s.JPG/250px-Clint_Eastwood_-_1960s.JPG",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Clint_Eastwood_-_1960s.JPG/1280px-Clint_Eastwood_-_1960s.JPG"
+    },
+    "person": ""
+  },
+  {
+    "id": 1051,
+    "name": "Martin Luther King",
+    "date": "1963",
+    "description": "King was arrested in April 1963 for protesting the treatment of blacks in Birmingham.",
+    "tags": ["Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/MLK_mugshot_birmingham.jpg/220px-MLK_mugshot_birmingham.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/4/4e/MLK_mugshot_birmingham.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1052,
+    "name": "Martin Luther King",
+    "date": "1963",
+    "description": "Vice President Lyndon B. Johnson and Attorney General Robert F. Kennedy with King, Benjamin Mays, and other civil rights leaders, June 22, 1963",
+    "tags": ["Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Photograph_of_White_House_Meeting_with_Civil_Rights_Leaders._June_22%2C_1963_-_NARA_-_194190_%28no_border%29.tif/lossy-page1-220px-Photograph_of_White_House_Meeting_with_Civil_Rights_Leaders._June_22%2C_1963_-_NARA_-_194190_%28no_border%29.tif.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Photograph_of_White_House_Meeting_with_Civil_Rights_Leaders._June_22%2C_1963_-_NARA_-_194190_%28no_border%29.tif/lossy-page1-1280px-Photograph_of_White_House_Meeting_with_Civil_Rights_Leaders._June_22%2C_1963_-_NARA_-_194190_%28no_border%29.tif.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1053,
+    "name": "Martin Luther King",
+    "date": "1963",
+    "description": "King gave his most famous speech, \"I Have a Dream\", before the Lincoln Memorial during the 1963 (August 28) March on Washington for Jobs and Freedom.",
+    "tags": ["Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Martin_Luther_King_Jr_National_Historic_Site_%2836233249121%29.jpg/220px-Martin_Luther_King_Jr_National_Historic_Site_%2836233249121%29.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Martin_Luther_King_Jr_National_Historic_Site_%2836233249121%29.jpg/1280px-Martin_Luther_King_Jr_National_Historic_Site_%2836233249121%29.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1054,
+    "name": "Gandhi 7",
+    "date": "1876",
+    "description": "",
+    "tags": ["Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Mohandas_K_Gandhi%2C_age_7.jpg/250px-Mohandas_K_Gandhi%2C_age_7.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Mohandas_K_Gandhi%2C_age_7.jpg/1280px-Mohandas_K_Gandhi%2C_age_7.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1055,
+    "name": "Gandhi 17",
+    "date": "1886",
+    "description": "Gandhi (right) with his eldest brother Laxmidas in 1886",
+    "tags": ["Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gandhi_and_Laxmidas_2.jpg/190px-Gandhi_and_Laxmidas_2.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Gandhi_and_Laxmidas_2.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1056,
+    "name": "Gandhi 21",
+    "date": "1886",
+    "description": "Gandhi with the Vegetarian Society in the Isle of Wight, England, in 1890.",
+    "tags": ["Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gandhi-1890.jpg/220px-Gandhi-1890.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gandhi-1890.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1057,
+    "name": "Gandhi 30",
+    "date": "1895",
+    "description": "Gandhi and the founders of the Natal Indian Congress, 1895",
+    "tags": ["Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Natal_Indian_Congress.jpg/250px-Natal_Indian_Congress.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/4/48/Natal_Indian_Congress.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1058,
+    "name": "Gandhi 35",
+    "date": "1900",
+    "description": "Gandhi (middle, third from right) with the stretcher-bearers of the Indian Ambulance Corps during the Boer War",
+    "tags": ["Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gandhi_Boer_War.jpg/250px-Gandhi_Boer_War.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gandhi_Boer_War.jpg/1280px-Gandhi_Boer_War.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1059,
+    "name": "Indian Opinion",
+    "date": "1910",
+    "description": "Advertisement of the Indian Opinion, a newspaper founded by Gandhi in 1903",
+    "tags": ["Artefact", "Advertisement", "Journalism"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Indian_opinion_advertisement_in_1910.jpg/170px-Indian_opinion_advertisement_in_1910.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/7/75/Indian_opinion_advertisement_in_1910.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1060,
+    "name": "Gandhi 66",
+    "date": "1931",
+    "description": "An admiring East End crowd gathers to witness the arrival of Mahatma Gandhi, 1931",
+    "tags": ["Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/An_admiring_East_End_crowd_gathers_to_witness_the_arrival_of_Mahatma_Gandhi.jpg/250px-An_admiring_East_End_crowd_gathers_to_witness_the_arrival_of_Mahatma_Gandhi.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/An_admiring_East_End_crowd_gathers_to_witness_the_arrival_of_Mahatma_Gandhi.jpg/1280px-An_admiring_East_End_crowd_gathers_to_witness_the_arrival_of_Mahatma_Gandhi.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1061,
+    "name": "Gandhi 77, Nehru 52",
+    "date": "1942",
+    "description": "Gandhi talking with Jawaharlal Nehru, his designated political heir, during the drafting of the Quit India Resolution in Bombay, August 1942",
+    "tags": ["Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gandhi_and_Nehru_in_1946.jpg/250px-Gandhi_and_Nehru_in_1946.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Gandhi_and_Nehru_in_1946.jpg"
+    },
+    "person": ""
   }
 ]
