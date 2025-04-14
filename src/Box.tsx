@@ -14,13 +14,15 @@ export function Box(
   const { removeVisibleId } = useVisibleIds()
   const { duplicateItem } = useData()
   const title = (showYear ? formatDate(d.date) + ' ' : '') + d.name
+  const largeImage = false
+  // const largeImage = true
 
   return (
     <div
       onClick={() => activeId === d.id ? setActiveId(0) : setActiveId(d.id)}
-      className={`border-1 m-[2px] p-1 box relative text-xs max-w-40 ${
-        activeId === d.id ? 'bg-blue-200' : ''
-      }`}
+      className={`border-1 m-[2px] p-1 box relative text-xs ${
+        largeImage ? 'max-w-80' : 'max-w-40'
+      } ${activeId === d.id ? 'bg-blue-200' : ''}`}
       onKeyDown={(e) => {
         if (e.key === 'Delete') {
           removeVisibleId(d.id)
@@ -36,10 +38,14 @@ export function Box(
         {title}
       </div>
       {showImage && d.image && (
-        <a href={d.image.large} className='flex justify-center'>
+        <a
+          href={d.image.large || d.image.small}
+          className='flex justify-center'
+          target='_blank'
+        >
           <img
-            src={d.image.small}
-            className='max-h-30'
+            src={d.image.small || undefined}
+            className={`${largeImage ? 'max-h-50' : 'max-h-30'}`}
           />
         </a>
       )}

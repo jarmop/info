@@ -10727,7 +10727,7 @@
     "name": "U-boat",
     "date": "1906",
     "description": "SM U-1",
-    "tags": ["Technology", "Seafaring"],
+    "tags": ["Technology", "Seafaring", "War"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/SM_U_1_800px.jpg/330px-SM_U_1_800px.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/b/bf/SM_U_1_800px.jpg"
@@ -13298,7 +13298,7 @@
     "name": "The last moon landing",
     "date": "1972-12-19",
     "description": "Apollo 17",
-    "tags": ["Photo", "Technology"],
+    "tags": ["Photo"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Eugene_Cernan_at_the_LM%2C_Apollo_17.jpg/330px-Eugene_Cernan_at_the_LM%2C_Apollo_17.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Eugene_Cernan_at_the_LM%2C_Apollo_17.jpg/1280px-Eugene_Cernan_at_the_LM%2C_Apollo_17.jpg"
@@ -13322,7 +13322,7 @@
     "name": "The last Space Shuttle mission",
     "date": "2011-7-8",
     "description": "",
-    "tags": ["Photo", "Technology"],
+    "tags": ["Photo"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/STS-135_Atlantis_approaches_the_VAB.jpg/250px-STS-135_Atlantis_approaches_the_VAB.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/STS-135_Atlantis_approaches_the_VAB.jpg/1280px-STS-135_Atlantis_approaches_the_VAB.jpg"
@@ -13335,7 +13335,7 @@
     "name": "Challenger disaster",
     "date": "1986-1-28",
     "description": "",
-    "tags": ["Photo", "Technology"],
+    "tags": ["Photo"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Challenger_explosion.jpg/330px-Challenger_explosion.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Challenger_explosion.jpg/1280px-Challenger_explosion.jpg"
@@ -13347,11 +13347,81 @@
     "name": "Columbia disaster",
     "date": "2003-2-1",
     "description": "",
-    "tags": ["Photo", "Technology"],
+    "tags": ["Photo"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Space_Shuttle_Columbia_disaster_ET208_camera.gif/250px-Space_Shuttle_Columbia_disaster_ET208_camera.gif",
       "large": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Space_Shuttle_Columbia_disaster_ET208_camera.gif"
     },
     "person": ""
+  },
+  {
+    "id": 1202,
+    "name": "Tsar Bomba",
+    "date": "1961-10-30",
+    "description": "The Tsar Bomba's fireball was prevented from touching the ground by the shock wave.",
+    "tags": ["Technology", "Photo", "War"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/en/c/c9/Tsar_photo11.jpg",
+      "large": ""
+    }
+  },
+  {
+    "id": 1203,
+    "name": "End of Soviet Union",
+    "date": "1991-12-25",
+    "description": "Russian flag replaces the soviet flag in Kremlin.",
+    "tags": ["Map", "Event"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Cold_War_border_changes.png/250px-Cold_War_border_changes.png",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Cold_War_border_changes.png"
+    },
+    "person": ""
+  },
+  {
+    "id": 1204,
+    "name": "Stalin dead",
+    "date": "1953",
+    "description": "Mourning parade in honour of Stalin in Dresden, East Germany ",
+    "tags": ["Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bundesarchiv_Bild_183-18684-0002%2C_Dresden%2C_Tod_Stalin%2C_Parade_KVP.jpg/250px-Bundesarchiv_Bild_183-18684-0002%2C_Dresden%2C_Tod_Stalin%2C_Parade_KVP.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Bundesarchiv_Bild_183-18684-0002%2C_Dresden%2C_Tod_Stalin%2C_Parade_KVP.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1205,
+    "name": "Mao dies",
+    "date": "1976",
+    "description": "The photo taken in Mao's final year, during Hosni Mubarak's visit in Beijing.",
+    "tags": ["Photo", "Event"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mubarak_and_Mao_Zedong.jpg/250px-Mubarak_and_Mao_Zedong.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Mubarak_and_Mao_Zedong.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1206,
+    "name": "Atomic bombings",
+    "date": "1945-8-6",
+    "description": "6 --> Hiroshima, 9 --> Nagasaki",
+    "tags": ["Technology", "Photo", "War"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Atomic_bombing_of_Japan.jpg/330px-Atomic_bombing_of_Japan.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Atomic_bombing_of_Japan.jpg/1280px-Atomic_bombing_of_Japan.jpg"
+    },
+    "end": "1945-8-9"
+  },
+  {
+    "id": 1207,
+    "name": "Hitler dead",
+    "date": "1945-4-30",
+    "description": "Front page of the US Armed Forces newspaper Stars and Stripes on 2 May 1945",
+    "tags": ["News", "War"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Stars_%26_Stripes_%26_Hitler_Dead2.jpg/250px-Stars_%26_Stripes_%26_Hitler_Dead2.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/5/56/Stars_%26_Stripes_%26_Hitler_Dead2.jpg"
+    }
   }
 ]

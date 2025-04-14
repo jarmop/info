@@ -3,6 +3,9 @@ import { Datum, useData, useTags, useVisibleIds } from './store.ts'
 import { Box } from './Box.tsx'
 import { formatYear, getYear } from './helpers.ts'
 
+const startYear = 1850
+const yearSpan = 200
+
 export function Timeline() {
   const { visibleIds } = useVisibleIds()
   const { visibleData } = useData()
@@ -10,10 +13,11 @@ export function Timeline() {
   const [dataByYear, setDataByYear] = useState<Record<string, Datum[]>>({})
   const [years, setYears] = useState<number[]>([])
   const [yearRange, setYearRange] = useState<{ start?: number; end?: number }>({
-    start: -2000,
-    end: new Date().getFullYear(),
+    start: startYear,
+    // end: new Date().getFullYear(),
+    end: startYear + yearSpan,
   })
-  const step = 50
+  const step = 5
 
   useEffect(() => {
     const newDataByYear: typeof dataByYear = {}
@@ -84,7 +88,7 @@ export function Timeline() {
               if (isNaN(value)) {
                 return
               }
-              setYearRange({ ...yearRange, start: value })
+              setYearRange({ start: value, end: value + yearSpan })
             }}
           />
         </div>
@@ -96,7 +100,9 @@ export function Timeline() {
         <div></div>
         {years.map((year) => (
           <Fragment key={year}>
-            <div className='p-1'>{formatYear(year)}</div>
+            <div className='p-1 text-xl mt-4 border-t-2'>
+              {formatYear(year)}
+            </div>
             {visibleIds.length > 0 && (
               <div className='flex flex-row flex-wrap'>
                 {dataByYear[year].filter(
@@ -105,12 +111,13 @@ export function Timeline() {
               </div>
             )}
             {selectedTags.map((tag) => (
-              <div key={tag} className='flex flex-row flex-wrap'>
-                {dataByYear[year].filter((d) =>
-                  d.tags?.includes(tag)
-                ).map((
+              <div
+                key={tag}
+                className='flex flex-row flex-wrap mt-4 border-t-2'
+              >
+                {dataByYear[year].filter((d) => d.tags?.includes(tag)).map((
                   d,
-                ) => <Box key={d.id} d={d} />)}
+                ) => <Box key={d.id} d={d} showYear showImage />)}
               </div>
             ))}
             <div></div>
