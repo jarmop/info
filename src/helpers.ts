@@ -5,13 +5,37 @@ export function getYear(date: string) {
   return parts[0] === '' ? -parseInt(parts[1]) : parseInt(parts[0])
 }
 
+function getDateParts(date: string) {
+  const parts = date.split('-')
+  if (parts[0] === '') {
+    const year = -parseInt(parts[1])
+    return [year, 0, 0]
+  }
+
+  const year = parseInt(parts[0])
+  const month = parseInt(parts[1])
+  const day = parseInt(parts[2])
+
+  return [year, month || 0, day || 0]
+}
+
 function compareDate(a: Datum, b: Datum) {
-  const aYear = getYear(a.date)
-  const bYear = getYear(b.date)
+  const [aYear, aMonth, aDay] = getDateParts(a.date)
+  const [bYear, bMonth, bDay] = getDateParts(b.date)
 
   if (aYear < bYear) return -1
-  else if (aYear > bYear) return 1
-  else return 0
+
+  if (aYear > bYear) return 1
+
+  if (aMonth < bMonth) return -1
+
+  if (aMonth > bMonth) return 1
+
+  if (aDay < bDay) return -1
+
+  if (aDay > bDay) return 1
+
+  return 0
 }
 
 export function sortByDate(data: Datum[]) {
