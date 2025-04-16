@@ -2523,67 +2523,73 @@
     "id": 305,
     "name": "Self-portrait at 13",
     "date": "1484",
-    "description": "- Albrecht Dürer",
-    "tags": ["Germany", "Artefact", "Painting"],
+    "description": "",
+    "tags": ["Germany", "Painting"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Durer-self-portrait-at-the-age-of-thirteen.jpg/250px-Durer-self-portrait-at-the-age-of-thirteen.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Durer-self-portrait-at-the-age-of-thirteen.jpg/1280px-Durer-self-portrait-at-the-age-of-thirteen.jpg"
-    }
+    },
+    "person": "Albrecht Dürer"
   },
   {
     "id": 306,
     "name": "Self-portrait at 26",
     "date": "1498",
-    "description": "- Albrecht Dürer\n- the second of Albrecht Dürer's three painted self-portraits and was executed in oil on wood panel in 1498, after his first trip to Italy",
-    "tags": ["Germany", "Artefact", "Painting"],
+    "description": "The second of Albrecht Dürer's three painted self-portraits and was executed in oil on wood panel in 1498, after his first trip to Italy",
+    "tags": ["Germany", "Painting"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Selbstportr%C3%A4t%2C_by_Albrecht_D%C3%BCrer%2C_from_Prado_in_Google_Earth.jpg/240px-Selbstportr%C3%A4t%2C_by_Albrecht_D%C3%BCrer%2C_from_Prado_in_Google_Earth.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Selbstportr%C3%A4t%2C_by_Albrecht_D%C3%BCrer%2C_from_Prado_in_Google_Earth.jpg/1280px-Selbstportr%C3%A4t%2C_by_Albrecht_D%C3%BCrer%2C_from_Prado_in_Google_Earth.jpg"
-    }
+    },
+    "person": "Albrecht Dürer"
   },
   {
     "id": 307,
     "name": "Self-portrait at 21",
     "date": "1493",
-    "description": "- Albrecht Dürer",
-    "tags": ["Germany", "Artefact", "Painting"],
+    "description": "",
+    "tags": ["Germany", "Painting"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Albrecht-self.jpg/220px-Albrecht-self.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Albrecht-self.jpg/1280px-Albrecht-self.jpg"
-    }
+    },
+    "person": "Albrecht Dürer"
   },
   {
     "id": 308,
     "name": "Self-portrait at 28",
     "date": "1500",
-    "description": "- Albrecht Dürer",
-    "tags": ["Germany", "Artefact", "Painting"],
+    "description": "",
+    "tags": ["Germany", "Painting"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/D%C3%BCrer_Alte_Pinakothek.jpg/220px-D%C3%BCrer_Alte_Pinakothek.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/D%C3%BCrer_Alte_Pinakothek.jpg/1280px-D%C3%BCrer_Alte_Pinakothek.jpg"
-    }
+    },
+    "person": "Albrecht Dürer"
   },
   {
     "id": 309,
     "name": "Young Hare",
     "date": "1502",
-    "description": "- Albrecht Dürer",
-    "tags": ["Germany", "Artefact", "Painting"],
+    "description": "",
+    "tags": ["Germany", "Painting"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg/120px-Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg/1280px-Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg"
-    }
+    },
+    "person": "Albrecht Dürer"
   },
   {
     "id": 310,
     "name": "Large Piece of Turf",
     "date": "1503",
-    "description": "- Albrecht Dürer",
-    "tags": ["Germany", "Artefact", "Painting"],
+    "description": "",
+    "tags": ["Germany", "Painting"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albrecht_D%C3%BCrer_-_The_Large_Piece_of_Turf%2C_1503_-_Google_Art_Project.jpg/120px-Albrecht_D%C3%BCrer_-_The_Large_Piece_of_Turf%2C_1503_-_Google_Art_Project.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albrecht_D%C3%BCrer_-_The_Large_Piece_of_Turf%2C_1503_-_Google_Art_Project.jpg/1280px-Albrecht_D%C3%BCrer_-_The_Large_Piece_of_Turf%2C_1503_-_Google_Art_Project.jpg"
-    }
+    },
+    "person": "Albrecht Dürer"
   },
   {
     "id": 311,
@@ -2600,129 +2606,140 @@
     "id": 312,
     "name": "Rhinoceros",
     "date": "1515",
-    "description": "- Albrecht Dürer",
-    "tags": ["Germany", "Artefact", "Painting"],
+    "description": "",
+    "tags": ["Germany", "Painting"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Albrecht_D%C3%BCrer_-_The_Rhinoceros_%28NGA_1964.8.697%29.jpg/250px-Albrecht_D%C3%BCrer_-_The_Rhinoceros_%28NGA_1964.8.697%29.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Albrecht_D%C3%BCrer_-_The_Rhinoceros_%28NGA_1964.8.697%29.jpg/1280px-Albrecht_D%C3%BCrer_-_The_Rhinoceros_%28NGA_1964.8.697%29.jpg"
-    }
+    },
+    "person": "Albrecht Dürer"
   },
   {
     "id": 313,
     "name": "Handling of Weapons",
     "date": "1512",
     "description": "- Albrecht Dürer\n- Page from the Meditation on the Handling of Weapons",
-    "tags": ["Germany", "Artefact", "Painting"],
+    "tags": ["Germany", "Painting"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/D%C3%BCrer-Ring-undFechtbuch.1512.Albertina.26232.83.jpg/220px-D%C3%BCrer-Ring-undFechtbuch.1512.Albertina.26232.83.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/9/99/D%C3%BCrer-Ring-undFechtbuch.1512.Albertina.26232.83.jpg"
-    }
+    },
+    "person": "Albrecht Dürer"
   },
   {
     "id": 314,
     "name": "Portrait of Bernhard von Reesen",
     "date": "1521",
-    "description": "- Albrecht Dürer",
-    "tags": ["Germany", "Artefact", "Painting"],
+    "description": "",
+    "tags": ["Germany", "Painting"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Albrecht_D%C3%BCrer_-_Portrait_of_Bernhard_von_Reesen_-_Google_Art_Project.jpg/120px-Albrecht_D%C3%BCrer_-_Portrait_of_Bernhard_von_Reesen_-_Google_Art_Project.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Albrecht_D%C3%BCrer_-_Portrait_of_Bernhard_von_Reesen_-_Google_Art_Project.jpg/1024px-Albrecht_D%C3%BCrer_-_Portrait_of_Bernhard_von_Reesen_-_Google_Art_Project.jpg"
-    }
+    },
+    "person": "Albrecht Dürer"
   },
   {
     "id": 315,
     "name": "Portrait of Hieronymus Holzschuher",
     "date": "1526",
-    "description": "- Albrecht Dürer",
-    "tags": ["Germany", "Artefact", "Painting"],
+    "description": "",
+    "tags": ["Germany", "Painting"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/D%C3%BCrer_-_Hieronymus_Holzschuher_%281469-1529%29_mit_Deckel%2C_1526%2C_557E.jpg/120px-D%C3%BCrer_-_Hieronymus_Holzschuher_%281469-1529%29_mit_Deckel%2C_1526%2C_557E.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/D%C3%BCrer_-_Hieronymus_Holzschuher_%281469-1529%29_mit_Deckel%2C_1526%2C_557E.jpg/1280px-D%C3%BCrer_-_Hieronymus_Holzschuher_%281469-1529%29_mit_Deckel%2C_1526%2C_557E.jpg"
-    }
+    },
+    "person": "Albrecht Dürer"
   },
   {
     "id": 316,
     "name": "Albrecht Dürer the Elder with a Rosary",
     "date": "1490",
-    "description": "- Albrecht Dürer",
-    "tags": ["Germany", "Artefact", "Painting"],
+    "description": "",
+    "tags": ["Germany", "Painting"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Albrecht_D%C3%BCrer_-_Ritratto_del_padre_-_Google_Art_Project.jpg/120px-Albrecht_D%C3%BCrer_-_Ritratto_del_padre_-_Google_Art_Project.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Albrecht_D%C3%BCrer_-_Ritratto_del_padre_-_Google_Art_Project.jpg/1280px-Albrecht_D%C3%BCrer_-_Ritratto_del_padre_-_Google_Art_Project.jpg"
-    }
+    },
+    "person": "Albrecht Dürer"
   },
   {
     "id": 317,
     "name": "Innsbruck Castle Courtyard",
     "date": "1495",
-    "description": "- Albrecht Dürer",
-    "tags": ["Germany", "Artefact", "Painting"],
+    "description": "",
+    "tags": ["Germany", "Painting"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Innsbruck_castle_courtyard.jpg/104px-Innsbruck_castle_courtyard.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/5/57/Innsbruck_castle_courtyard.jpg"
-    }
+    },
+    "person": "Albrecht Dürer"
   },
   {
     "id": 318,
     "name": "View of the Arco Valley in Tyrol",
     "date": "1495",
-    "description": "- Albrecht Dürer",
-    "tags": ["Germany", "Artefact", "Painting"],
+    "description": "",
+    "tags": ["Germany", "Painting"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Vue_du_val_d%27Arco_dans_le_Tyrol_m%C3%A9ridional_-_Mus%C3%A9e_du_Louvre_Arts_graphiques_INV_18579%2C_Recto.jpg/116px-Vue_du_val_d%27Arco_dans_le_Tyrol_m%C3%A9ridional_-_Mus%C3%A9e_du_Louvre_Arts_graphiques_INV_18579%2C_Recto.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Vue_du_val_d%27Arco_dans_le_Tyrol_m%C3%A9ridional_-_Mus%C3%A9e_du_Louvre_Arts_graphiques_INV_18579%2C_Recto.jpg/1280px-Vue_du_val_d%27Arco_dans_le_Tyrol_m%C3%A9ridional_-_Mus%C3%A9e_du_Louvre_Arts_graphiques_INV_18579%2C_Recto.jpg"
-    }
+    },
+    "person": "Albrecht Dürer"
   },
   {
     "id": 319,
     "name": "Portrait of Martin Luther",
     "date": "1529",
-    "description": "- Lucas Cranach the Elder",
-    "tags": ["Germany", "Artefact", "Painting"],
+    "description": "",
+    "tags": ["Germany", "Painting"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Martin_Luther_by_Cranach-restoration.jpg/170px-Martin_Luther_by_Cranach-restoration.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Martin_Luther_by_Cranach-restoration.jpg"
-    }
+    },
+    "person": "Lucas Cranach the Elder"
   },
   {
     "id": 320,
     "name": "Hunting near Hartenfels castle",
     "date": "1540",
-    "description": "- Lucas Cranach the Elder",
-    "tags": ["Germany", "Artefact", "Painting"],
+    "description": "",
+    "tags": ["Germany", "Painting"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lucas_Cranach_d.%C3%84._-_Hofjagd_bei_Schloss_Hartenfels.jpg/250px-Lucas_Cranach_d.%C3%84._-_Hofjagd_bei_Schloss_Hartenfels.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Lucas_Cranach_d.%C3%84._-_Hofjagd_bei_Schloss_Hartenfels.jpg"
-    }
+    },
+    "person": "Lucas Cranach the Elder"
   },
   {
     "id": 321,
     "name": "Allegory of Law and Grace",
     "date": "1529",
-    "description": "- Lucas Cranach the Elder",
-    "tags": ["Germany", "Artefact", "Painting"],
+    "description": "",
+    "tags": ["Germany", "Painting"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/1529_Cranach_Allegorie_auf_Gesetz_und_Gnade_anagoria.JPG/220px-1529_Cranach_Allegorie_auf_Gesetz_und_Gnade_anagoria.JPG",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/1529_Cranach_Allegorie_auf_Gesetz_und_Gnade_anagoria.JPG/1280px-1529_Cranach_Allegorie_auf_Gesetz_und_Gnade_anagoria.JPG"
-    }
+    },
+    "person": "Lucas Cranach the Elder"
   },
   {
     "id": 322,
     "name": "Judgement of Paris",
     "date": "1528",
-    "description": "- Lucas Cranach the Elder",
-    "tags": ["Germany", "Artefact", "Painting"],
+    "description": "",
+    "tags": ["Germany", "Painting"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Judgement_of_Paris_by_Lucas_Cranach_the_Elder_%281528%29.jpg/147px-Judgement_of_Paris_by_Lucas_Cranach_the_Elder_%281528%29.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Judgement_of_Paris_by_Lucas_Cranach_the_Elder_%281528%29.jpg/1024px-Judgement_of_Paris_by_Lucas_Cranach_the_Elder_%281528%29.jpg"
-    }
+    },
+    "person": "Lucas Cranach the Elder"
   },
   {
     "id": 323,
     "name": "Duke Henry the Pious",
     "date": "1514",
     "description": "- Lucas Cranach the Elder",
-    "tags": ["Germany", "Artefact", "Painting"],
+    "tags": ["Germany", "Painting"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Lucas_Cranach_the_Elder_-_Duke_Henry_the_Pious_-_Google_Art_Project.jpg/120px-Lucas_Cranach_the_Elder_-_Duke_Henry_the_Pious_-_Google_Art_Project.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Lucas_Cranach_the_Elder_-_Duke_Henry_the_Pious_-_Google_Art_Project.jpg/800px-Lucas_Cranach_the_Elder_-_Duke_Henry_the_Pious_-_Google_Art_Project.jpg"
@@ -2732,23 +2749,25 @@
     "id": 324,
     "name": "Judith with the head of Holofernes",
     "date": "1530",
-    "description": "- Lucas Cranach the Elder",
-    "tags": ["Germany", "Artefact", "Painting"],
+    "description": "",
+    "tags": ["Germany", "Painting"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Lucas_Cranach_d._%C3%84._-_Judith_Victorious_-_WGA05720.jpg/140px-Lucas_Cranach_d._%C3%84._-_Judith_Victorious_-_WGA05720.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/8/83/Lucas_Cranach_d._%C3%84._-_Judith_Victorious_-_WGA05720.jpg"
-    }
+    },
+    "person": "Lucas Cranach the Elder"
   },
   {
     "id": 325,
     "name": "Saint Jerome in His Study",
     "date": "1526",
-    "description": "- Lucas Cranach the Elder",
-    "tags": ["Germany", "Artefact", "Painting"],
+    "description": "",
+    "tags": ["Germany", "Painting"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CranachBrandenburgasJerome.jpg/250px-CranachBrandenburgasJerome.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CranachBrandenburgasJerome.jpg/1024px-CranachBrandenburgasJerome.jpg"
-    }
+    },
+    "person": "Lucas Cranach the Elder"
   },
   {
     "id": 326,
@@ -2766,7 +2785,7 @@
     "name": "Ceiling of the Sistine Chapel",
     "date": "1512",
     "description": "- Michelangelo",
-    "tags": ["Italy", "Artefact", "Painting"],
+    "tags": ["Italy", "Painting"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Italy-3214_%285387296511%29.jpg/220px-Italy-3214_%285387296511%29.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Italy-3214_%285387296511%29.jpg"
@@ -3097,10 +3116,10 @@
   },
   {
     "id": 357,
-    "name": "Portrait of Karl Marx",
+    "name": "Karl Marx, 57",
     "date": "1875",
     "description": "",
-    "tags": ["Artefact", "Photo"],
+    "tags": ["Photo"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Karl_Marx_001_%28rotated%29.jpg/250px-Karl_Marx_001_%28rotated%29.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Karl_Marx_001_%28rotated%29.jpg"
@@ -3295,14 +3314,15 @@
   },
   {
     "id": 375,
-    "name": "Pallas Athena",
+    "name": "Medicine",
     "date": "1907",
-    "description": "Gustav Klimt",
-    "tags": ["Austria", "Artefact", "Painting"],
+    "description": "Destroyed in 1945",
+    "tags": ["Austria", "Painting"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Klimtmedicinephoto.jpg/250px-Klimtmedicinephoto.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Klimtmedicinephoto.jpg"
-    }
+    },
+    "person": "Gustav Klimt"
   },
   {
     "id": 376,
@@ -3509,7 +3529,7 @@
     "name": "Statue of Liberty",
     "date": "1886",
     "description": "",
-    "tags": ["France", "Construct"],
+    "tags": ["France", "Construct", "United States"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Front_view_of_Statue_of_Liberty_with_pedestal_and_base_2024.jpg/250px-Front_view_of_Statue_of_Liberty_with_pedestal_and_base_2024.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/6/6e/EdwardMoran-UnveilingTheStatueofLiberty1886Large.jpg"
@@ -3708,23 +3728,25 @@
     "id": 412,
     "name": "Berry Pickers",
     "date": "1888",
-    "description": "Järnefelt",
-    "tags": ["Finland", "Artefact", "Painting"],
+    "description": "",
+    "tags": ["Finland", "Painting"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Eero_J%C3%A4rnefelt_-_Berry_Pickers.jpg/330px-Eero_J%C3%A4rnefelt_-_Berry_Pickers.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Eero_J%C3%A4rnefelt_-_Berry_Pickers.jpg/1280px-Eero_J%C3%A4rnefelt_-_Berry_Pickers.jpg"
-    }
+    },
+    "person": "Järnefelt"
   },
   {
     "id": 413,
     "name": "French Wine Bar",
     "date": "1888",
-    "description": "Järnefelt",
-    "tags": ["Finland", "Artefact", "Painting"],
+    "description": "",
+    "tags": ["Finland", "Painting"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Eero_J%C3%A4rnefelt_-_French_Wine_Bar.jpg/330px-Eero_J%C3%A4rnefelt_-_French_Wine_Bar.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Eero_J%C3%A4rnefelt_-_French_Wine_Bar.jpg/1280px-Eero_J%C3%A4rnefelt_-_French_Wine_Bar.jpg"
-    }
+    },
+    "person": "Järnefelt"
   },
   {
     "id": 414,
@@ -4095,7 +4117,7 @@
     "id": 447,
     "name": "First passenger railway",
     "date": "1830",
-    "description": "Liverpool - Manchester\n",
+    "description": "Liverpool - Manchester. The line had the first timetables for passengers and proper stations (with ticketing offices and platforms) and went on to prove the viability of rail transport.\n",
     "tags": ["Technology", "Construct"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/First_passenger_railway_1830.jpg/250px-First_passenger_railway_1830.jpg",
@@ -4942,7 +4964,7 @@
     "name": "Cherokee Chief Ostenaco",
     "date": "1763",
     "description": "",
-    "tags": ["England", "Artefact"],
+    "tags": ["England", "Illustration"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/5/54/Ostenaco.gif",
       "large": ""
@@ -6719,7 +6741,7 @@
     "name": "Emblematical Print on the South Sea Scheme",
     "date": "1721",
     "description": "",
-    "tags": ["England", "Artefact"],
+    "tags": ["England", "Illustration"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/William_Hogarth_-_The_South_Sea_Scheme.png/280px-William_Hogarth_-_The_South_Sea_Scheme.png",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/William_Hogarth_-_The_South_Sea_Scheme.png/1280px-William_Hogarth_-_The_South_Sea_Scheme.png"
@@ -6758,7 +6780,7 @@
     "name": "A Rake's Progress",
     "date": "1735",
     "description": "",
-    "tags": ["England", "Artefact"],
+    "tags": ["England", "Illustration"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/The_Rake%27s_Progress_8.jpg/250px-The_Rake%27s_Progress_8.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/The_Rake%27s_Progress_8.jpg/1280px-The_Rake%27s_Progress_8.jpg"
@@ -6784,7 +6806,7 @@
     "name": "The Fellow 'Prentices at their Looms",
     "date": "1747",
     "description": "Industry and Idleness Plate 1",
-    "tags": ["England", "Artefact"],
+    "tags": ["England", "Illustration"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/William_Hogarth_-_Industry_and_Idleness%2C_Plate_1%3B_The_Fellow_%27Prentices_at_their_Looms.png/250px-William_Hogarth_-_Industry_and_Idleness%2C_Plate_1%3B_The_Fellow_%27Prentices_at_their_Looms.png",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/William_Hogarth_-_Industry_and_Idleness%2C_Plate_1%3B_The_Fellow_%27Prentices_at_their_Looms.png/1280px-William_Hogarth_-_Industry_and_Idleness%2C_Plate_1%3B_The_Fellow_%27Prentices_at_their_Looms.png"
@@ -6797,7 +6819,7 @@
     "name": "Not fighting the Law, but scared of it!",
     "date": "1747",
     "description": "Industry and Idleness",
-    "tags": ["England", "Artefact"],
+    "tags": ["England", "Illustration"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/William_Hogarth_-_Industry_and_Idleness%2C_Plate_7%3B_The_Idle_%27Prentice_return%27d_from_Sea%2C_%26_in_a_Garret_with_common_Prostitute.png/220px-William_Hogarth_-_Industry_and_Idleness%2C_Plate_7%3B_The_Idle_%27Prentice_return%27d_from_Sea%2C_%26_in_a_Garret_with_common_Prostitute.png",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/William_Hogarth_-_Industry_and_Idleness%2C_Plate_7%3B_The_Idle_%27Prentice_return%27d_from_Sea%2C_%26_in_a_Garret_with_common_Prostitute.png/1280px-William_Hogarth_-_Industry_and_Idleness%2C_Plate_7%3B_The_Idle_%27Prentice_return%27d_from_Sea%2C_%26_in_a_Garret_with_common_Prostitute.png"
@@ -6810,7 +6832,7 @@
     "name": "Fulfilling the constant foreshadowing",
     "date": "1747",
     "description": "Industry and Idleness",
-    "tags": ["England", "Artefact"],
+    "tags": ["England", "Illustration"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/William_Hogarth_-_Industry_and_Idleness%2C_Plate_12%3B_The_Industrious_%27Prentice_Lord-Mayor_of_London.png/250px-William_Hogarth_-_Industry_and_Idleness%2C_Plate_12%3B_The_Industrious_%27Prentice_Lord-Mayor_of_London.png",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/William_Hogarth_-_Industry_and_Idleness%2C_Plate_12%3B_The_Industrious_%27Prentice_Lord-Mayor_of_London.png/1280px-William_Hogarth_-_Industry_and_Idleness%2C_Plate_12%3B_The_Industrious_%27Prentice_Lord-Mayor_of_London.png"
@@ -6823,7 +6845,7 @@
     "name": "First stage of cruelty",
     "date": "1751",
     "description": "The Four Stages of Cruelty was a series of four printed engravings published by English artist William Hogarth in 1751. Each print depicts a different stage in the life of the fictional Tom Nero.",
-    "tags": ["England", "Artefact"],
+    "tags": ["England", "Illustration"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/William_Hogarth_-_The_First_Stage_of_Cruelty-_Children_Torturing_Animals_-_Google_Art_Project.jpg/250px-William_Hogarth_-_The_First_Stage_of_Cruelty-_Children_Torturing_Animals_-_Google_Art_Project.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/William_Hogarth_-_The_First_Stage_of_Cruelty-_Children_Torturing_Animals_-_Google_Art_Project.jpg/1280px-William_Hogarth_-_The_First_Stage_of_Cruelty-_Children_Torturing_Animals_-_Google_Art_Project.jpg"
@@ -6836,7 +6858,7 @@
     "name": "Second stage of cruelty",
     "date": "1751",
     "description": "",
-    "tags": ["England", "Artefact"],
+    "tags": ["England", "Illustration"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/William_Hogarth_-_The_Second_Stage_of_Cruelty-_Coachman_Beating_a_Fallen_Horse_-_Google_Art_Project.jpg/200px-William_Hogarth_-_The_Second_Stage_of_Cruelty-_Coachman_Beating_a_Fallen_Horse_-_Google_Art_Project.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/William_Hogarth_-_The_Second_Stage_of_Cruelty-_Coachman_Beating_a_Fallen_Horse_-_Google_Art_Project.jpg/1280px-William_Hogarth_-_The_Second_Stage_of_Cruelty-_Coachman_Beating_a_Fallen_Horse_-_Google_Art_Project.jpg"
@@ -6849,7 +6871,7 @@
     "name": "Cruelty in perfection",
     "date": "1751",
     "description": "",
-    "tags": ["England", "Artefact"],
+    "tags": ["England", "Illustration"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Cruelty_in_Perfection_%28The_Four_Stages_of_Cruelty%29_MET_MM89843.jpg/250px-Cruelty_in_Perfection_%28The_Four_Stages_of_Cruelty%29_MET_MM89843.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Cruelty_in_Perfection_%28The_Four_Stages_of_Cruelty%29_MET_MM89843.jpg/1280px-Cruelty_in_Perfection_%28The_Four_Stages_of_Cruelty%29_MET_MM89843.jpg"
@@ -6862,7 +6884,7 @@
     "name": "The reward of cruelty",
     "date": "1751",
     "description": "",
-    "tags": ["England", "Artefact"],
+    "tags": ["England", "Illustration"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/The_Reward_of_Cruelty_%28The_Four_Stages_of_Cruelty%29_MET_DP835382.jpg/220px-The_Reward_of_Cruelty_%28The_Four_Stages_of_Cruelty%29_MET_DP835382.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/The_Reward_of_Cruelty_%28The_Four_Stages_of_Cruelty%29_MET_DP835382.jpg/1280px-The_Reward_of_Cruelty_%28The_Four_Stages_of_Cruelty%29_MET_DP835382.jpg"
@@ -6966,7 +6988,7 @@
     "name": "The Analysis of Beauty plate 1",
     "date": "1753",
     "description": "",
-    "tags": ["England", "Artefact"],
+    "tags": ["England", "Illustration"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Analysis_of_Beauty_Plate_1_by_William_Hogarth.jpg/220px-Analysis_of_Beauty_Plate_1_by_William_Hogarth.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Analysis_of_Beauty_Plate_1_by_William_Hogarth.jpg/1280px-Analysis_of_Beauty_Plate_1_by_William_Hogarth.jpg"
@@ -7161,7 +7183,7 @@
     "name": "satirical engraving of the radical politician John Wilkes",
     "date": "1763",
     "description": "",
-    "tags": ["England", "Artefact"],
+    "tags": ["England", "Illustration"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/John_Wilkes_Esq_by_William_Hogarth.JPG/250px-John_Wilkes_Esq_by_William_Hogarth.JPG",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/John_Wilkes_Esq_by_William_Hogarth.JPG/1280px-John_Wilkes_Esq_by_William_Hogarth.JPG"
@@ -7588,7 +7610,7 @@
     "name": "The Garroted Man",
     "date": "1780",
     "description": "Before 1780",
-    "tags": ["Spain", "Artefact", "Painting"],
+    "tags": ["Spain", "Illustration"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Goya_-_The_Garroted_Man.jpg/250px-Goya_-_The_Garroted_Man.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Goya_-_The_Garroted_Man.jpg/1024px-Goya_-_The_Garroted_Man.jpg"
@@ -7710,7 +7732,7 @@
     "name": "Tennis Court Oath",
     "date": "1792",
     "description": "",
-    "tags": ["France", "Artefact"],
+    "tags": ["France", "Illustration"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Le_Serment_du_Jeu_de_paume.jpg/250px-Le_Serment_du_Jeu_de_paume.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Le_Serment_du_Jeu_de_paume.jpg/1280px-Le_Serment_du_Jeu_de_paume.jpg"
@@ -7746,7 +7768,7 @@
     "name": "Marie Antoinette on the Way to the Guillotine",
     "date": "1793",
     "description": "Sketched from a window in the rue Sainte-Honoré while the cart went past.",
-    "tags": ["France", "Artefact"],
+    "tags": ["France", "Illustration"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Jacques-Louis_David_-_Marie_Antoinette_on_the_Way_to_the_Guillotine.jpg/250px-Jacques-Louis_David_-_Marie_Antoinette_on_the_Way_to_the_Guillotine.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/8/83/Jacques-Louis_David_-_Marie_Antoinette_on_the_Way_to_the_Guillotine.jpg"
@@ -9870,7 +9892,7 @@
     "name": "Bulletin advertising a performance of Paganini",
     "date": "1831",
     "description": "",
-    "tags": ["Artefact", "Advertisement"],
+    "tags": ["Illustration", "Advertisement"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Nicolo_Paganini_by_Richard_James_Lane.jpg/250px-Nicolo_Paganini_by_Richard_James_Lane.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Nicolo_Paganini_by_Richard_James_Lane.jpg/1024px-Nicolo_Paganini_by_Richard_James_Lane.jpg"
@@ -10196,7 +10218,7 @@
   },
   {
     "id": 938,
-    "name": "Dostoevsky 67",
+    "name": "Dostoevsky, 67",
     "date": "1879",
     "description": "",
     "tags": ["Artefact", "Photo"],
@@ -10668,7 +10690,7 @@
     "name": "David Bushnell's Turtle",
     "date": "1776",
     "description": "A cutaway depiction of David Bushnell's Turtle. Its paddle propeller has a different appearance than Archimedes' screw.",
-    "tags": ["Technology", "Seafaring", "Artefact"],
+    "tags": ["Technology", "Seafaring", "Illustration"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TurtleSubmarine.jpg/250px-TurtleSubmarine.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/c/c4/TurtleSubmarine.jpg"
@@ -10679,7 +10701,7 @@
     "name": "Nautilus",
     "date": "1800",
     "description": "",
-    "tags": ["Technology", "Seafaring", "Artefact"],
+    "tags": ["Technology", "Seafaring", "Illustration"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/FultonNautilus.jpg/250px-FultonNautilus.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/FultonNautilus.jpg/1280px-FultonNautilus.jpg"
@@ -10906,10 +10928,10 @@
   },
   {
     "id": 1000,
-    "name": "Illustrations of the interiors of the Oceanic-class ships",
+    "name": "Oceanic-class ship interiors",
     "date": "1875",
     "description": "",
-    "tags": ["England", "Artefact", "Illustration"],
+    "tags": ["England", "Illustration"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Oceanic_Class_Interior.png/330px-Oceanic_Class_Interior.png",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Oceanic_Class_Interior.png/1280px-Oceanic_Class_Interior.png"
@@ -11271,7 +11293,7 @@
   },
   {
     "id": 1030,
-    "name": "H. G. Wells 11",
+    "name": "H. G. Wells, 11",
     "date": "1877",
     "description": "Young Wells, \"Bertie\" as he was known, c. 1870s",
     "tags": ["Artefact", "Photo"],
@@ -11355,7 +11377,7 @@
   },
   {
     "id": 1037,
-    "name": "Theodore Roosevelt 18",
+    "name": "Theodore Roosevelt, 18",
     "date": "1877",
     "description": "Theodore Roosevelt as an undergraduate at Harvard University circa 1877.",
     "tags": ["Artefact", "Photo"],
@@ -11367,7 +11389,7 @@
   },
   {
     "id": 1038,
-    "name": "Theodore Roosevelt 26",
+    "name": "Theodore Roosevelt, 26",
     "date": "1885",
     "description": "Roosevelt as a Badlands hunter",
     "tags": ["Artefact", "Photo"],
@@ -11379,7 +11401,7 @@
   },
   {
     "id": 1039,
-    "name": "Theodore Roosevelt 39",
+    "name": "Theodore Roosevelt, 39",
     "date": "1898",
     "description": "Colonel Roosevelt",
     "tags": ["Artefact", "Photo", "War"],
@@ -11499,7 +11521,7 @@
   },
   {
     "id": 1049,
-    "name": " Cary Grant 37",
+    "name": " Cary Grant, 37",
     "date": "1941",
     "description": "Publicity still from Suspicion (1941)",
     "tags": ["Film", "Photo"],
@@ -11511,7 +11533,7 @@
   },
   {
     "id": 1050,
-    "name": "Clint Eastwood 34",
+    "name": "Clint Eastwood, 34",
     "date": "1964",
     "description": "As the Man with No Name in A Fistful of Dollars (1964)",
     "tags": ["Film", "Photo"],
@@ -11559,7 +11581,7 @@
   },
   {
     "id": 1054,
-    "name": "Gandhi 7",
+    "name": "Gandhi, 7",
     "date": "1876",
     "description": "",
     "tags": ["Photo"],
@@ -11716,7 +11738,7 @@
   },
   {
     "id": 1067,
-    "name": "Nelson Mandela 19",
+    "name": "Nelson Mandela, 19",
     "date": "1937",
     "description": "",
     "tags": ["Photo"],
@@ -11824,7 +11846,7 @@
   },
   {
     "id": 1076,
-    "name": "Che Guevara 32",
+    "name": "Che Guevara, 32",
     "date": "1960",
     "description": "",
     "tags": ["Photo"],
@@ -11836,7 +11858,7 @@
   },
   {
     "id": 1077,
-    "name": "Che Guevara 39",
+    "name": "Che Guevara, 39",
     "date": "1967",
     "description": "Shortly before his execution, with CIA agent Félix Rodríguez (left)",
     "tags": ["Photo", "War"],
@@ -12121,7 +12143,7 @@
   },
   {
     "id": 1100,
-    "name": "The Rhode Colossus",
+    "name": "The Rhodes Colossus",
     "date": "1892",
     "description": "",
     "tags": ["Illustration", "Cartoon", "Colonialism"],
@@ -12129,19 +12151,19 @@
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Punch_Rhodes_Colossus.png/270px-Punch_Rhodes_Colossus.png",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Punch_Rhodes_Colossus.png/1280px-Punch_Rhodes_Colossus.png"
     },
-    "person": "Edward Linley Sambourne"
+    "person": "Punch"
   },
   {
     "id": 1101,
     "name": "Colossus of the Pacific",
-    "date": "1898",
+    "date": "1898-8-24",
     "description": "An American cartoon published in 1898, titled Colossus of the Pacific; depicting US imperialism in Asia after the American victory in the Spanish–American War",
     "tags": ["Illustration", "Cartoon"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Colossus_of_the_Pacific.png/250px-Colossus_of_the_Pacific.png",
       "large": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Colossus_of_the_Pacific.png"
     },
-    "person": ""
+    "person": "Chicago Tribune"
   },
   {
     "id": 1102,
@@ -12203,10 +12225,10 @@
   },
   {
     "id": 1107,
-    "name": "Punch (magazine)",
+    "name": "Punch magazine",
     "date": "1841",
     "description": "Cover of the first Punch, or The London Charivari, depicts Punch hanging a caricatured Devil",
-    "tags": ["Illustration", "Cartoon"],
+    "tags": ["Illustration", "Cartoon", "UK"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Punch_volume_1_cover_%281841%29.png/250px-Punch_volume_1_cover_%281841%29.png",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Punch_volume_1_cover_%281841%29.png/1280px-Punch_volume_1_cover_%281841%29.png"
@@ -12217,13 +12239,13 @@
     "id": 1108,
     "name": "Father Christmas",
     "date": "1896",
-    "description": "Punch magazine",
+    "description": "",
     "tags": ["Illustration", "Cartoon"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Father_Christmas_Up-To-Date%2C_Punch%2C_Dec_1896.jpg/220px-Father_Christmas_Up-To-Date%2C_Punch%2C_Dec_1896.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/8/81/Father_Christmas_Up-To-Date%2C_Punch%2C_Dec_1896.jpg"
     },
-    "person": "John Tenniel"
+    "person": "Punch"
   },
   {
     "id": 1109,
@@ -12761,7 +12783,7 @@
   {
     "id": 1152,
     "name": "Celebration of the new Russian constitution",
-    "date": "1905",
+    "date": "1905-10-17",
     "description": "",
     "tags": ["Russia", "Painting"],
     "image": {
@@ -13407,7 +13429,7 @@
     "name": "Atomic bombings",
     "date": "1945-8-6",
     "description": "6 --> Hiroshima, 9 --> Nagasaki",
-    "tags": ["Technology", "Photo", "War"],
+    "tags": ["Technology", "Photo", "War", "Science"],
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Atomic_bombing_of_Japan.jpg/330px-Atomic_bombing_of_Japan.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Atomic_bombing_of_Japan.jpg/1280px-Atomic_bombing_of_Japan.jpg"
@@ -14440,7 +14462,7 @@
   },
   {
     "id": 1291,
-    "name": "Runeberg",
+    "name": "Runeberg kuollut",
     "date": "1877",
     "description": "Lived 1804 - 1877",
     "tags": ["People", "Finland", "News"],
@@ -17140,6 +17162,2187 @@
     "image": {
       "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/President_Ronald_Reagan_presents_Mother_Teresa_with_the_Medal_of_Freedom_at_a_White_House_Ceremony_in_the_Rose_Garden.jpg/250px-President_Ronald_Reagan_presents_Mother_Teresa_with_the_Medal_of_Freedom_at_a_White_House_Ceremony_in_the_Rose_Garden.jpg",
       "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/President_Ronald_Reagan_presents_Mother_Teresa_with_the_Medal_of_Freedom_at_a_White_House_Ceremony_in_the_Rose_Garden.jpg/1280px-President_Ronald_Reagan_presents_Mother_Teresa_with_the_Medal_of_Freedom_at_a_White_House_Ceremony_in_the_Rose_Garden.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1511,
+    "name": "Superman",
+    "date": "1938-6",
+    "description": "Debut in Action Comics 1",
+    "tags": ["Illustration", "Comics"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/en/5/5a/Action_Comics_1.jpg",
+      "large": ""
+    },
+    "person": ""
+  },
+  {
+    "id": 1512,
+    "name": "Batman",
+    "date": "1939-5",
+    "description": "Debut in Detective Comics 27",
+    "tags": ["Illustration", "Comics"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/en/b/bc/Detective_Comics_27_%28May_1939%29.png",
+      "large": ""
+    },
+    "person": ""
+  },
+  {
+    "id": 1513,
+    "name": "Conan the Barbarian",
+    "date": "1932-12",
+    "description": "Cover from the May 1934 issue of Weird Tales showing one of the first Conan stories",
+    "tags": ["Illustration", "Comics"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Weird_Tales_May_1934.jpg/250px-Weird_Tales_May_1934.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Weird_Tales_May_1934.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1514,
+    "name": "First Sino-Japanese War",
+    "date": "1894",
+    "description": "Chinese generals surrendering",
+    "tags": ["Illustration", "War", "Japan", "China"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Great_Victory_of_Pyongyang_and_Capture_of_Chinese_Qing_Generals_by_Migita_Toshihide_1894.jpg/960px-Great_Victory_of_Pyongyang_and_Capture_of_Chinese_Qing_Generals_by_Migita_Toshihide_1894.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Great_Victory_of_Pyongyang_and_Capture_of_Chinese_Qing_Generals_by_Migita_Toshihide_1894.jpg/1280px-Great_Victory_of_Pyongyang_and_Capture_of_Chinese_Qing_Generals_by_Migita_Toshihide_1894.jpg"
+    },
+    "person": "",
+    "end": "1895"
+  },
+  {
+    "id": 1515,
+    "name": "Dynamite advertisement",
+    "date": "1895",
+    "description": "In the 1890s",
+    "tags": ["Illustration", "War", "Advertisement"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Aetna_dynamite.jpg/250px-Aetna_dynamite.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Aetna_dynamite.jpg/1280px-Aetna_dynamite.jpg"
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1516,
+    "name": "Dynamite",
+    "date": "1866",
+    "description": "",
+    "tags": ["Technology", "War"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dynamite_Diagram.svg/250px-Dynamite_Diagram.svg.png",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dynamite_Diagram.svg/1280px-Dynamite_Diagram.svg.png"
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1517,
+    "name": "Desmond Tutu, 75",
+    "date": "1984",
+    "description": "Meeting with Ronald Reagan. Tutu described Reagan's administration as \"an unmitigated disaster for us blacks\", and Reagan himself as \"a racist pure and simple\".",
+    "tags": ["Photo", "People", "Religion"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Reagan_with_Desmond_TutuC26199-10.jpg/250px-Reagan_with_Desmond_TutuC26199-10.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Reagan_with_Desmond_TutuC26199-10.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1518,
+    "name": "Kim Ok-gyun",
+    "date": "1882",
+    "description": "Korean scholar-bureaucrat who actively participated to advance Western European ideas and sciences in Korea. His assassination in China would contribute to tensions leading to the First Sino-Japanese War.",
+    "tags": ["Photo", "War", "Korea", "Japan", "China", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kim_Ok-gyun.gif/250px-Kim_Ok-gyun.gif",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/6/69/Kim_Ok-gyun.gif"
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1519,
+    "name": "Hong Jong-u",
+    "date": "1895",
+    "description": "Korean reformer, activist and statesman, who assassinated Kim Okkyun in Shanghai in 1894. Photo taken ca. 1895 in Paris.",
+    "tags": ["Photo", "War", "Korea", "Japan", "China", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HongJongU.JPG/250px-HongJongU.JPG",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/6/65/HongJongU.JPG"
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1520,
+    "name": "Kapsin Coup",
+    "date": "1884-12-4",
+    "description": "A failed three-day coup d'état in Korea",
+    "tags": ["War", "Korea", "Revolution"],
+    "image": { "small": "", "large": "" },
+    "person": "",
+    "end": "1884-12-6"
+  },
+  {
+    "id": 1521,
+    "name": "Putting His Foot Down",
+    "date": "1899-8-23",
+    "description": "US cartoon showing European powers preparing to cut up China, while Uncle Sam objects.",
+    "tags": ["War", "China", "United States", "Cartoon"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Putting_his_foot_down.jpg/330px-Putting_his_foot_down.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Putting_his_foot_down.jpg/1280px-Putting_his_foot_down.jpg"
+    },
+    "person": "Puck",
+    "end": ""
+  },
+  {
+    "id": 1522,
+    "name": " Puck Building",
+    "date": "1885",
+    "description": "",
+    "tags": ["Construct", "United States"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Puck_Building_%2851660567363%29.jpg/330px-Puck_Building_%2851660567363%29.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Puck_Building_%2851660567363%29.jpg/1280px-Puck_Building_%2851660567363%29.jpg"
+    },
+    "end": "1886"
+  },
+  {
+    "id": 1523,
+    "name": "School Begins",
+    "date": "1899-1-25",
+    "description": "Uncle Sam (to his new class in Civilization). Now, children, you've got to learn these lessons whether you want to or not! But just take a look at the class ahead of you, and remember that, in a little while, you will feel as glad to be here as they are! Puck magazine.",
+    "tags": ["War", "China", "United States", "Cartoon"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/School_Begins_%28Puck_Magazine_1-25-1899%29.jpg/500px-School_Begins_%28Puck_Magazine_1-25-1899%29.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/School_Begins_%28Puck_Magazine_1-25-1899%29.jpg/1280px-School_Begins_%28Puck_Magazine_1-25-1899%29.jpg"
+    },
+    "person": "Puck",
+    "end": ""
+  },
+  {
+    "id": 1524,
+    "name": "En Chine Le gâteau des Rois et... des Empereurs",
+    "date": "1898-1-16",
+    "description": "A political cartoon depicting Victoria (United Kingdom), Wilhelm II (Germany), Nicholas II (Russia), Marianne (France), and Meiji (Japan) dividing Qing China like carving up a pie",
+    "tags": ["War", "China", "United States", "Cartoon"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/China_imperialism_cartoon.jpg/250px-China_imperialism_cartoon.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/China_imperialism_cartoon.jpg/1280px-China_imperialism_cartoon.jpg"
+    },
+    "person": "Le Petit Journal",
+    "end": ""
+  },
+  {
+    "id": 1525,
+    "name": "Beheading",
+    "date": "1894",
+    "description": "Japanese soldiers beheading Chinese prisoners during the First Sino-Japanese War",
+    "tags": ["Illustration", "War", "Japan", "China"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Illustration_of_the_Decapitation_of_Violent_Chinese_Soldiers_by_Utagawa_Kokunimasa_1894.png/250px-Illustration_of_the_Decapitation_of_Violent_Chinese_Soldiers_by_Utagawa_Kokunimasa_1894.png",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Illustration_of_the_Decapitation_of_Violent_Chinese_Soldiers_by_Utagawa_Kokunimasa_1894.png/1280px-Illustration_of_the_Decapitation_of_Violent_Chinese_Soldiers_by_Utagawa_Kokunimasa_1894.png"
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1526,
+    "name": "Foreign Soldiers in the Forbidden City",
+    "date": "1900",
+    "description": "Soldiers of the Eight-Nation Alliance (multinational military coalition that invaded northern China) in the Forbidden City",
+    "tags": ["Photo", "War", "China"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Within_historic_grounds_of_the_Forbidden_City_in_Pekin%2C_China%2C_on_November_28_celebrated_the_victory_of_the_Allies.%2C_ca._-_NARA_-_532582.jpg/250px-Within_historic_grounds_of_the_Forbidden_City_in_Pekin%2C_China%2C_on_November_28_celebrated_the_victory_of_the_Allies.%2C_ca._-_NARA_-_532582.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Within_historic_grounds_of_the_Forbidden_City_in_Pekin%2C_China%2C_on_November_28_celebrated_the_victory_of_the_Allies.%2C_ca._-_NARA_-_532582.jpg/1280px-Within_historic_grounds_of_the_Forbidden_City_in_Pekin%2C_China%2C_on_November_28_celebrated_the_victory_of_the_Allies.%2C_ca._-_NARA_-_532582.jpg"
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1527,
+    "name": "Boxer Rebellion",
+    "date": "1899-10-18",
+    "description": "The Boxer Rebellion, also known as the Boxer Uprising, was an anti-foreign, anti-imperialist, and anti-Christian uprising in North China",
+    "tags": ["Photo", "War", "China"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Boxer-tianjing-left.jpeg/330px-Boxer-tianjing-left.jpeg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/1/13/Boxer-tianjing-left.jpeg"
+    },
+    "person": "",
+    "end": "1901-9-7"
+  },
+  {
+    "id": 1528,
+    "name": "Kansu Braves",
+    "date": "1895",
+    "description": "a combined army division of 10,000 Chinese Muslim troops from the northwestern province of Kansu, recruited to suppress a Muslim revolt there",
+    "tags": ["Photo", "War", "China"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Chinese_Muslim_Kansu_Braves_1900_Boxer_Rebellion.jpg/250px-Chinese_Muslim_Kansu_Braves_1900_Boxer_Rebellion.jpg",
+      "large": ""
+    },
+    "person": "",
+    "end": "1901"
+  },
+  {
+    "id": 1529,
+    "name": "Eight Nations Alliance ",
+    "date": "1900",
+    "description": "Eight Nations Alliance soldiers that fought against the Boxer Rebellion in China, 1900",
+    "tags": ["Photo", "War", "China"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Boxer2y.jpg/250px-Boxer2y.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/4/49/Boxer2y.jpg"
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1530,
+    "name": "Boxer soldiers",
+    "date": "1900",
+    "description": "",
+    "tags": ["Photo", "War", "China"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BoxerSoldiers.jpg/220px-BoxerSoldiers.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/8/80/BoxerSoldiers.jpg"
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1531,
+    "name": "Russian officers in Manchuria",
+    "date": "1900",
+    "description": "",
+    "tags": ["Photo", "War", "China", "Russia"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Russian_soldiers_during_the_boxer_rebellion.jpg/250px-Russian_soldiers_during_the_boxer_rebellion.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Russian_soldiers_during_the_boxer_rebellion.jpg/1280px-Russian_soldiers_during_the_boxer_rebellion.jpg"
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1532,
+    "name": "Columbia's Easter Bonnet",
+    "date": "1901-4-6",
+    "description": "",
+    "tags": ["War", "United States", "Cartoon"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Puck_cover2.jpg/250px-Puck_cover2.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Puck_cover2.jpg/1280px-Puck_cover2.jpg"
+    },
+    "person": "Puck",
+    "end": ""
+  },
+  {
+    "id": 1533,
+    "name": "Go West!",
+    "date": "1881-3-30",
+    "description": "European Royalties: Go West! (after assassination of Alexander II of Russia), March 30, 1881",
+    "tags": ["Cartoon"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Puck_-_Carl_Edler_von_Stur_-_Go_West%21_1881-2.jpg/500px-Puck_-_Carl_Edler_von_Stur_-_Go_West%21_1881-2.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/4/41/Puck_-_Carl_Edler_von_Stur_-_Go_West%21_1881-2.jpg"
+    },
+    "person": "Puck",
+    "end": ""
+  },
+  {
+    "id": 1534,
+    "name": "Assassination of Alexander II",
+    "date": "1881-3-13",
+    "description": "",
+    "tags": ["Illustration", "Russia"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Alexander_II_of_Russia%27s_murder_02.jpg/250px-Alexander_II_of_Russia%27s_murder_02.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/6/60/Alexander_II_of_Russia%27s_murder_02.jpg"
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1535,
+    "name": "Gone to meet John Kelly",
+    "date": "1881-11-9",
+    "description": "Depicts Two Irish Catholic politicians in Hell. Puck was a German magazine and was against Catholics.",
+    "tags": ["Cartoon"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/PuckMagazineCoverGoneToMeetJohnKelly11091881.jpg/250px-PuckMagazineCoverGoneToMeetJohnKelly11091881.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/3/3b/PuckMagazineCoverGoneToMeetJohnKelly11091881.jpg"
+    },
+    "person": "Puck",
+    "end": ""
+  },
+  {
+    "id": 1536,
+    "name": "Monopoly",
+    "date": "1935",
+    "description": "The picture is of a lid from 1936 - 1941",
+    "tags": ["Product"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Small_Box_Monopoly.JPG/250px-Small_Box_Monopoly.JPG",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Small_Box_Monopoly.JPG"
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1537,
+    "name": "Dividing the Country",
+    "date": "1882-2",
+    "description": "German edition: Monopoly Millionaires Dividing the Country (William Henry Vanderbilt, Jay Gould, Cyrus West Field, Russell Sage; Andrew Carnegie)",
+    "tags": ["Cartoon"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/PUCK-Monopoly_Millionaires_Dividing_the_Country.jpg/405px-PUCK-Monopoly_Millionaires_Dividing_the_Country.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/c/c2/PUCK-Monopoly_Millionaires_Dividing_the_Country.jpg"
+    },
+    "person": "Puck",
+    "end": ""
+  },
+  {
+    "id": 1538,
+    "name": "Roosevelt as infant Hercules",
+    "date": "1906-5-23",
+    "description": "Grabbing the head of Nelson W. Aldrich and the snake-like body of John D. Rockefeller",
+    "tags": ["Cartoon"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/PuckCartoon-TeddyRoosevelt-05-23-1906.jpg/330px-PuckCartoon-TeddyRoosevelt-05-23-1906.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/f/fa/PuckCartoon-TeddyRoosevelt-05-23-1906.jpg"
+    },
+    "person": "Puck",
+    "end": ""
+  },
+  {
+    "id": 1539,
+    "name": "Rapid Transit to Sheol",
+    "date": "1888",
+    "description": "Where We Are All Going According to the Reverend Dr. Morgan Dix",
+    "tags": ["Cartoon"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Joseph_Ferdinand%2C_Keppler_Rapid_Transit_to_Sheol_1888_Cornell_CUL_PJM_1097_01.jpg/500px-Joseph_Ferdinand%2C_Keppler_Rapid_Transit_to_Sheol_1888_Cornell_CUL_PJM_1097_01.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Joseph_Ferdinand%2C_Keppler_Rapid_Transit_to_Sheol_1888_Cornell_CUL_PJM_1097_01.jpg/1280px-Joseph_Ferdinand%2C_Keppler_Rapid_Transit_to_Sheol_1888_Cornell_CUL_PJM_1097_01.jpg"
+    },
+    "person": "Puck",
+    "end": ""
+  },
+  {
+    "id": 1540,
+    "name": "Against the press",
+    "date": "1888",
+    "description": "",
+    "tags": ["Cartoon"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Puck112188c.jpg/250px-Puck112188c.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/d/db/Puck112188c.jpg"
+    },
+    "person": "Puck",
+    "end": ""
+  },
+  {
+    "id": 1541,
+    "name": "Awakening ",
+    "date": "1915",
+    "description": "(depicting the universal suffrage movement) by Henry \"Hy\" Mayer",
+    "tags": ["Cartoon"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Henry_Mayer%2C_The_Awakening%2C_1915_Cornell_CUL_PJM_1176_01_-_Restoration.jpg/452px-Henry_Mayer%2C_The_Awakening%2C_1915_Cornell_CUL_PJM_1176_01_-_Restoration.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Henry_Mayer%2C_The_Awakening%2C_1915_Cornell_CUL_PJM_1176_01_-_Restoration.jpg/1280px-Henry_Mayer%2C_The_Awakening%2C_1915_Cornell_CUL_PJM_1176_01_-_Restoration.jpg"
+    },
+    "person": "Puck",
+    "end": ""
+  },
+  {
+    "id": 1542,
+    "name": "Against copyright violations",
+    "date": "1886",
+    "description": "",
+    "tags": ["Cartoon"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Joseph_Ferdinand_Keppler_-_The_Pirate_Publisher_-_Puck_Magazine_-_Restoration_by_Adam_Cuerden.jpg/250px-Joseph_Ferdinand_Keppler_-_The_Pirate_Publisher_-_Puck_Magazine_-_Restoration_by_Adam_Cuerden.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Joseph_Ferdinand_Keppler_-_The_Pirate_Publisher_-_Puck_Magazine_-_Restoration_by_Adam_Cuerden.jpg/1280px-Joseph_Ferdinand_Keppler_-_The_Pirate_Publisher_-_Puck_Magazine_-_Restoration_by_Adam_Cuerden.jpg"
+    },
+    "person": "Puck",
+    "end": ""
+  },
+  {
+    "id": 1543,
+    "name": "Against color additives",
+    "date": "1885-1-7",
+    "description": "",
+    "tags": ["Cartoon"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Our_Mutual_Friend_by_Joseph_Keppler_1885_Puck_2017011.tif/lossy-page1-220px-Our_Mutual_Friend_by_Joseph_Keppler_1885_Puck_2017011.tif.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Our_Mutual_Friend_by_Joseph_Keppler_1885_Puck_2017011.tif/lossy-page1-1280px-Our_Mutual_Friend_by_Joseph_Keppler_1885_Puck_2017011.tif.jpg"
+    },
+    "person": "Puck",
+    "end": ""
+  },
+  {
+    "id": 1544,
+    "name": "Puck magazine",
+    "date": "1876",
+    "description": "The magazine was founded by German immigrants who were sympathetic to Otto von Bismarck who launched a major Kulturkampf against the Catholic Church in Germany. Puck especially targeted Irish Catholics in New York City, where they controlled Tammany Hall.",
+    "tags": ["Cartoon", "United States"],
+    "image": { "small": "", "large": "" },
+    "person": ""
+  },
+  {
+    "id": 1545,
+    "name": "Against Tammany",
+    "date": "1871-11-11",
+    "description": "Thomas Nast denounces Tammany as a ferocious tiger killing democracy. The image of a tiger was often used to represent the Tammany Hall political movement.",
+    "tags": ["Cartoon", "United States"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Nast-Tammany_crop.jpg/300px-Nast-Tammany_crop.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/3/36/Nast-Tammany_crop.jpg"
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1546,
+    "name": "Tammany Hall",
+    "date": "1789-5-12",
+    "description": "Became the main local political machine of the Democratic Party and played a major role in controlling New York City and New York state politics. It helped immigrants, most notably the Irish, rise in American politics from the 1850s into the 1960s.",
+    "tags": ["United States"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tammany_Hall_logo_crop.jpg/250px-Tammany_Hall_logo_crop.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/9/97/Tammany_Hall_logo_crop.jpg"
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1548,
+    "name": "Cartoon",
+    "date": "1843",
+    "description": "The term \"cartoon\" to refer to comic drawings was first used in Punch in 1843, when the Houses of Parliament were to be decorated with murals, and \"cartoons\" for the mural were displayed for the public; the term \"cartoon\" then meant a finished preliminary sketch on a large piece of cardboard, or cartone in Italian. Punch humorously appropriated the term to refer to its political cartoons, and the popularity of the Punch cartoons led to the term's widespread use.",
+    "tags": ["Cartoon"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/SubstanceandShadow.jpg/250px-SubstanceandShadow.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/SubstanceandShadow.jpg/1280px-SubstanceandShadow.jpg"
+    },
+    "person": "Punch"
+  },
+  {
+    "id": 1549,
+    "name": "Editorial meeting",
+    "date": "1890",
+    "description": "Editorial meeting of Punch magazine. Those present include George du Maurier (second from the left), John Tenniel (fifth from the left) and Phil May (right foreground).\n\nEarly 1890s (no later than October 1896)",
+    "tags": ["Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/PunchMagazineMeeting.jpg/250px-PunchMagazineMeeting.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/c/c1/PunchMagazineMeeting.jpg"
+    }
+  },
+  {
+    "id": 1550,
+    "name": "USS Indianapolis sinks",
+    "date": "1945-6-30",
+    "description": "900 are thought to have survived the initial sinking but only 316 survived the subsequent days adrift at sea, with dehydration, hypothermia and a slew of violent shark attacks.\n",
+    "tags": ["Photo", "War"],
+    "image": {
+      "small": "https://www.historyhit.com/app/uploads/2022/02/USS_Indianapolis-survivors_on_Guam.jpg",
+      "large": "https://www.historyhit.com/app/uploads/2022/02/USS_Indianapolis-survivors_on_Guam.jpg"
+    },
+    "end": ""
+  },
+  {
+    "id": 1551,
+    "name": "Bathing suit",
+    "date": "1916",
+    "description": "",
+    "tags": ["Cartoon"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/SharkCartoon2.jpg/180px-SharkCartoon2.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/b/bd/SharkCartoon2.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1552,
+    "name": "Jersey Shore shark attacks",
+    "date": "1916-7-15",
+    "description": "Attacks took place on 1-12 days of July",
+    "tags": ["News", "Terror", "Disaster"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/0/03/PhiladelphiaInquirerJuly151916.gif",
+      "large": ""
+    },
+    "person": "The Philadelphia Inquirer",
+    "end": ""
+  },
+  {
+    "id": 1553,
+    "name": "Hawthorne Works",
+    "date": "1907",
+    "description": "Opened in 1905",
+    "tags": ["United States", "Construct"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Hawthorne_Works_aerial_view_ca_1920_pg_2.jpg/500px-Hawthorne_Works_aerial_view_ca_1920_pg_2.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hawthorne_Works_aerial_view_ca_1920_pg_2.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1554,
+    "name": "Hawthorne Works",
+    "date": "1925",
+    "description": "Opened in 1905. At its peak of operations, Hawthorne employed 45,000 workers, producing large quantities of telephone equipment, but also a wide variety of consumer products. In addition to industrial plants, several on-site community amenities were provided to workers.",
+    "tags": ["United States", "Construct"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hawthorne%2C_Illinois_Works_of_the_Western_Electric_Company%2C_1925.jpg/480px-Hawthorne%2C_Illinois_Works_of_the_Western_Electric_Company%2C_1925.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hawthorne%2C_Illinois_Works_of_the_Western_Electric_Company%2C_1925.jpg/1280px-Hawthorne%2C_Illinois_Works_of_the_Western_Electric_Company%2C_1925.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1555,
+    "name": "Donald Trump, 18",
+    "date": "1964",
+    "description": "",
+    "tags": ["Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Donald_Trump_NYMA.jpg/250px-Donald_Trump_NYMA.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Donald_Trump_NYMA.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1556,
+    "name": "Donald Trump, 39",
+    "date": "1985",
+    "description": "With wife Ivana at a 1985 state dinner for King Fahd of Saudi Arabia",
+    "tags": ["Photo", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ivana_Trump_shakes_hands_with_Fahd_of_Saudi_Arabia.jpg/250px-Ivana_Trump_shakes_hands_with_Fahd_of_Saudi_Arabia.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ivana_Trump_shakes_hands_with_Fahd_of_Saudi_Arabia.jpg/1280px-Ivana_Trump_shakes_hands_with_Fahd_of_Saudi_Arabia.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1557,
+    "name": "Friedrich Trump, 46",
+    "date": "1915",
+    "description": "Donald Trump's grandfather. His father Fred is on the left at age 10.",
+    "tags": ["Photo", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Elisabeth_and_Friedrich_Trump_circa_1915.jpg/330px-Elisabeth_and_Friedrich_Trump_circa_1915.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/7/79/Elisabeth_and_Friedrich_Trump_circa_1915.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1558,
+    "name": "Friedrich Trump, 18",
+    "date": "1887",
+    "description": "Donald Trump's grandfather. He had emigrated to US in 1885.",
+    "tags": ["Photo", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Frederick_Trump_1887.jpg/250px-Frederick_Trump_1887.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/7/79/Elisabeth_and_Friedrich_Trump_circa_1915.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1559,
+    "name": "Friedrich Trump, 33",
+    "date": "1902",
+    "description": "Donald Trump's grandfather. Had Made his fortune by operating a restaurant and a brothel for Klondike miners in Whitehorse.\n\nIn 1901, Trump returned to Kallstadt and married Elisabeth Christ. As he had purportedly immigrated to the United States in order to evade conscription, the Bavarian Government stripped him of his citizenship in 1905. Consequently, he returned to the United States with his family.",
+    "tags": ["Photo", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Elisabeth_Christ_%26_Friedrich_Trump.jpg/250px-Elisabeth_Christ_%26_Friedrich_Trump.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Elisabeth_Christ_%26_Friedrich_Trump.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1560,
+    "name": "LSD",
+    "date": "1938",
+    "description": "",
+    "tags": ["Medicine", "Science"],
+    "image": { "small": "", "large": "" },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1561,
+    "name": "The Adventures of Pinocchio",
+    "date": "1883",
+    "description": "",
+    "tags": ["Literature", "Italy"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pinocchio.jpg/250px-Pinocchio.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/6/65/Pinocchio.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1562,
+    "name": "Edward VIII and Wallis Simpson",
+    "date": "1936-8",
+    "description": "In mediterranean, few months before his abdication in 10th of December.",
+    "tags": ["Photo", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/King_Edward_VIII_and_Mrs_Simpson_on_holiday_in_Yugoslavia%2C_1936.jpg/250px-King_Edward_VIII_and_Mrs_Simpson_on_holiday_in_Yugoslavia%2C_1936.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/King_Edward_VIII_and_Mrs_Simpson_on_holiday_in_Yugoslavia%2C_1936.jpg/1280px-King_Edward_VIII_and_Mrs_Simpson_on_holiday_in_Yugoslavia%2C_1936.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1563,
+    "name": "The Year of the Three Kings",
+    "date": "1936-12",
+    "description": "",
+    "tags": ["Photo", "People", "UK", "Postcard"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_year_of_the_three_Kings.jpg/250px-The_year_of_the_three_Kings.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/4/4a/The_year_of_the_three_Kings.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1564,
+    "name": "KKK",
+    "date": "1870",
+    "description": "Depiction of Ku Klux Klan in North Carolina in 1870, based on a photograph taken under the supervision of a federal officer who seized Klan costumes",
+    "tags": ["Illustration"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ku_Klux_Klan_costumes_in_North_Carolina_in_1870.jpg/250px-Ku_Klux_Klan_costumes_in_North_Carolina_in_1870.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/0/00/Ku_Klux_Klan_costumes_in_North_Carolina_in_1870.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1565,
+    "name": "KKK threat",
+    "date": "1868-9-1",
+    "description": "A cartoon threatening that the KKK will lynch scalawags (left) and carpetbaggers (right) on March 4, 1869, the day President Grant takes office. Tuscaloosa, Alabama.",
+    "tags": ["Illustration", "Cartoon"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kkk-carpetbagger-cartoon.jpg/250px-Kkk-carpetbagger-cartoon.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Kkk-carpetbagger-cartoon.jpg"
+    },
+    "person": "Independent Monitor"
+  },
+  {
+    "id": 1566,
+    "name": "KKK founder",
+    "date": "1864",
+    "description": "Nathan Bedford Forrest was a founding member and the first Grand Wizard of the post-Civil War Reconstruction-era Ku Klux Klan, serving from 1867 to 1869.",
+    "tags": ["Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/NathanBedfordForrest.jpg/250px-NathanBedfordForrest.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/NathanBedfordForrest.jpg/1024px-NathanBedfordForrest.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1567,
+    "name": "KKK in Queens",
+    "date": "1927",
+    "description": "A group of defiant Ku Klux Klan members is accosted by police in Queens on Memorial Day 1927; others stand by.",
+    "tags": ["Photo", "United States"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1927_Memorial_Day_parade_in_Queens_-_police_and_Klansmen.png/350px-1927_Memorial_Day_parade_in_Queens_-_police_and_Klansmen.png",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1927_Memorial_Day_parade_in_Queens_-_police_and_Klansmen.png/1280px-1927_Memorial_Day_parade_in_Queens_-_police_and_Klansmen.png"
+    },
+    "person": ""
+  },
+  {
+    "id": 1568,
+    "name": "A Princess of Mars",
+    "date": "1912-2",
+    "description": "First published in serialized form. Hardcover came out in 1917.",
+    "tags": ["Literature"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Princess_of_Mars_large.jpg/250px-Princess_of_Mars_large.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Princess_of_Mars_large.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1569,
+    "name": "Tarzan of the Apes",
+    "date": "1912-10",
+    "description": "First printed in the pulp magazine The All-Story before being released as a novel in June 1914.",
+    "tags": ["Literature"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/4/48/Tarzan_of_the_Apes_in_color.jpg",
+      "large": ""
+    },
+    "person": ""
+  },
+  {
+    "id": 1570,
+    "name": "John D. Rockefeller, 56",
+    "date": "1895",
+    "description": "",
+    "tags": ["Photo", "US"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Portrait_of_J._D._Rockefeller.jpg/250px-Portrait_of_J._D._Rockefeller.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Portrait_of_J._D._Rockefeller.jpg/1280px-Portrait_of_J._D._Rockefeller.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1571,
+    "name": "Cornelius Vanderbilt",
+    "date": "1846",
+    "description": "",
+    "tags": ["Painting", "People", "US"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Cornelius_Vanderbilt_1846_%28cropped%29.jpg/250px-Cornelius_Vanderbilt_1846_%28cropped%29.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/d/de/Cornelius_Vanderbilt_1846_%28cropped%29.jpg"
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1572,
+    "name": "Women's suffrage",
+    "date": "1895",
+    "description": "South Australian suffragist Catherine Helen Spence stood for office in 1897. In a first for the modern world, South Australia granted women the right to stand for Parliament in 1895.",
+    "tags": ["Photo", "Australia"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Catherine_Helen_Spence.jpg/250px-Catherine_Helen_Spence.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/7/74/Catherine_Helen_Spence.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1573,
+    "name": "Women's suffrage",
+    "date": "1930",
+    "description": "A Bermuda Police confiscates women's suffrage activist Gladys Morrell's table for not paying taxes, in protest for not being allowed to vote.",
+    "tags": ["Photo", "Politics"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/1930s_Gladys_Misick_Morrell_%26_Sergt_Henderson_%26_table_at_Cavello_Hill%2C_Bermuda.jpg/250px-1930s_Gladys_Misick_Morrell_%26_Sergt_Henderson_%26_table_at_Cavello_Hill%2C_Bermuda.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/1930s_Gladys_Misick_Morrell_%26_Sergt_Henderson_%26_table_at_Cavello_Hill%2C_Bermuda.jpg/1024px-1930s_Gladys_Misick_Morrell_%26_Sergt_Henderson_%26_table_at_Cavello_Hill%2C_Bermuda.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1574,
+    "name": "Women's suffrage",
+    "date": "1913-11-13",
+    "description": "After selling her home, British activist Emmeline Pankhurst travelled constantly, giving speeches throughout Britain and the United States. One of her most famous speeches, Freedom or death, was delivered in Connecticut in 1913.",
+    "tags": ["Photo", "Politics"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Emmeline_Pankhurst_addresses_crowd.jpg/330px-Emmeline_Pankhurst_addresses_crowd.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Emmeline_Pankhurst_addresses_crowd.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1575,
+    "name": "Women's suffrage",
+    "date": "1920-7-18",
+    "description": "Women's Rights meeting in Tokyo, to push for women's suffrage",
+    "tags": ["Photo", "Politics"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Woman%27s_Rights_Meeting_Tokyo.jpg/250px-Woman%27s_Rights_Meeting_Tokyo.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Woman%27s_Rights_Meeting_Tokyo.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1576,
+    "name": "Lucas Gassel",
+    "date": "1540",
+    "description": "Date unknown. Landscape with the return of the prodigal son",
+    "tags": ["Netherlands", "Artefact", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Lucas_Gassel_-_Landscape_with_the_return_of_the_prodigal_son.jpg/280px-Lucas_Gassel_-_Landscape_with_the_return_of_the_prodigal_son.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Lucas_Gassel_-_Landscape_with_the_return_of_the_prodigal_son.jpg/1280px-Lucas_Gassel_-_Landscape_with_the_return_of_the_prodigal_son.jpg"
+    },
+    "person": "Lucas Gassel"
+  },
+  {
+    "id": 1577,
+    "name": "The Coppermine",
+    "date": "1544",
+    "description": "",
+    "tags": ["Netherlands", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Lucas_Gassel_The_Coppermine.png/330px-Lucas_Gassel_The_Coppermine.png",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/4/43/Lucas_Gassel_The_Coppermine.png"
+    },
+    "person": "Lucas Gassel"
+  },
+  {
+    "id": 1578,
+    "name": "Bessemer process",
+    "date": "1856",
+    "description": "the first inexpensive industrial process for the mass production of steel from molten pig iron before the development of the open hearth furnace",
+    "tags": ["Technology", "Metallurgy"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bessemer_converter.jpg/330px-Bessemer_converter.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bessemer_converter.jpg"
+    }
+  },
+  {
+    "id": 1579,
+    "name": "Steel rails",
+    "date": "1857",
+    "description": "Enabled by the Bessemer process. First used in Britain.",
+    "tags": ["Technology"],
+    "image": { "small": "", "large": "" }
+  },
+  {
+    "id": 1580,
+    "name": "Rail coach",
+    "date": "1826-10-14",
+    "description": "The Union coach as shown in an advertisement",
+    "tags": ["Illustration", "Advertisement"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Stockton_%26_Darlington_Railway_Union_Coach.jpg/250px-Stockton_%26_Darlington_Railway_Union_Coach.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Stockton_%26_Darlington_Railway_Union_Coach.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1581,
+    "name": "Railway viaduct",
+    "date": "1844-7-20",
+    "description": "The Newcastle and Darlington Junction Railway crossed the Sherburn with a timber viaduct",
+    "tags": ["Illustration"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Timber_Viaduct_on_the_Darlington_%26_Newcastle_Railway.png/250px-Timber_Viaduct_on_the_Darlington_%26_Newcastle_Railway.png",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/5/55/Timber_Viaduct_on_the_Darlington_%26_Newcastle_Railway.png"
+    },
+    "person": ""
+  },
+  {
+    "id": 1582,
+    "name": "Railway timetable",
+    "date": "1856-12-25",
+    "description": "Christmas Day timetable",
+    "tags": ["Illustration", "Advertisement"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Stockton_%26_Darlington_Railway_-_Christmas_Day_1856_timetable.jpg/250px-Stockton_%26_Darlington_Railway_-_Christmas_Day_1856_timetable.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/4/44/Stockton_%26_Darlington_Railway_-_Christmas_Day_1856_timetable.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1583,
+    "name": "Locomotives",
+    "date": "1875",
+    "description": "The Exhibition of the Locomotives as shown in the Illustrated London News",
+    "tags": ["Illustration"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Exhibition_of_the_Locomotives_%28ILN%2C_en%29.jpg/250px-Exhibition_of_the_Locomotives_%28ILN%2C_en%29.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/en/9/91/Exhibition_of_the_Locomotives_%28ILN%2C_en%29.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1584,
+    "name": "Electric locomotive",
+    "date": "1837",
+    "description": "The first known electric locomotive was built in 1837 by chemist Robert Davidson of Aberdeen, and it was powered by galvanic cells (batteries).",
+    "tags": ["Technology"],
+    "image": { "small": "", "large": "" }
+  },
+  {
+    "id": 1585,
+    "name": "An electric locomotive",
+    "date": "1916",
+    "description": "Milwaukee Road class ES-2",
+    "tags": ["Technology", "Photo"],
+    "image": { "small": "", "large": "" }
+  },
+  {
+    "id": 1586,
+    "name": "Adolph Menzel, 85",
+    "date": "1900",
+    "description": "",
+    "tags": ["Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bundesarchiv_Bild_183-R30367%2C_Adolph_von_Menzel.jpg/250px-Bundesarchiv_Bild_183-R30367%2C_Adolph_von_Menzel.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bundesarchiv_Bild_183-R30367%2C_Adolph_von_Menzel.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1587,
+    "name": "The Iron Rolling Mill (Modern Cyclopes),",
+    "date": "1872",
+    "description": "",
+    "tags": ["Germany", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Adolph_Menzel_-_Eisenwalzwerk_-_Google_Art_Project.jpg/330px-Adolph_Menzel_-_Eisenwalzwerk_-_Google_Art_Project.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Adolph_Menzel_-_Eisenwalzwerk_-_Google_Art_Project.jpg/1280px-Adolph_Menzel_-_Eisenwalzwerk_-_Google_Art_Project.jpg"
+    },
+    "person": "Adolph Menzel",
+    "end": "1875"
+  },
+  {
+    "id": 1588,
+    "name": "Adolph Menzel, 24",
+    "date": "1839",
+    "description": "",
+    "tags": ["Germany", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Berlin%2C_Alte_Nationalgalerie%2C_Eduard_Meyerheim%2C_Portrait_des_jungen_Adolph_Menzel.JPG/250px-Berlin%2C_Alte_Nationalgalerie%2C_Eduard_Meyerheim%2C_Portrait_des_jungen_Adolph_Menzel.JPG",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Berlin%2C_Alte_Nationalgalerie%2C_Eduard_Meyerheim%2C_Portrait_des_jungen_Adolph_Menzel.JPG/1280px-Berlin%2C_Alte_Nationalgalerie%2C_Eduard_Meyerheim%2C_Portrait_des_jungen_Adolph_Menzel.JPG"
+    },
+    "person": "Dguendel",
+    "end": ""
+  },
+  {
+    "id": 1589,
+    "name": "Coronation of Wilhelm I",
+    "date": "1865",
+    "description": "",
+    "tags": ["Germany", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kr%C3%B6nung_1861.JPG/250px-Kr%C3%B6nung_1861.JPG",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kr%C3%B6nung_1861.JPG/1280px-Kr%C3%B6nung_1861.JPG"
+    },
+    "person": "Adolph Menzel",
+    "end": ""
+  },
+  {
+    "id": 1590,
+    "name": "Weekday in Paris",
+    "date": "1869",
+    "description": "",
+    "tags": ["Germany", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Adolf_Friedrich_Erdmann_von_Menzel_-_Pariser_Wochentag_-_museum_kunst_palast_D%C3%BCsseldorf.jpg/250px-Adolf_Friedrich_Erdmann_von_Menzel_-_Pariser_Wochentag_-_museum_kunst_palast_D%C3%BCsseldorf.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Adolf_Friedrich_Erdmann_von_Menzel_-_Pariser_Wochentag_-_museum_kunst_palast_D%C3%BCsseldorf.jpg"
+    },
+    "person": "Adolph Menzel",
+    "end": ""
+  },
+  {
+    "id": 1591,
+    "name": "Supper at the Ball",
+    "date": "1878",
+    "description": "",
+    "tags": ["Germany", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/MenzelAdolph_Ballsouper02.JPG/250px-MenzelAdolph_Ballsouper02.JPG",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/MenzelAdolph_Ballsouper02.JPG/1280px-MenzelAdolph_Ballsouper02.JPG"
+    },
+    "person": "Adolph Menzel",
+    "end": ""
+  },
+  {
+    "id": 1592,
+    "name": "At the Beer Garden",
+    "date": "1883",
+    "description": "",
+    "tags": ["Germany", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/At_the_beer_garden_%281883%29_-_Adolf_Friedrich_Erdmann_von_Menzel_%28Museum_Georg_Sch%C3%A4fer%29.jpg/200px-At_the_beer_garden_%281883%29_-_Adolf_Friedrich_Erdmann_von_Menzel_%28Museum_Georg_Sch%C3%A4fer%29.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/At_the_beer_garden_%281883%29_-_Adolf_Friedrich_Erdmann_von_Menzel_%28Museum_Georg_Sch%C3%A4fer%29.jpg/1280px-At_the_beer_garden_%281883%29_-_Adolf_Friedrich_Erdmann_von_Menzel_%28Museum_Georg_Sch%C3%A4fer%29.jpg"
+    },
+    "person": "Adolph Menzel",
+    "end": ""
+  },
+  {
+    "id": 1593,
+    "name": "Japanese Artist at Work",
+    "date": "1886",
+    "description": "",
+    "tags": ["Germany", "Japan", "Illustration"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Adolph_Menzel%2C_Japanese_Artist_at_Work%2C_1886%2C_NGA_52630.jpg/250px-Adolph_Menzel%2C_Japanese_Artist_at_Work%2C_1886%2C_NGA_52630.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Adolph_Menzel%2C_Japanese_Artist_at_Work%2C_1886%2C_NGA_52630.jpg/1280px-Adolph_Menzel%2C_Japanese_Artist_at_Work%2C_1886%2C_NGA_52630.jpg"
+    },
+    "person": "Adolph Menzel",
+    "end": ""
+  },
+  {
+    "id": 1594,
+    "name": "Self-portrait",
+    "date": "1887",
+    "description": "",
+    "tags": ["Netherlands", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg/250px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg/1280px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg"
+    },
+    "person": "Vincent van Gogh"
+  },
+  {
+    "id": 1595,
+    "name": "Vincent van Gogh, 30",
+    "date": "1873",
+    "description": "",
+    "tags": ["Photo", "Netherlands"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Vincent_van_Gogh_January_1873_%28restored%29.jpg/250px-Vincent_van_Gogh_January_1873_%28restored%29.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Vincent_van_Gogh_January_1873_%28restored%29.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1596,
+    "name": "Skull of a Skeleton with Burning Cigarette",
+    "date": "1885",
+    "description": "",
+    "tags": ["Netherlands", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vincent_van_Gogh_-_Head_of_a_skeleton_with_a_burning_cigarette_-_Google_Art_Project.jpg/250px-Vincent_van_Gogh_-_Head_of_a_skeleton_with_a_burning_cigarette_-_Google_Art_Project.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vincent_van_Gogh_-_Head_of_a_skeleton_with_a_burning_cigarette_-_Google_Art_Project.jpg/1280px-Vincent_van_Gogh_-_Head_of_a_skeleton_with_a_burning_cigarette_-_Google_Art_Project.jpg"
+    },
+    "person": "Vincent van Gogh",
+    "end": "1886"
+  },
+  {
+    "id": 1597,
+    "name": "The Potato Eaters",
+    "date": "1885",
+    "description": "",
+    "tags": ["Netherlands", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Van-willem-vincent-gogh-die-kartoffelesser-03850.jpg/250px-Van-willem-vincent-gogh-die-kartoffelesser-03850.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Van-willem-vincent-gogh-die-kartoffelesser-03850.jpg/1280px-Van-willem-vincent-gogh-die-kartoffelesser-03850.jpg"
+    },
+    "person": "Vincent van Gogh",
+    "end": ""
+  },
+  {
+    "id": 1598,
+    "name": "Courtesan",
+    "date": "1887",
+    "description": "",
+    "tags": ["Netherlands", "Painting", "Japonisme"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Van_Gogh_-_la_courtisane.jpg/120px-Van_Gogh_-_la_courtisane.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Van_Gogh_-_la_courtisane.jpg/1024px-Van_Gogh_-_la_courtisane.jpg"
+    },
+    "person": "Vincent van Gogh",
+    "end": ""
+  },
+  {
+    "id": 1599,
+    "name": "The Night Café",
+    "date": "1888",
+    "description": "",
+    "tags": ["Netherlands", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Le_caf%C3%A9_de_nuit_%28The_Night_Caf%C3%A9%29_by_Vincent_van_Gogh.jpeg/250px-Le_caf%C3%A9_de_nuit_%28The_Night_Caf%C3%A9%29_by_Vincent_van_Gogh.jpeg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Le_caf%C3%A9_de_nuit_%28The_Night_Caf%C3%A9%29_by_Vincent_van_Gogh.jpeg/1280px-Le_caf%C3%A9_de_nuit_%28The_Night_Caf%C3%A9%29_by_Vincent_van_Gogh.jpeg"
+    },
+    "person": "Vincent van Gogh",
+    "end": ""
+  },
+  {
+    "id": 1600,
+    "name": "Café Terrace at Night",
+    "date": "1888",
+    "description": "",
+    "tags": ["Netherlands", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Vincent_Willem_van_Gogh_-_Cafe_Terrace_at_Night_%28Yorck%29.jpg/250px-Vincent_Willem_van_Gogh_-_Cafe_Terrace_at_Night_%28Yorck%29.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Vincent_Willem_van_Gogh_-_Cafe_Terrace_at_Night_%28Yorck%29.jpg/1280px-Vincent_Willem_van_Gogh_-_Cafe_Terrace_at_Night_%28Yorck%29.jpg"
+    },
+    "person": "Vincent van Gogh",
+    "end": ""
+  },
+  {
+    "id": 1601,
+    "name": "Van Gogh's self-mutilation",
+    "date": "1888-12-30",
+    "description": "Local newspaper report",
+    "tags": ["People", "News"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Le_Forum_R%C3%A9publicain_%28Arles%29_-_30_December_1888_-_Vincent_van_Gogh_ear_incident.jpg/250px-Le_Forum_R%C3%A9publicain_%28Arles%29_-_30_December_1888_-_Vincent_van_Gogh_ear_incident.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Le_Forum_R%C3%A9publicain_%28Arles%29_-_30_December_1888_-_Vincent_van_Gogh_ear_incident.jpg"
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1602,
+    "name": "Van Gogh's self-mutilation",
+    "date": "1889-1",
+    "description": "Portrait of Doctor Rey and a note written by him for novelist Irving Stone with sketches of the damage to Van Gogh's ear",
+    "tags": ["People", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Felix_Rey_portrait_%26_sketch.jpg/250px-Felix_Rey_portrait_%26_sketch.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/0/09/Felix_Rey_portrait_%26_sketch.jpg"
+    },
+    "person": "Vincent van Gogh",
+    "end": ""
+  },
+  {
+    "id": 1603,
+    "name": "Self-portrait with Bandaged Ear and Pipe",
+    "date": "1889",
+    "description": "",
+    "tags": ["People", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Van_Gogh_-_Selbstbildnis_mit_verbundenem_Ohr_und_Pfeife.jpeg/250px-Van_Gogh_-_Selbstbildnis_mit_verbundenem_Ohr_und_Pfeife.jpeg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Van_Gogh_-_Selbstbildnis_mit_verbundenem_Ohr_und_Pfeife.jpeg/1280px-Van_Gogh_-_Selbstbildnis_mit_verbundenem_Ohr_und_Pfeife.jpeg"
+    },
+    "person": "Vincent van Gogh",
+    "end": ""
+  },
+  {
+    "id": 1604,
+    "name": "Ward in the Hospital in Arles",
+    "date": "1889",
+    "description": "",
+    "tags": ["People", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Ward_in_the_Hospital_in_Arles.jpg/250px-Ward_in_the_Hospital_in_Arles.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Ward_in_the_Hospital_in_Arles.jpg/1280px-Ward_in_the_Hospital_in_Arles.jpg"
+    },
+    "person": "Vincent van Gogh",
+    "end": ""
+  },
+  {
+    "id": 1605,
+    "name": "The Starry Night",
+    "date": "1889-6",
+    "description": "",
+    "tags": ["Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VanGogh-starry_night_ballance1.jpg/330px-VanGogh-starry_night_ballance1.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VanGogh-starry_night_ballance1.jpg/1280px-VanGogh-starry_night_ballance1.jpg"
+    },
+    "person": "Vincent van Gogh",
+    "end": ""
+  },
+  {
+    "id": 1606,
+    "name": "At Eternity's Gate",
+    "date": "1890-5",
+    "description": "Van Gogh committed suicide few month's after completing this painting, in 1890-7-29.",
+    "tags": ["Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/At_Eternity%27s_Gate_-_Vincent_Van_Gogh.jpg/330px-At_Eternity%27s_Gate_-_Vincent_Van_Gogh.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/At_Eternity%27s_Gate_-_Vincent_Van_Gogh.jpg/1280px-At_Eternity%27s_Gate_-_Vincent_Van_Gogh.jpg"
+    },
+    "person": "Vincent van Gogh",
+    "end": ""
+  },
+  {
+    "id": 1607,
+    "name": "The Starry Night",
+    "date": "1890-6",
+    "description": "Van Gogh committed suicide some weeks after completing this painting, in 1890-7-29.",
+    "tags": ["Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Vincent_van_Gogh_-_The_Church_in_Auvers-sur-Oise%2C_View_from_the_Chevet_-_Google_Art_Project.jpg/250px-Vincent_van_Gogh_-_The_Church_in_Auvers-sur-Oise%2C_View_from_the_Chevet_-_Google_Art_Project.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Vincent_van_Gogh_-_The_Church_in_Auvers-sur-Oise%2C_View_from_the_Chevet_-_Google_Art_Project.jpg/1280px-Vincent_van_Gogh_-_The_Church_in_Auvers-sur-Oise%2C_View_from_the_Chevet_-_Google_Art_Project.jpg"
+    },
+    "person": "Vincent van Gogh",
+    "end": ""
+  },
+  {
+    "id": 1608,
+    "name": "Starry Night Over the Rhône",
+    "date": "1888",
+    "description": "",
+    "tags": ["Netherlands", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Vincent_van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/250px-Vincent_van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Vincent_van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Vincent_van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
+    },
+    "person": "Vincent van Gogh",
+    "end": ""
+  },
+  {
+    "id": 1609,
+    "name": "Portrait of Artist's Mother",
+    "date": "1888-10",
+    "description": "",
+    "tags": ["Netherlands", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Van_Gogh_-_Bildnis_der_Mutter_des_K%C3%BCnstlers.jpeg/250px-Van_Gogh_-_Bildnis_der_Mutter_des_K%C3%BCnstlers.jpeg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Van_Gogh_-_Bildnis_der_Mutter_des_K%C3%BCnstlers.jpeg/1280px-Van_Gogh_-_Bildnis_der_Mutter_des_K%C3%BCnstlers.jpeg"
+    },
+    "person": "Vincent van Gogh",
+    "end": ""
+  },
+  {
+    "id": 1610,
+    "name": "Eugène Boch",
+    "date": "1888",
+    "description": "",
+    "tags": ["Netherlands", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Vincent_van_Gogh_-_Eug%C3%A8ne_Boch_-_Google_Art_Project.jpg/120px-Vincent_van_Gogh_-_Eug%C3%A8ne_Boch_-_Google_Art_Project.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Vincent_van_Gogh_-_Eug%C3%A8ne_Boch_-_Google_Art_Project.jpg/1280px-Vincent_van_Gogh_-_Eug%C3%A8ne_Boch_-_Google_Art_Project.jpg"
+    },
+    "person": "Vincent van Gogh",
+    "end": ""
+  },
+  {
+    "id": 1611,
+    "name": "La Berceuse",
+    "date": "1889",
+    "description": "",
+    "tags": ["People", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Vincent_Willem_van_Gogh_084.jpg/250px-Vincent_Willem_van_Gogh_084.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Vincent_Willem_van_Gogh_084.jpg/1280px-Vincent_Willem_van_Gogh_084.jpg"
+    },
+    "person": "Vincent van Gogh",
+    "end": ""
+  },
+  {
+    "id": 1612,
+    "name": "Self-portrait",
+    "date": "1889-9",
+    "description": "",
+    "tags": ["Netherlands", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Self-Portrait_%28Van_Gogh_September_1889%29.jpg/250px-Self-Portrait_%28Van_Gogh_September_1889%29.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Self-Portrait_%28Van_Gogh_September_1889%29.jpg/1280px-Self-Portrait_%28Van_Gogh_September_1889%29.jpg"
+    },
+    "person": "Vincent van Gogh"
+  },
+  {
+    "id": 1613,
+    "name": "Madonna",
+    "date": "1853",
+    "description": "Cimabue's Celebrated Madonna Is Carried in Procession Through the Streets of Florence, 1853–1855",
+    "tags": ["England", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Frederic_Leighton_-_Cimabue%27s_Madonna_Carried_in_Procession_-_Google_Art_Project_2.jpg/250px-Frederic_Leighton_-_Cimabue%27s_Madonna_Carried_in_Procession_-_Google_Art_Project_2.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Frederic_Leighton_-_Cimabue%27s_Madonna_Carried_in_Procession_-_Google_Art_Project_2.jpg/1280px-Frederic_Leighton_-_Cimabue%27s_Madonna_Carried_in_Procession_-_Google_Art_Project_2.jpg"
+    },
+    "person": "Frederic Leighton",
+    "end": "1855"
+  },
+  {
+    "id": 1614,
+    "name": "After Vespers",
+    "date": "1871",
+    "description": "",
+    "tags": ["England", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lord_Leighton%2C_Frederic%2C_After_Vespers%2C_1871.jpg/238px-Lord_Leighton%2C_Frederic%2C_After_Vespers%2C_1871.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/0/06/Lord_Leighton%2C_Frederic%2C_After_Vespers%2C_1871.jpg"
+    },
+    "person": "Frederic Leighton",
+    "end": ""
+  },
+  {
+    "id": 1615,
+    "name": "Émile Zola, 58",
+    "date": "1898",
+    "description": "",
+    "tags": ["Photo", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/%C3%89mile_Zola_par_Paul_Nadar.jpg/250px-%C3%89mile_Zola_par_Paul_Nadar.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/%C3%89mile_Zola_par_Paul_Nadar.jpg/1024px-%C3%89mile_Zola_par_Paul_Nadar.jpg"
+    }
+  },
+  {
+    "id": 1616,
+    "name": "Émile Zola, 25",
+    "date": "1865",
+    "description": "",
+    "tags": ["Photo", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/%C3%89mile_Zola_by_Carjat.jpg/250px-%C3%89mile_Zola_by_Carjat.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/%C3%89mile_Zola_by_Carjat.jpg/1280px-%C3%89mile_Zola_by_Carjat.jpg"
+    }
+  },
+  {
+    "id": 1617,
+    "name": "Dreyfus affair",
+    "date": "1894-12",
+    "description": "Captain Alfred Dreyfus, a French artillery officer of Jewish descent, was wrongfully convicted of treason for communicating French military secrets to the Germans. He was sentenced to life imprisonment and sent overseas to the penal colony on Devil's Island in French Guiana, where he spent the following five years imprisoned in very harsh conditions. In 1906, Dreyfus was exonerated.",
+    "tags": ["Photo", "France", "Event"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Alfred_Dreyfus_%281859-1935%29_-_photo_originale.jpg/250px-Alfred_Dreyfus_%281859-1935%29_-_photo_originale.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Alfred_Dreyfus_%281859-1935%29_-_photo_originale.jpg"
+    },
+    "person": "",
+    "end": "1906"
+  },
+  {
+    "id": 1618,
+    "name": "Arthur Schopenhauer, 71",
+    "date": "1859",
+    "description": "",
+    "tags": ["Photo", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg/250px-Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg/1280px-Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1619,
+    "name": "Murder of Bobby Franks",
+    "date": "1924",
+    "description": "by Leopold and Loeb who were inspired by Nietzsche",
+    "tags": ["Photo", "Event", "Crime"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bundesarchiv_Bild_102-12794%2C_Nathan_Leopold_und_Richard_Loeb.jpg/290px-Bundesarchiv_Bild_102-12794%2C_Nathan_Leopold_und_Richard_Loeb.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bundesarchiv_Bild_102-12794%2C_Nathan_Leopold_und_Richard_Loeb.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1620,
+    "name": "Nietzsche, 16",
+    "date": "1861",
+    "description": "",
+    "tags": ["Photo", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Nietzsche1861.jpg",
+      "large": ""
+    },
+    "person": ""
+  },
+  {
+    "id": 1621,
+    "name": "Nietzsche, 30",
+    "date": "1875",
+    "description": "",
+    "tags": ["Photo", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nietzsche187a.jpg/250px-Nietzsche187a.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nietzsche187a.jpg/1280px-Nietzsche187a.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1622,
+    "name": "Nietzsche, 37",
+    "date": "1882",
+    "description": "",
+    "tags": ["Photo", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Nietzsche_paul-ree_lou-von-salome188.jpg/250px-Nietzsche_paul-ree_lou-von-salome188.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Nietzsche_paul-ree_lou-von-salome188.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1623,
+    "name": "Nietzsche, 37",
+    "date": "1882",
+    "description": "",
+    "tags": ["Photo", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Nietzsche1882.jpg/250px-Nietzsche1882.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/2/23/Nietzsche1882.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1624,
+    "name": "Nietzsche, 54",
+    "date": "1899",
+    "description": "In the care of his sister",
+    "tags": ["Photo", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Nietzsche_Olde_05.JPG/250px-Nietzsche_Olde_05.JPG",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Nietzsche_Olde_05.JPG/1280px-Nietzsche_Olde_05.JPG"
+    },
+    "person": ""
+  },
+  {
+    "id": 1625,
+    "name": "Hegel, 61",
+    "date": "1831",
+    "description": "",
+    "tags": ["Painting", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/1831_Schlesinger_Philosoph_Georg_Friedrich_Wilhelm_Hegel_anagoria.JPG/250px-1831_Schlesinger_Philosoph_Georg_Friedrich_Wilhelm_Hegel_anagoria.JPG",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/1831_Schlesinger_Philosoph_Georg_Friedrich_Wilhelm_Hegel_anagoria.JPG/1280px-1831_Schlesinger_Philosoph_Georg_Friedrich_Wilhelm_Hegel_anagoria.JPG"
+    },
+    "person": "Jakob Schlesinger"
+  },
+  {
+    "id": 1626,
+    "name": "The Phenomenology of Spirit",
+    "date": "1807",
+    "description": "",
+    "tags": ["Germany", "Literature"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ph%C3%A4nomenologie_des_Geistes.jpg/250px-Ph%C3%A4nomenologie_des_Geistes.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/9/93/Ph%C3%A4nomenologie_des_Geistes.jpg"
+    },
+    "person": "Hegel"
+  },
+  {
+    "id": 1627,
+    "name": "The Sluggard",
+    "date": "1885",
+    "description": "",
+    "tags": ["England", "Sculpture"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Frederic_Lord_Leighton-The_Sluggard-Victoria_and_Albert_Museum.jpg/250px-Frederic_Lord_Leighton-The_Sluggard-Victoria_and_Albert_Museum.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Frederic_Lord_Leighton-The_Sluggard-Victoria_and_Albert_Museum.jpg/1280px-Frederic_Lord_Leighton-The_Sluggard-Victoria_and_Albert_Museum.jpg"
+    },
+    "person": "Frederic Leighton",
+    "end": ""
+  },
+  {
+    "id": 1628,
+    "name": "Biondina",
+    "date": "1879",
+    "description": "",
+    "tags": ["England", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Frederick_Leighton_-_Biondina.jpg/250px-Frederick_Leighton_-_Biondina.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Frederick_Leighton_-_Biondina.jpg/1280px-Frederick_Leighton_-_Biondina.jpg"
+    },
+    "person": "Frederic Leighton",
+    "end": ""
+  },
+  {
+    "id": 1629,
+    "name": "The Gay Science",
+    "date": "1882",
+    "description": "",
+    "tags": ["Literature", "Germany"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/FW82.jpg/250px-FW82.jpg",
+      "large": ""
+    },
+    "person": "Nietzsche"
+  },
+  {
+    "id": 1630,
+    "name": "Ecce Homo",
+    "date": "1888",
+    "description": "",
+    "tags": ["Literature", "Germany"],
+    "image": { "small": "", "large": "" },
+    "person": "Nietzsche"
+  },
+  {
+    "id": 1631,
+    "name": "Turin–Milan Hours",
+    "date": "1380",
+    "description": "A partially destroyed illuminated manuscript, which despite its name is not strictly a book of hours. Work on the manuscript began around 1380 or 1390, and over the course of almost sixty years involved a variety of artists, assistants and patrons during perhaps seven separate campaigns of work. Some of the works are attributed to an artist known as \"Hand G\" who was probably either Jan van Eyck, his brother Hubert van Eyck, or an artist very closely associated with them.",
+    "tags": ["Netherland", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/14th-century_painters_-_Les_Tr%C3%A8s_Belles_Heures_de_Notre_Dame_de_Jean_de_Berry_-_WGA16014.jpg/220px-14th-century_painters_-_Les_Tr%C3%A8s_Belles_Heures_de_Notre_Dame_de_Jean_de_Berry_-_WGA16014.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/14th-century_painters_-_Les_Tr%C3%A8s_Belles_Heures_de_Notre_Dame_de_Jean_de_Berry_-_WGA16014.jpg/1280px-14th-century_painters_-_Les_Tr%C3%A8s_Belles_Heures_de_Notre_Dame_de_Jean_de_Berry_-_WGA16014.jpg"
+    },
+    "person": "Jan van Eyck",
+    "end": "1440"
+  },
+  {
+    "id": 1632,
+    "name": "At the Moulin Rouge",
+    "date": "1892",
+    "description": "",
+    "tags": ["France", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Henri_de_Toulouse-Lautrec_-_At_the_Moulin_Rouge_-_Google_Art_Project.jpg/250px-Henri_de_Toulouse-Lautrec_-_At_the_Moulin_Rouge_-_Google_Art_Project.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Henri_de_Toulouse-Lautrec_-_At_the_Moulin_Rouge_-_Google_Art_Project.jpg/1280px-Henri_de_Toulouse-Lautrec_-_At_the_Moulin_Rouge_-_Google_Art_Project.jpg"
+    },
+    "person": "Toulouse-Lautrec",
+    "end": ""
+  },
+  {
+    "id": 1633,
+    "name": "Two Women Waltzing",
+    "date": "1892",
+    "description": "At the Moulin Rouge",
+    "tags": ["France", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Henri_de_Toulouse-Lautrec%2C_1892%2C_Deux_femmes_dansant_au_Moulin-Rouge%2C_oil_on_cardboard%2C_93_x_80_cm%2C_National_Gallery_in_Prague.jpg/250px-Henri_de_Toulouse-Lautrec%2C_1892%2C_Deux_femmes_dansant_au_Moulin-Rouge%2C_oil_on_cardboard%2C_93_x_80_cm%2C_National_Gallery_in_Prague.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Henri_de_Toulouse-Lautrec%2C_1892%2C_Deux_femmes_dansant_au_Moulin-Rouge%2C_oil_on_cardboard%2C_93_x_80_cm%2C_National_Gallery_in_Prague.jpg/1280px-Henri_de_Toulouse-Lautrec%2C_1892%2C_Deux_femmes_dansant_au_Moulin-Rouge%2C_oil_on_cardboard%2C_93_x_80_cm%2C_National_Gallery_in_Prague.jpg"
+    },
+    "person": "Toulouse-Lautrec",
+    "end": ""
+  },
+  {
+    "id": 1634,
+    "name": "At the Moulin Rouge",
+    "date": "1890",
+    "description": "",
+    "tags": ["France", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Henri_de_Toulouse-Lautrec%2C_French_-_At_the_Moulin_Rouge-_The_Dance_-_Google_Art_Project.jpg/250px-Henri_de_Toulouse-Lautrec%2C_French_-_At_the_Moulin_Rouge-_The_Dance_-_Google_Art_Project.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Henri_de_Toulouse-Lautrec%2C_French_-_At_the_Moulin_Rouge-_The_Dance_-_Google_Art_Project.jpg/1280px-Henri_de_Toulouse-Lautrec%2C_French_-_At_the_Moulin_Rouge-_The_Dance_-_Google_Art_Project.jpg"
+    },
+    "person": "Toulouse-Lautrec",
+    "end": ""
+  },
+  {
+    "id": 1635,
+    "name": "Équestrienne",
+    "date": "1888",
+    "description": "At the Circus Fernando",
+    "tags": ["France", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Lautrec_equestrienne_%28at_the_cirque_fernando%29_1887-8.jpg/250px-Lautrec_equestrienne_%28at_the_cirque_fernando%29_1887-8.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/7/71/Lautrec_equestrienne_%28at_the_cirque_fernando%29_1887-8.jpg"
+    },
+    "person": "Toulouse-Lautrec",
+    "end": ""
+  },
+  {
+    "id": 1636,
+    "name": "La Goulue",
+    "date": "1892",
+    "description": "Arriving at the Moulin Rouge",
+    "tags": ["France", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Toulouse-Lautrec_-_La_Goulue_arrivant_au_Moulin_Rouge.jpg/250px-Toulouse-Lautrec_-_La_Goulue_arrivant_au_Moulin_Rouge.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Toulouse-Lautrec_-_La_Goulue_arrivant_au_Moulin_Rouge.jpg"
+    },
+    "person": "Toulouse-Lautrec",
+    "end": ""
+  },
+  {
+    "id": 1637,
+    "name": "In Bed",
+    "date": "1893",
+    "description": "",
+    "tags": ["France", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Lautrec_in_bed_1893.jpg/250px-Lautrec_in_bed_1893.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Lautrec_in_bed_1893.jpg/1280px-Lautrec_in_bed_1893.jpg"
+    },
+    "person": "Toulouse-Lautrec",
+    "end": ""
+  },
+  {
+    "id": 1638,
+    "name": "Bolero",
+    "date": "1895",
+    "description": "Marcelle Lender Dancing the Bolero in \"Chilpéric\"",
+    "tags": ["France", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Marcelle_Lender_Dancing_the_Bolero_in_Chilp%C3%A9ric_A24275.jpg/250px-Marcelle_Lender_Dancing_the_Bolero_in_Chilp%C3%A9ric_A24275.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Marcelle_Lender_Dancing_the_Bolero_in_Chilp%C3%A9ric_A24275.jpg/1280px-Marcelle_Lender_Dancing_the_Bolero_in_Chilp%C3%A9ric_A24275.jpg"
+    },
+    "person": "Toulouse-Lautrec",
+    "end": "1896"
+  },
+  {
+    "id": 1639,
+    "name": "Brothel",
+    "date": "1894",
+    "description": "The Medical Inspection at the Rue des Moulins Brothel",
+    "tags": ["France", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Rue_des_Moulins%2C_1894_sc001208.jpg/250px-Rue_des_Moulins%2C_1894_sc001208.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Rue_des_Moulins%2C_1894_sc001208.jpg/1280px-Rue_des_Moulins%2C_1894_sc001208.jpg"
+    },
+    "person": "Toulouse-Lautrec",
+    "end": ""
+  },
+  {
+    "id": 1640,
+    "name": "Toulouse-Lautrec, 30",
+    "date": "1894",
+    "description": "",
+    "tags": ["Photo", "France", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Photolautrec.jpg/250px-Photolautrec.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Photolautrec.jpg/1024px-Photolautrec.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1641,
+    "name": "Mr. Toulouse paints Mr. Lautrec",
+    "date": "1891",
+    "description": "A photomontage",
+    "tags": ["Photo", "France", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Guibert_2.jpg/250px-Guibert_2.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Guibert_2.jpg/1280px-Guibert_2.jpg"
+    },
+    "person": "Maurice Guibert"
+  },
+  {
+    "id": 1642,
+    "name": "Toulouse-Lautrec",
+    "date": "1895",
+    "description": "With a nude model in his studio",
+    "tags": ["Photo", "France", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Toulouse-Lautrec_in_his_workshop_with_a_nude_model_%28photo_by_Maurice_Guibert%29.jpg/250px-Toulouse-Lautrec_in_his_workshop_with_a_nude_model_%28photo_by_Maurice_Guibert%29.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Toulouse-Lautrec_in_his_workshop_with_a_nude_model_%28photo_by_Maurice_Guibert%29.jpg/1280px-Toulouse-Lautrec_in_his_workshop_with_a_nude_model_%28photo_by_Maurice_Guibert%29.jpg"
+    },
+    "person": "Maurice Guibert"
+  },
+  {
+    "id": 1643,
+    "name": "Toulouse-Lautrec, 28",
+    "date": "1892",
+    "description": "",
+    "tags": ["Photo", "France", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Guibert_3.jpg/120px-Guibert_3.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Guibert_3.jpg/1024px-Guibert_3.jpg"
+    },
+    "person": "Maurice Guibert"
+  },
+  {
+    "id": 1644,
+    "name": "Toulouse-Lautrec, 23",
+    "date": "1887",
+    "description": "",
+    "tags": ["Photo", "France", "People", "Japonisme"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Guibert_5.jpg/250px-Guibert_5.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Guibert_5.jpg"
+    },
+    "person": "Maurice Guibert"
+  },
+  {
+    "id": 1645,
+    "name": "Gustav Klimt, 52",
+    "date": "1914",
+    "description": "\n",
+    "tags": ["Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Klimt.jpg/250px-Klimt.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Klimt.jpg"
+    }
+  },
+  {
+    "id": 1646,
+    "name": "Gustav Klimt, 25",
+    "date": "1887",
+    "description": "\n",
+    "tags": ["Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Gustav_Klimt_in_1887.jpg/250px-Gustav_Klimt_in_1887.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Gustav_Klimt_in_1887.jpg"
+    }
+  },
+  {
+    "id": 1647,
+    "name": "Hygieia",
+    "date": "1907",
+    "description": "Destroyed in 1945",
+    "tags": ["Austria", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Gustav_Klimt%27s_Hygieia.jpg/250px-Gustav_Klimt%27s_Hygieia.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Gustav_Klimt%27s_Hygieia.jpg/1024px-Gustav_Klimt%27s_Hygieia.jpg"
+    },
+    "person": "Gustav Klimt"
+  },
+  {
+    "id": 1648,
+    "name": "Girlfriends",
+    "date": "1916",
+    "description": "Destroyed in 1945",
+    "tags": ["Austria", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gustav_Klimt_021.jpg/250px-Gustav_Klimt_021.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gustav_Klimt_021.jpg/1280px-Gustav_Klimt_021.jpg"
+    },
+    "person": "Gustav Klimt",
+    "end": "1917"
+  },
+  {
+    "id": 1649,
+    "name": "Sonja Knips",
+    "date": "1898",
+    "description": "",
+    "tags": ["Austria", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gustav_Klimt_058.jpg/250px-Gustav_Klimt_058.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gustav_Klimt_058.jpg/1280px-Gustav_Klimt_058.jpg"
+    },
+    "person": "Gustav Klimt"
+  },
+  {
+    "id": 1650,
+    "name": "Lady with a Fan",
+    "date": "1917",
+    "description": "Klimt's last painting",
+    "tags": ["Austria", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gustav_Klimt_058.jpg/250px-Gustav_Klimt_058.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gustav_Klimt_058.jpg/1280px-Gustav_Klimt_058.jpg"
+    },
+    "person": "Gustav Klimt",
+    "end": "1918"
+  },
+  {
+    "id": 1651,
+    "name": "Prince William Nil Nortey Dowuona",
+    "date": "1897",
+    "description": "",
+    "tags": ["Austria", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/El_pr%C3%ADncipe_Guillermo_Nii_Nortey_Dowuona_-_Gustav_Klimt.jpg/250px-El_pr%C3%ADncipe_Guillermo_Nii_Nortey_Dowuona_-_Gustav_Klimt.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/4/42/El_pr%C3%ADncipe_Guillermo_Nii_Nortey_Dowuona_-_Gustav_Klimt.jpg"
+    },
+    "person": "Gustav Klimt",
+    "end": ""
+  },
+  {
+    "id": 1652,
+    "name": "Gustav Klimt",
+    "date": "1914",
+    "description": "An early colour photo taken of Klimt using Autochrome technology, 1910s",
+    "tags": ["Photo"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Friedrich_Walker%2C_plaque_autochrome-Lumi%C3%A8re%2C_Gustav_Klimt_vers_1910.jpg/250px-Friedrich_Walker%2C_plaque_autochrome-Lumi%C3%A8re%2C_Gustav_Klimt_vers_1910.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/2/29/Friedrich_Walker%2C_plaque_autochrome-Lumi%C3%A8re%2C_Gustav_Klimt_vers_1910.jpg"
+    }
+  },
+  {
+    "id": 1653,
+    "name": "Picasso, 7",
+    "date": "1889",
+    "description": "With his sister Lola",
+    "tags": ["Photo", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Pablo_Picasso_with_his_sister_Lola%2C_1889.jpg/250px-Pablo_Picasso_with_his_sister_Lola%2C_1889.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/1/14/Pablo_Picasso_with_his_sister_Lola%2C_1889.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1654,
+    "name": "Picasso, 22",
+    "date": "1904",
+    "description": "",
+    "tags": ["Photo", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pablo_Picasso%2C_1904%2C_Paris%2C_photograph_by_Ricard_Canals_i_Llamb%C3%AD_cut.jpg/250px-Pablo_Picasso%2C_1904%2C_Paris%2C_photograph_by_Ricard_Canals_i_Llamb%C3%AD_cut.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/4/49/Pablo_Picasso%2C_1904%2C_Paris%2C_photograph_by_Ricard_Canals_i_Llamb%C3%AD_cut.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1655,
+    "name": "Picasso, 80",
+    "date": "1962",
+    "description": "",
+    "tags": ["Photo", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/250px-Pablo_picasso_1.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/9/98/Pablo_picasso_1.jpg"
+    },
+    "person": ""
+  },
+  {
+    "id": 1656,
+    "name": "La Vie",
+    "date": "1903",
+    "description": "",
+    "tags": ["Spain", "Painting"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Picasso_la_vie.jpg/250px-Picasso_la_vie.jpg",
+      "large": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Picasso_la_vie.jpg/1024px-Picasso_la_vie.jpg"
+    },
+    "person": "Picasso",
+    "end": ""
+  },
+  {
+    "id": 1657,
+    "name": "Tiananmen Square protests and massacre",
+    "date": "1989-4-15",
+    "description": "Photo taken day after the government of China had cleared the square of protesters, in 1989-6-5.",
+    "tags": ["Protest", "China"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/en/d/dd/Tank_Man_%28Tiananmen_Square_protester%29.jpg",
+      "large": ""
+    },
+    "person": "",
+    "end": "1989-6-4"
+  },
+  {
+    "id": 1658,
+    "name": "Bohr model",
+    "date": "1913",
+    "description": "",
+    "tags": ["Science"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bohr_atom_model.svg/310px-Bohr_atom_model.svg.png",
+      "large": ""
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1659,
+    "name": "Special relativity",
+    "date": "1905",
+    "description": "",
+    "tags": ["Science"],
+    "image": {
+      "small": "https://wikimedia.org/api/rest_v1/media/math/render/svg/9f73dbd37a0cac34406ee89057fa1b36a1e6a18e",
+      "large": ""
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1660,
+    "name": "Rutherford model",
+    "date": "1911",
+    "description": "",
+    "tags": ["Science"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Rutherford_atomic_planetary_model.svg/250px-Rutherford_atomic_planetary_model.svg.png",
+      "large": ""
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1661,
+    "name": " Plum pudding model",
+    "date": "1904",
+    "description": "J. J. Thomson",
+    "tags": ["Science"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Thomson_atom_seven_electrons.svg/250px-Thomson_atom_seven_electrons.svg.png",
+      "large": ""
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1662,
+    "name": "Planck constant",
+    "date": "1900",
+    "description": "",
+    "tags": ["Science"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Black_body.svg/500px-Black_body.svg.png",
+      "large": ""
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1663,
+    "name": "Alpha & Beta rays",
+    "date": "1899",
+    "description": "Rutherford",
+    "tags": ["Science"],
+    "image": { "small": "", "large": "" },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1664,
+    "name": "Electromagnetism",
+    "date": "1873",
+    "description": "James Clerk Maxwell's publishes A Treatise on Electricity and Magnetism",
+    "tags": ["Science"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/A_Treatise_on_Electricity_and_Magnetism_Volume_2_003.jpg/250px-A_Treatise_on_Electricity_and_Magnetism_Volume_2_003.jpg",
+      "large": ""
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1665,
+    "name": "Stern–Gerlach experiment",
+    "date": "1922",
+    "description": "Demonstrated that the spatial orientation of angular momentum is quantized. Thus an atomic-scale system was shown to have intrinsically quantum properties.",
+    "tags": ["Science"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Stern-Gerlach_experiment.svg/500px-Stern-Gerlach_experiment.svg.png",
+      "large": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Stern-Gerlach_experiment.svg/1280px-Stern-Gerlach_experiment.svg.png"
+    }
+  },
+  {
+    "id": 1666,
+    "name": "Schrödinger equation",
+    "date": "1926",
+    "description": "A partial differential equation that governs the wave function of a non-relativistic quantum-mechanical system",
+    "tags": ["Science"],
+    "image": {
+      "small": "https://wikimedia.org/api/rest_v1/media/math/render/svg/1799e4a910c7d26396922a20ef5ceec25ca1871c",
+      "large": ""
+    }
+  },
+  {
+    "id": 1667,
+    "name": "Feynman diagram",
+    "date": "1948",
+    "description": "",
+    "tags": ["Science"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Feynmann_Diagram_Gluon_Radiation.svg/340px-Feynmann_Diagram_Gluon_Radiation.svg.png",
+      "large": ""
+    }
+  },
+  {
+    "id": 1668,
+    "name": "Higgs Boson",
+    "date": "1964",
+    "description": "Peter Higgs, along with five other scientists in three teams, proposed the Higgs mechanism, a way for some particles to acquire mass.",
+    "tags": ["Science"],
+    "image": { "small": "", "large": "" },
+    "person": ""
+  },
+  {
+    "id": 1669,
+    "name": "Modern quantum mechanics",
+    "date": "1925",
+    "description": "Building on de Broglie's approach, modern quantum mechanics was born in 1925, when the German physicists Werner Heisenberg, Max Born, and Pascual Jordan developed matrix mechanics and the Austrian physicist Erwin Schrödinger invented wave mechanics.",
+    "tags": ["Science"],
+    "image": { "small": "", "large": "" }
+  },
+  {
+    "id": 1670,
+    "name": "Niels Bohr, 36",
+    "date": "1922",
+    "description": "",
+    "tags": ["Science", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Niels_Bohr.jpg/250px-Niels_Bohr.jpg",
+      "large": ""
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1671,
+    "name": "Max Planck, 43",
+    "date": "1901",
+    "description": "",
+    "tags": ["Science", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Max_Planck_1901.GIF/250px-Max_Planck_1901.GIF",
+      "large": ""
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1672,
+    "name": "Ernest Rutherford, 55",
+    "date": "1925",
+    "description": "1920s",
+    "tags": ["Science", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sir_Ernest_Rutherford_LCCN2014716719_-_restoration1.jpg/250px-Sir_Ernest_Rutherford_LCCN2014716719_-_restoration1.jpg",
+      "large": ""
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1673,
+    "name": "Erwin Schrödinger, 45",
+    "date": "1933",
+    "description": "",
+    "tags": ["Science", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Erwin_Schr%C3%B6dinger_%281933%29.jpg/250px-Erwin_Schr%C3%B6dinger_%281933%29.jpg",
+      "large": ""
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1674,
+    "name": "Richard Feynman, 47",
+    "date": "1965",
+    "description": "",
+    "tags": ["Science", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Richard_Feynman_Nobel.jpg/250px-Richard_Feynman_Nobel.jpg",
+      "large": ""
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1675,
+    "name": "James Clerk Maxwell, 44",
+    "date": "1875",
+    "description": "1870s",
+    "tags": ["Science", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/James-Clerk-Maxwell-1831-1879.jpg/250px-James-Clerk-Maxwell-1831-1879.jpg",
+      "large": ""
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1676,
+    "name": "Michael Faraday, 63",
+    "date": "1855",
+    "description": "1850s",
+    "tags": ["Science", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Michael_Faraday_sitting_crop.jpg/250px-Michael_Faraday_sitting_crop.jpg",
+      "large": ""
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1677,
+    "name": "Ludwig Boltzmann, 56",
+    "date": "1902",
+    "description": "",
+    "tags": ["Science", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Boltzmann2.jpg/250px-Boltzmann2.jpg",
+      "large": ""
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1678,
+    "name": "Einstein, 26",
+    "date": "1905",
+    "description": "",
+    "tags": ["Science", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Einstein_patentoffice.jpg/250px-Einstein_patentoffice.jpg",
+      "large": ""
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1679,
+    "name": "Young's interference experiment",
+    "date": "1803",
+    "description": "Thomas Young described his experiment in 1803. The image shows Thomas Young's sketch of interference based on observations of water waves. ",
+    "tags": ["Illustration", "Science"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Young_Diffraction.png/250px-Young_Diffraction.png",
+      "large": ""
+    },
+    "person": ""
+  },
+  {
+    "id": 1680,
+    "name": "Electromagnetic induction",
+    "date": "1831",
+    "description": "Michael Faraday is generally credited with the discovery of induction in 1831",
+    "tags": ["Science"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Induction_experiment.png/330px-Induction_experiment.png",
+      "large": ""
+    },
+    "person": ""
+  },
+  {
+    "id": 1681,
+    "name": "Uncertainty principle",
+    "date": "1927",
+    "description": "First introduced in 1927 by German physicist Werner Heisenberg, the formal inequality relating the standard deviation of position σx and the standard deviation of momentum σp was derived by Earle Hesse Kennard later that year and by Hermann Weyl in 1928.",
+    "tags": ["Science"],
+    "image": {
+      "small": "https://wikimedia.org/api/rest_v1/media/math/render/svg/dfad4605bd5cc074dba10330bd766f60b113fa1b",
+      "large": ""
+    }
+  },
+  {
+    "id": 1682,
+    "name": "Werner Heisenberg, 31",
+    "date": "1933",
+    "description": "",
+    "tags": ["Science", "People"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bundesarchiv_Bild183-R57262%2C_Werner_Heisenberg.jpg/250px-Bundesarchiv_Bild183-R57262%2C_Werner_Heisenberg.jpg",
+      "large": ""
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1683,
+    "name": "Wave-particle duality of light",
+    "date": "1905",
+    "description": "Einstein",
+    "tags": ["Science"],
+    "image": { "small": "", "large": "" },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1684,
+    "name": "Wave-particle duality of matter",
+    "date": "1924",
+    "description": "Louis de Broglie introduced his theory of electron waves in his PhD thesis Recherches sur la théorie des quanta",
+    "tags": ["Science"],
+    "image": {
+      "small": "https://wikimedia.org/api/rest_v1/media/math/render/svg/25ae59ad6fb050fbb5a803b838468a29e69c4615",
+      "large": ""
+    },
+    "person": "",
+    "end": ""
+  },
+  {
+    "id": 1685,
+    "name": "Pauli exclusion principle",
+    "date": "1925",
+    "description": "two or more identical particles with half-integer spins (i.e. fermions) cannot simultaneously occupy the same quantum state within a system that obeys the laws of quantum mechanics",
+    "tags": ["Science"],
+    "image": { "small": "", "large": "" }
+  },
+  {
+    "id": 1686,
+    "name": "Aufbau principle",
+    "date": "1922",
+    "description": "\"Formulated by Niels Bohr in the early 1920s\"",
+    "tags": ["Science"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Aufbau_animated.png/250px-Aufbau_animated.png",
+      "large": ""
+    }
+  },
+  {
+    "id": 1687,
+    "name": "Human genome mapped and sequenced",
+    "date": "2003",
+    "description": "Human Genome Project started in 1990 and was completed in 2003.",
+    "tags": ["Technology"]
+  },
+  {
+    "id": 1688,
+    "name": "DNA",
+    "date": "1951",
+    "description": "",
+    "tags": ["Science"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Phosphate_backbone.jpg/330px-Phosphate_backbone.jpg",
+      "large": ""
+    },
+    "person": ""
+  },
+  {
+    "id": 1689,
+    "name": "Hamiltonian mechanics",
+    "date": "1833",
+    "description": "Serves as a link between classical and quantum mechanics.",
+    "tags": ["Science"],
+    "image": { "small": "", "large": "" },
+    "person": ""
+  },
+  {
+    "id": 1690,
+    "name": "William Rowan Hamilton, 60",
+    "date": "1865",
+    "description": "Date of the picture unknown but Hamilton died at 60, and looks to be very close to that in the picture.",
+    "tags": ["Science"],
+    "image": {
+      "small": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/William_Rowan_Hamilton_portrait_oval_combined.png/250px-William_Rowan_Hamilton_portrait_oval_combined.png",
+      "large": ""
     },
     "person": ""
   }
